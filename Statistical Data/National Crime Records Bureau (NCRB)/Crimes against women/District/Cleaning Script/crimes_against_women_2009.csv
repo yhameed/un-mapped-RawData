@@ -1,0 +1,733 @@
+,state_ut,district,year,rape,kidnapping_abduction,dowry_deaths,assault_intnt_outrage_modesty,inslt_modesty_women,cruelty_husban_reltvs,in_trafficking
+5869,andhra pradesh,adilabad,2009,67,56,13,192,163,428,0
+5870,andhra pradesh,anantapur,2009,22,60,14,157,13,143,0
+5871,andhra pradesh,chittoor,2009,33,46,19,120,268,333,0
+5872,andhra pradesh,cuddapah,2009,27,47,17,165,52,124,0
+5873,andhra pradesh,cyberabad,2009,82,113,46,173,155,991,0
+5874,andhra pradesh,east godavari,2009,47,60,23,196,178,440,0
+5875,andhra pradesh,guntakal rly.,2009,0,0,0,3,1,0,0
+5876,andhra pradesh,guntur,2009,40,62,26,340,451,720,0
+5877,andhra pradesh,hyderabad city,2009,47,55,36,295,63,1363,0
+5878,andhra pradesh,karimnagar,2009,48,106,40,292,234,635,0
+5879,andhra pradesh,khammam,2009,98,96,18,205,152,519,0
+5880,andhra pradesh,krishna,2009,43,35,14,297,130,402,0
+5881,andhra pradesh,kurnool,2009,31,73,17,398,365,239,0
+5882,andhra pradesh,mahaboobnagar,2009,74,101,24,215,75,299,0
+5883,andhra pradesh,medak,2009,46,51,27,118,58,368,0
+5884,andhra pradesh,nalgonda,2009,77,75,41,254,205,364,0
+5885,andhra pradesh,nellore,2009,32,48,3,287,128,305,0
+5886,andhra pradesh,nizamabad,2009,27,41,19,79,75,518,0
+5887,andhra pradesh,prakasham,2009,27,44,14,197,51,248,0
+5888,andhra pradesh,ranga reddy,2009,26,20,20,44,25,108,0
+5889,andhra pradesh,secunderabad rly.,2009,0,0,0,3,0,0,0
+5890,andhra pradesh,srikakulam,2009,21,20,6,67,44,211,0
+5891,andhra pradesh,vijayawada city,2009,23,53,17,177,198,433,0
+5892,andhra pradesh,vijayawada rly.,2009,0,0,0,0,0,0,0
+5893,andhra pradesh,visakha rural,2009,14,7,8,57,56,167,0
+5894,andhra pradesh,visakhapatnam,2009,39,26,13,95,54,481,0
+5895,andhra pradesh,vizianagaram,2009,13,12,8,103,105,297,0
+5896,andhra pradesh,warangal,2009,70,130,49,234,25,432,0
+5897,andhra pradesh,west godavari,2009,114,89,14,384,196,729,0
+5899,arunachal pradesh,anjaw,2009,0,0,0,0,0,0,0
+5900,arunachal pradesh,changlang,2009,8,6,0,3,0,4,0
+5901,arunachal pradesh,dibang valley,2009,3,4,0,2,0,1,0
+5902,arunachal pradesh,k/kumey,2009,5,0,0,0,0,0,0
+5903,arunachal pradesh,kameng east,2009,3,3,0,1,0,0,0
+5904,arunachal pradesh,kameng west,2009,1,0,0,5,0,1,0
+5905,arunachal pradesh,lohit,2009,8,2,0,5,0,0,0
+5906,arunachal pradesh,papum pare,2009,11,3,0,10,6,1,0
+5907,arunachal pradesh,siang east,2009,9,3,0,6,0,1,0
+5908,arunachal pradesh,siang upper,2009,2,0,0,1,0,0,0
+5909,arunachal pradesh,siang west,2009,5,4,0,6,0,4,0
+5910,arunachal pradesh,subansiri lower,2009,2,1,0,8,0,0,0
+5911,arunachal pradesh,subansiri upper,2009,1,1,0,5,0,1,0
+5912,arunachal pradesh,tawang,2009,0,0,0,0,0,0,0
+5913,arunachal pradesh,tirap,2009,1,1,0,6,0,0,0
+5914,arunachal pradesh,upper dibang valley,2009,0,0,0,0,0,0,0
+5916,assam,barpeta,2009,123,98,29,130,0,206,0
+5917,assam,baska,2009,18,23,3,8,0,25,0
+5918,assam,bongaigaon,2009,54,53,4,5,0,118,0
+5919,assam,c.i.d.,2009,0,0,0,0,0,0,0
+5920,assam,cachar,2009,70,131,23,29,1,479,0
+5921,assam,chirang,2009,35,51,1,1,0,51,0
+5922,assam,darrang,2009,80,96,7,139,0,236,0
+5923,assam,dhemaji,2009,62,63,1,42,0,110,0
+5924,assam,dhubri,2009,150,147,20,154,2,375,0
+5925,assam,dibrugarh,2009,46,6,3,44,0,92,0
+5926,assam,g.r.p.,2009,0,0,0,0,0,0,0
+5927,assam,goalpara,2009,90,89,2,2,0,252,0
+5928,assam,golaghat,2009,35,97,0,46,0,108,0
+5929,assam,guwahati city,2009,54,231,9,162,0,321,0
+5930,assam,hailakandi,2009,45,44,8,12,0,81,0
+5931,assam,jorhat,2009,36,40,1,53,0,116,0
+5932,assam,kamrup,2009,57,108,3,35,0,108,0
+5933,assam,karbi anglong,2009,17,14,0,9,0,23,0
+5934,assam,karimganj,2009,26,36,12,9,0,106,1
+5935,assam,kokrajhar,2009,44,35,1,26,0,70,0
+5936,assam,lakhimpur,2009,54,97,3,42,0,187,0
+5937,assam,morigaon,2009,88,69,3,60,0,98,0
+5938,assam,n.c.hills,2009,3,6,0,4,0,3,0
+5939,assam,nagaon,2009,162,221,12,134,7,655,0
+5940,assam,nalbari,2009,31,48,6,76,0,73,0
+5941,assam,r.p.o.,2009,7,0,0,0,0,0,0
+5942,assam,sibsagar,2009,71,0,4,52,0,149,0
+5943,assam,sonitpur,2009,89,169,11,38,0,246,0
+5944,assam,tinsukia,2009,58,87,2,8,0,62,0
+5945,assam,udalguri,2009,26,33,2,22,0,48,0
+5947,bihar,araria,2009,28,50,21,4,0,18,0
+5948,bihar,arwal,2009,2,10,10,9,0,6,0
+5949,bihar,aurangabad,2009,19,53,37,16,0,46,0
+5950,bihar,bagaha,2009,8,34,14,44,0,13,0
+5951,bihar,banka,2009,31,45,19,4,1,24,0
+5952,bihar,begusarai,2009,12,39,46,10,0,47,2
+5953,bihar,bettiah,2009,22,76,37,3,0,38,0
+5954,bihar,bhabhua,2009,4,25,19,0,0,16,0
+5955,bihar,bhagalpur,2009,28,44,15,2,0,47,0
+5956,bihar,bhojpur,2009,11,37,54,0,2,275,0
+5957,bihar,buxar,2009,14,45,26,17,0,50,0
+5958,bihar,darbhanga,2009,27,77,33,10,0,247,0
+5959,bihar,gaya,2009,20,66,46,12,0,106,5
+5960,bihar,gopalganj,2009,37,71,42,39,0,127,0
+5961,bihar,jamalpur rly.,2009,1,0,0,2,0,0,0
+5962,bihar,jamui,2009,15,21,17,7,0,56,0
+5963,bihar,jehanabad,2009,8,9,43,11,0,42,0
+5964,bihar,katihar,2009,120,41,17,5,0,55,0
+5965,bihar,katihar rly.,2009,1,0,0,2,0,0,0
+5966,bihar,khagaria,2009,8,28,23,37,0,7,1
+5967,bihar,kishanganj,2009,33,30,6,0,0,32,0
+5968,bihar,lakhisarai,2009,15,16,13,25,5,25,0
+5969,bihar,madhepura,2009,11,28,19,4,0,11,0
+5970,bihar,madhubani,2009,19,78,31,20,0,71,0
+5971,bihar,motihari,2009,31,117,49,6,0,41,0
+5972,bihar,munger,2009,12,48,12,0,0,54,0
+5973,bihar,muzaffarpur,2009,55,111,77,13,0,109,0
+5974,bihar,muzaffarpur rly.,2009,3,1,1,5,0,0,0
+5975,bihar,nalanda,2009,33,67,74,88,0,33,0
+5976,bihar,naugachia,2009,6,31,9,56,0,13,0
+5977,bihar,nawadah,2009,14,34,21,6,1,60,0
+5978,bihar,patna,2009,46,167,95,21,0,341,0
+5979,bihar,patna rly.,2009,0,7,3,17,0,0,0
+5980,bihar,purnea,2009,49,25,20,35,3,76,0
+5981,bihar,rohtas,2009,18,11,41,38,0,57,23
+5982,bihar,saharsa,2009,28,9,11,36,0,15,0
+5983,bihar,samastipur,2009,26,27,68,21,0,64,0
+5984,bihar,saran,2009,11,73,57,20,0,132,0
+5985,bihar,sheikhpura,2009,6,9,8,0,0,14,0
+5986,bihar,sheohar,2009,4,16,7,6,0,12,0
+5987,bihar,sitamarhi,2009,8,81,27,20,0,14,0
+5988,bihar,siwan,2009,14,72,42,6,0,25,0
+5989,bihar,supaul,2009,26,29,12,21,0,30,0
+5990,bihar,vaishali,2009,45,128,73,28,0,83,0
+5992,chhattisgarh,balrampur,2009,43,10,2,40,26,0,0
+5993,chhattisgarh,bilaspur,2009,59,32,30,175,17,131,0
+5994,chhattisgarh,bizapur,2009,10,0,0,1,0,3,0
+5995,chhattisgarh,dantewara,2009,14,5,0,14,0,5,0
+5996,chhattisgarh,dhamtari,2009,24,7,1,64,3,15,0
+5997,chhattisgarh,durg,2009,109,17,8,223,20,124,0
+5998,chhattisgarh,grp raipur,2009,0,1,0,1,0,1,0
+5999,chhattisgarh,jagdalpur,2009,60,15,0,36,1,17,0
+6000,chhattisgarh,janjgir,2009,25,11,12,97,10,96,0
+6001,chhattisgarh,jashpur,2009,64,24,3,57,2,25,0
+6002,chhattisgarh,kabirdham,2009,20,0,1,55,6,29,0
+6003,chhattisgarh,kanker,2009,22,4,2,28,2,16,0
+6004,chhattisgarh,korba,2009,35,4,9,82,8,52,0
+6005,chhattisgarh,koriya,2009,70,8,4,83,11,58,0
+6006,chhattisgarh,mahasamund,2009,28,4,8,60,4,17,0
+6007,chhattisgarh,narayanpur,2009,1,0,1,4,0,0,0
+6008,chhattisgarh,raigarh,2009,43,18,9,73,4,36,0
+6009,chhattisgarh,raipur,2009,145,35,26,260,32,120,0
+6010,chhattisgarh,rajnandgaon,2009,47,12,8,78,5,59,0
+6011,chhattisgarh,sarguja,2009,81,15,1,86,0,45,0
+6012,chhattisgarh,surajpur,2009,76,7,3,81,1,44,0
+6014,goa,north goa,2009,31,10,1,17,5,12,0
+6015,goa,south goa,2009,16,12,2,20,5,9,0
+6017,gujarat,ahmedabad commr.,2009,63,132,5,74,18,1169,0
+6018,gujarat,ahmedabad rural,2009,9,38,1,17,0,131,0
+6019,gujarat,ahwa-dang,2009,3,0,0,2,0,4,0
+6020,gujarat,amreli,2009,8,50,1,21,4,131,0
+6021,gujarat,anand,2009,13,35,0,29,3,231,0
+6022,gujarat,bharuch,2009,18,25,0,22,3,113,0
+6023,gujarat,bhavnagar,2009,9,64,0,41,42,157,0
+6024,gujarat,dahod,2009,10,40,0,22,0,50,0
+6025,gujarat,gandhinagar,2009,7,28,0,10,3,174,0
+6026,gujarat,himatnagar,2009,15,35,0,23,0,208,0
+6027,gujarat,jamnagar,2009,17,20,1,18,3,241,0
+6028,gujarat,junagadh,2009,14,60,1,48,10,473,0
+6029,gujarat,kheda north,2009,15,31,0,27,0,102,0
+6030,gujarat,kutch,2009,10,34,0,27,2,242,0
+6031,gujarat,mehsana,2009,10,50,0,23,1,154,0
+6032,gujarat,narmada,2009,6,3,0,6,0,10,0
+6033,gujarat,navsari,2009,4,1,0,0,1,31,0
+6034,gujarat,palanpur,2009,26,87,0,55,1,217,0
+6035,gujarat,panchmahal,2009,15,51,0,27,3,147,0
+6036,gujarat,patan,2009,19,20,0,43,0,136,0
+6037,gujarat,porbandar,2009,3,17,0,2,2,53,0
+6038,gujarat,rajkot commr.,2009,8,38,1,19,8,271,0
+6039,gujarat,rajkot rural,2009,28,52,5,32,3,279,0
+6040,gujarat,surat commr.,2009,28,74,9,34,2,351,0
+6041,gujarat,surat rural,2009,10,12,0,4,0,21,0
+6042,gujarat,surendranagar,2009,18,54,0,39,3,120,0
+6043,gujarat,tapi,2009,7,4,0,0,0,7,0
+6044,gujarat,vadodara commr.,2009,6,28,0,17,0,178,0
+6045,gujarat,vadodara rural,2009,23,66,0,35,0,75,0
+6046,gujarat,valsad,2009,10,12,0,5,0,27,0
+6047,gujarat,w.rly,2009,1,1,0,5,2,3,0
+6049,haryana,ambala,2009,28,16,14,18,17,155,0
+6050,haryana,bhiwani,2009,37,53,17,37,21,88,0
+6051,haryana,faridabad,2009,35,62,17,26,4,179,0
+6052,haryana,fatehabad,2009,9,34,12,10,7,80,0
+6053,haryana,grp,2009,3,1,10,2,216,1,0
+6054,haryana,gurgaon,2009,29,42,24,21,40,128,0
+6055,haryana,hissar,2009,33,26,15,27,14,208,0
+6056,haryana,jhajjar,2009,20,15,13,20,20,78,0
+6057,haryana,jind,2009,35,30,11,33,49,97,0
+6058,haryana,kaithal,2009,24,16,13,20,0,187,0
+6059,haryana,karnal,2009,48,40,17,32,21,225,0
+6060,haryana,kurukshetra,2009,43,47,5,20,29,101,0
+6061,haryana,mahendragarh,2009,10,19,10,13,0,58,0
+6062,haryana,mewat,2009,16,12,5,11,3,181,0
+6063,haryana,palwal,2009,33,25,12,23,0,88,0
+6064,haryana,panchkula,2009,18,10,1,12,0,72,0
+6065,haryana,panipat,2009,45,31,19,26,44,117,0
+6066,haryana,rewari,2009,19,29,14,19,20,55,0
+6067,haryana,rohtak,2009,36,30,18,30,38,113,0
+6068,haryana,sirsa,2009,24,28,6,10,0,97,0
+6069,haryana,sonipat,2009,32,42,17,21,46,129,0
+6070,haryana,yamunanagar,2009,26,51,11,20,16,180,0
+6072,himachal pradesh,baddipolicedist,2009,2,1,0,5,0,9,0
+6073,himachal pradesh,bilaspur,2009,14,5,1,28,4,21,0
+6074,himachal pradesh,chamba,2009,20,15,0,29,0,14,0
+6075,himachal pradesh,cid,2009,0,0,0,0,0,0,0
+6076,himachal pradesh,g.r.p.,2009,0,0,0,0,0,0,0
+6077,himachal pradesh,hamirpur,2009,9,14,0,22,5,30,0
+6078,himachal pradesh,kangra,2009,23,22,0,49,5,49,0
+6079,himachal pradesh,kinnaur,2009,6,1,0,3,0,2,0
+6080,himachal pradesh,kullu,2009,24,10,0,23,1,16,0
+6081,himachal pradesh,lahaul-spiti,2009,1,0,0,0,2,2,0
+6082,himachal pradesh,mandi,2009,22,11,0,59,5,29,0
+6083,himachal pradesh,shimla,2009,28,22,0,32,5,39,0
+6084,himachal pradesh,sirmaur,2009,15,9,0,34,2,28,0
+6085,himachal pradesh,solan,2009,8,6,0,13,2,15,0
+6086,himachal pradesh,una,2009,11,6,0,21,6,30,0
+6088,jammu & kashmir,anantnag,2009,8,81,0,84,38,4,0
+6089,jammu & kashmir,awantipora,2009,5,11,0,17,0,0,0
+6090,jammu & kashmir,bandipora,2009,4,49,0,66,11,0,0
+6091,jammu & kashmir,baramulla,2009,14,80,0,127,25,0,0
+6092,jammu & kashmir,budgam,2009,10,71,0,105,34,1,0
+6093,jammu & kashmir,crime jammu,2009,0,0,0,0,0,0,0
+6094,jammu & kashmir,crime srinagar,2009,0,0,0,0,0,0,0
+6095,jammu & kashmir,doda,2009,18,38,0,21,10,19,0
+6096,jammu & kashmir,ganderbal,2009,7,25,0,45,2,3,0
+6097,jammu & kashmir,handwara,2009,5,16,0,46,5,0,0
+6098,jammu & kashmir,jammu,2009,29,66,10,29,59,62,0
+6099,jammu & kashmir,kargil,2009,1,1,0,1,0,0,0
+6100,jammu & kashmir,kathua,2009,9,23,1,16,8,4,0
+6101,jammu & kashmir,kishtwar,2009,3,23,0,3,5,5,0
+6102,jammu & kashmir,kulgam,2009,9,50,0,73,9,0,0
+6103,jammu & kashmir,kupwara,2009,6,22,0,20,7,3,0
+6104,jammu & kashmir,leh,2009,2,1,0,3,0,0,0
+6105,jammu & kashmir,poonch,2009,12,19,0,29,1,17,0
+6106,jammu & kashmir,pulwama,2009,5,25,0,18,7,0,0
+6107,jammu & kashmir,railways,2009,0,0,0,0,2,0,0
+6108,jammu & kashmir,railways kmr,2009,0,0,0,2,0,0,0
+6109,jammu & kashmir,rajouri,2009,22,33,1,25,3,44,0
+6110,jammu & kashmir,ramban,2009,12,15,0,8,6,0,0
+6111,jammu & kashmir,reasi,2009,9,13,0,10,7,0,0
+6112,jammu & kashmir,samba,2009,6,7,0,4,4,5,0
+6113,jammu & kashmir,shopian,2009,5,41,0,48,5,0,0
+6114,jammu & kashmir,srinagar,2009,21,106,0,165,118,27,0
+6115,jammu & kashmir,udhampur,2009,15,9,0,7,5,2,0
+6117,jharkhand,bokaro,2009,18,33,16,2,0,77,0
+6118,jharkhand,chaibasa,2009,34,13,6,23,0,37,0
+6119,jharkhand,chatra,2009,16,20,11,0,0,7,0
+6120,jharkhand,deoghar,2009,45,15,18,4,22,36,0
+6121,jharkhand,dhanbad,2009,36,65,45,24,3,59,0
+6122,jharkhand,dhanbad rly.,2009,0,0,0,3,0,1,0
+6123,jharkhand,dumka,2009,61,21,5,2,0,56,0
+6124,jharkhand,garhwa,2009,27,31,12,11,0,35,0
+6125,jharkhand,giridih,2009,28,0,45,37,51,3,0
+6126,jharkhand,godda,2009,24,29,7,20,0,30,0
+6127,jharkhand,gumla,2009,39,14,1,7,0,12,0
+6128,jharkhand,hazaribagh,2009,33,48,32,9,0,9,0
+6129,jharkhand,jamshedpur,2009,46,40,8,33,4,78,1
+6130,jharkhand,jamshedpur rly.,2009,1,3,0,1,0,2,0
+6131,jharkhand,jamtara,2009,21,0,10,14,0,14,0
+6132,jharkhand,khunti,2009,4,5,0,2,0,6,1
+6133,jharkhand,koderma,2009,6,11,13,8,2,37,0
+6134,jharkhand,latehar,2009,13,15,6,4,0,2,0
+6135,jharkhand,lohardagga,2009,20,5,1,5,0,14,0
+6136,jharkhand,pakur,2009,46,6,3,12,0,33,0
+6137,jharkhand,palamu,2009,37,40,18,18,0,34,0
+6138,jharkhand,ramgarh,2009,16,18,12,5,0,20,0
+6139,jharkhand,ranchi,2009,63,42,19,12,0,68,4
+6140,jharkhand,sahebganj,2009,45,27,4,16,1,33,0
+6141,jharkhand,saraikela,2009,23,11,3,1,0,7,0
+6142,jharkhand,simdega,2009,17,5,0,3,0,0,0
+6144,karnataka,bagalkot,2009,8,9,7,59,0,58,0
+6145,karnataka,bangalore commr.,2009,65,2,50,251,35,367,0
+6146,karnataka,bangalore rural,2009,14,4,14,48,0,79,0
+6147,karnataka,belgaum,2009,39,43,10,220,3,311,0
+6148,karnataka,bellary,2009,11,19,7,66,0,75,0
+6149,karnataka,bidar,2009,12,4,3,38,0,81,0
+6150,karnataka,bijapur,2009,19,23,0,73,0,139,0
+6151,karnataka,cbpura,2009,11,18,11,43,1,38,0
+6152,karnataka,chamarajnagar,2009,8,7,6,55,0,44,0
+6153,karnataka,chickmagalur,2009,13,12,1,64,5,104,0
+6154,karnataka,chitradurga,2009,26,21,10,102,0,83,0
+6155,karnataka,dakshin kannada,2009,14,5,1,61,2,69,0
+6156,karnataka,davanagere,2009,16,15,12,90,0,112,0
+6157,karnataka,dharwad commr.,2009,6,9,5,12,1,52,0
+6158,karnataka,dharwad rural,2009,4,1,3,29,0,31,0
+6159,karnataka,gadag,2009,4,7,0,44,0,34,0
+6160,karnataka,gulbarga,2009,32,41,8,68,0,170,0
+6161,karnataka,hassan,2009,22,15,15,75,0,103,2
+6162,karnataka,haveri,2009,5,0,3,50,0,47,0
+6163,karnataka,k.g.f.,2009,9,0,4,10,0,18,0
+6164,karnataka,kodagu,2009,14,8,5,24,2,46,0
+6165,karnataka,kolar,2009,10,8,11,17,2,18,0
+6166,karnataka,koppal,2009,14,13,5,32,0,57,0
+6167,karnataka,mandya,2009,16,19,8,85,0,125,0
+6168,karnataka,mysore commr.,2009,14,19,6,22,0,188,0
+6169,karnataka,mysore rural,2009,21,9,18,89,0,114,0
+6170,karnataka,raichur,2009,21,18,9,85,4,141,0
+6171,karnataka,railways,2009,1,0,1,2,0,0,0
+6172,karnataka,ramanagar,2009,12,13,11,70,0,62,0
+6173,karnataka,shimoga,2009,15,27,5,137,3,255,0
+6174,karnataka,tumkur,2009,19,6,13,85,0,79,0
+6175,karnataka,udupi,2009,5,3,0,26,1,22,0
+6176,karnataka,uttar kannada,2009,9,10,2,54,5,63,0
+6178,kerala,alapuzha,2009,26,10,1,174,23,217,0
+6179,kerala,ernakulam commr.,2009,20,5,1,49,14,95,0
+6180,kerala,ernakulam rural,2009,26,10,0,130,24,161,0
+6181,kerala,idukki,2009,23,1,1,130,20,199,0
+6182,kerala,kannur,2009,37,5,0,131,16,280,0
+6183,kerala,kasargod,2009,47,3,0,77,6,190,0
+6184,kerala,kollam,2009,51,19,2,299,11,432,0
+6185,kerala,kottayam,2009,28,8,0,162,34,192,0
+6186,kerala,kozhikode commr.,2009,18,3,2,66,40,167,0
+6187,kerala,kozhikode rural,2009,33,22,1,137,14,267,0
+6188,kerala,malappuram,2009,35,10,0,141,33,545,0
+6189,kerala,palakkad,2009,49,7,3,105,30,315,0
+6190,kerala,pathanamthitta,2009,24,10,0,156,19,120,0
+6191,kerala,railways,2009,0,0,0,11,6,0,0
+6192,kerala,thrissur,2009,32,10,3,153,29,345,0
+6193,kerala,trivandrum commr.,2009,40,13,1,175,43,106,0
+6194,kerala,trivandrum rural,2009,57,32,3,382,18,279,0
+6195,kerala,wayanadu,2009,22,5,2,62,15,97,0
+6197,madhya pradesh,alirajpur,2009,31,10,1,22,0,1,0
+6198,madhya pradesh,anuppur,2009,35,6,8,65,2,50,0
+6199,madhya pradesh,ashok nagar,2009,38,5,6,79,3,45,0
+6200,madhya pradesh,balaghat,2009,62,8,7,96,4,37,0
+6201,madhya pradesh,barwani,2009,31,5,3,53,7,11,0
+6202,madhya pradesh,betul,2009,130,30,18,155,15,71,0
+6203,madhya pradesh,bhind,2009,23,24,38,57,13,67,0
+6204,madhya pradesh,bhopal,2009,152,58,46,244,34,231,0
+6205,madhya pradesh,bhopal rly.,2009,3,1,2,12,2,0,0
+6206,madhya pradesh,burhanpur,2009,14,3,12,47,5,21,0
+6207,madhya pradesh,chhatarpur,2009,64,15,17,178,6,85,0
+6208,madhya pradesh,chhindwara,2009,138,27,18,252,36,160,0
+6209,madhya pradesh,damoh,2009,39,17,23,147,0,70,0
+6210,madhya pradesh,datiya,2009,20,17,13,69,0,32,0
+6211,madhya pradesh,dewas,2009,59,9,7,154,20,142,0
+6212,madhya pradesh,dhar,2009,99,32,41,167,18,87,0
+6213,madhya pradesh,dindori,2009,35,1,4,48,5,38,0
+6214,madhya pradesh,guna,2009,54,8,11,124,14,38,0
+6215,madhya pradesh,gwalior,2009,73,67,23,183,20,209,0
+6216,madhya pradesh,harda,2009,19,4,3,36,7,5,0
+6217,madhya pradesh,hoshangabad,2009,59,23,10,114,21,101,0
+6218,madhya pradesh,indore,2009,82,29,44,419,91,484,0
+6219,madhya pradesh,indore rly.,2009,0,1,0,1,1,0,0
+6220,madhya pradesh,jabalpur,2009,129,33,26,221,63,186,0
+6221,madhya pradesh,jabalpur rly.,2009,1,1,0,6,2,1,0
+6222,madhya pradesh,jhabua,2009,30,18,5,42,0,9,0
+6223,madhya pradesh,katni,2009,48,10,21,117,17,87,0
+6224,madhya pradesh,khandwa,2009,70,12,6,149,19,37,0
+6225,madhya pradesh,khargon,2009,45,5,27,142,9,29,0
+6226,madhya pradesh,mandla,2009,43,9,4,58,12,19,0
+6227,madhya pradesh,mandsaur,2009,46,17,4,124,17,93,0
+6228,madhya pradesh,morena,2009,31,29,37,83,5,66,0
+6229,madhya pradesh,narsinghpur,2009,52,4,26,101,23,42,0
+6230,madhya pradesh,neemuch,2009,34,10,1,52,6,34,0
+6231,madhya pradesh,panna,2009,31,4,22,76,0,32,0
+6232,madhya pradesh,raisen,2009,93,8,19,165,16,66,0
+6233,madhya pradesh,rajgarh,2009,68,27,9,153,25,76,0
+6234,madhya pradesh,ratlam,2009,67,18,6,111,21,73,0
+6235,madhya pradesh,rewa,2009,73,25,44,119,2,80,1
+6236,madhya pradesh,sagar,2009,127,40,46,361,5,168,0
+6237,madhya pradesh,satna,2009,145,18,40,194,11,119,0
+6238,madhya pradesh,seoni,2009,61,8,15,85,14,26,0
+6239,madhya pradesh,shahdol,2009,42,8,11,113,5,73,0
+6240,madhya pradesh,shajapur,2009,79,13,8,138,22,71,0
+6241,madhya pradesh,sheopur,2009,14,3,5,18,0,26,0
+6242,madhya pradesh,shivpuri,2009,55,20,16,124,8,43,0
+6243,madhya pradesh,sidhi,2009,24,13,20,80,6,36,0
+6244,madhya pradesh,sihore,2009,63,23,9,88,16,47,0
+6245,madhya pradesh,singrauli,2009,45,14,16,92,2,72,0
+6246,madhya pradesh,tikamgarh,2009,67,12,18,136,3,52,0
+6247,madhya pradesh,ujjain,2009,46,23,20,167,45,210,0
+6248,madhya pradesh,umariya,2009,29,3,3,54,0,38,0
+6249,madhya pradesh,vidisha,2009,80,13,19,216,30,87,0
+6251,maharashtra,ahmednagar,2009,55,25,0,106,0,557,0
+6252,maharashtra,akola,2009,21,26,10,97,63,131,0
+6253,maharashtra,amravati commr.,2009,17,20,0,28,27,99,0
+6254,maharashtra,amravati rural,2009,49,27,1,121,34,149,0
+6255,maharashtra,aurangabad commr.,2009,22,17,5,61,21,159,0
+6256,maharashtra,aurangabad rural,2009,14,4,28,49,4,248,0
+6257,maharashtra,beed,2009,26,20,16,79,10,389,0
+6258,maharashtra,bhandara,2009,17,12,4,31,13,68,0
+6259,maharashtra,buldhana,2009,27,23,27,128,55,221,0
+6260,maharashtra,chandrapur,2009,44,17,9,132,171,158,0
+6261,maharashtra,dhule,2009,12,9,7,34,8,281,0
+6262,maharashtra,gadchiroli,2009,12,13,1,23,6,27,0
+6263,maharashtra,gondia,2009,33,17,3,67,21,48,0
+6264,maharashtra,hingoli,2009,10,12,3,27,8,106,0
+6265,maharashtra,jalgaon,2009,30,25,10,109,39,423,0
+6266,maharashtra,jalna,2009,22,17,25,54,14,346,0
+6267,maharashtra,kolhapur,2009,35,18,18,61,15,130,0
+6268,maharashtra,latur,2009,33,28,15,49,0,159,0
+6269,maharashtra,mumbai commr.,2009,182,86,15,400,101,434,0
+6270,maharashtra,mumbai rly.,2009,4,0,0,12,4,0,0
+6271,maharashtra,nagpur commr.,2009,45,52,7,60,39,232,0
+6272,maharashtra,nagpur rly.,2009,1,1,0,7,2,0,0
+6273,maharashtra,nagpur rural,2009,33,13,6,71,22,84,0
+6274,maharashtra,nanded,2009,34,29,30,62,3,346,0
+6275,maharashtra,nandurbar,2009,23,13,1,33,11,75,0
+6276,maharashtra,nasik commr.,2009,24,16,5,49,20,131,0
+6277,maharashtra,nasik rural,2009,46,20,9,64,31,290,0
+6278,maharashtra,navi mumbai,2009,19,10,6,36,34,84,0
+6279,maharashtra,osmanabad,2009,20,16,3,64,9,153,0
+6280,maharashtra,parbhani,2009,30,14,7,49,7,219,0
+6281,maharashtra,pune commr.,2009,67,84,7,100,72,235,0
+6282,maharashtra,pune rly.,2009,1,1,0,0,0,0,0
+6283,maharashtra,pune rural,2009,72,38,9,133,15,218,0
+6284,maharashtra,raigad,2009,21,3,4,26,19,30,0
+6285,maharashtra,ratnagiri,2009,14,8,0,36,20,51,0
+6286,maharashtra,sangli,2009,37,9,12,45,10,66,0
+6287,maharashtra,satara,2009,26,18,4,57,7,131,0
+6288,maharashtra,sindhudurg,2009,8,3,1,12,6,11,0
+6289,maharashtra,solapur commr.,2009,22,6,0,10,5,68,0
+6290,maharashtra,solapur rural,2009,50,29,5,96,0,210,0
+6291,maharashtra,thane commr.,2009,66,55,12,148,52,387,0
+6292,maharashtra,thane rural,2009,53,20,1,97,30,106,0
+6293,maharashtra,wardha,2009,41,15,1,84,32,100,0
+6294,maharashtra,washim,2009,25,12,5,61,16,109,0
+6295,maharashtra,yavatmal,2009,40,25,9,128,23,212,0
+6297,manipur,bishnupur,2009,2,5,0,10,0,0,0
+6298,manipur,chandel,2009,0,0,0,0,0,0,0
+6299,manipur,churachandpur,2009,3,3,0,1,0,0,0
+6300,manipur,cid,2009,0,0,0,0,0,0,0
+6301,manipur,imphal east,2009,7,36,0,12,0,4,0
+6302,manipur,imphal west,2009,8,30,0,9,1,9,0
+6303,manipur,senapati,2009,1,0,0,1,0,0,0
+6304,manipur,tamenglong,2009,0,0,0,0,0,0,0
+6305,manipur,thoubal,2009,9,23,0,6,1,12,0
+6306,manipur,ukhrul,2009,1,0,0,0,0,0,0
+6308,meghalaya,garo hills east,2009,3,1,0,6,1,0,0
+6309,meghalaya,garo hills south,2009,0,0,0,2,0,1,0
+6310,meghalaya,garo hills west,2009,8,13,0,22,0,13,0
+6311,meghalaya,jaintia hills,2009,24,1,0,8,0,0,0
+6312,meghalaya,khasi hills east,2009,34,7,0,26,0,9,0
+6313,meghalaya,khasi hills west,2009,20,0,0,4,0,0,0
+6314,meghalaya,ri-bhoi,2009,23,4,0,4,0,1,1
+6316,mizoram,aizawl,2009,27,0,0,29,0,4,0
+6317,mizoram,champhai,2009,15,0,0,4,0,0,0
+6318,mizoram,kolasib,2009,7,0,0,9,0,0,0
+6319,mizoram,lawngtlai,2009,5,0,0,0,0,0,0
+6320,mizoram,lunglei,2009,12,0,0,8,1,0,0
+6321,mizoram,mamit,2009,9,0,0,4,0,0,0
+6322,mizoram,saiha,2009,3,0,0,0,0,0,0
+6323,mizoram,serchhip,2009,5,0,0,7,0,0,0
+6325,nagaland,dimapur,2009,7,4,0,7,0,0,0
+6326,nagaland,kiphire,2009,0,0,0,0,0,0,0
+6327,nagaland,kohima,2009,6,4,0,0,0,0,0
+6328,nagaland,longleng,2009,0,0,0,0,0,0,0
+6329,nagaland,mokokchung,2009,0,0,0,0,0,0,0
+6330,nagaland,mon,2009,0,0,0,0,0,0,0
+6331,nagaland,peren,2009,2,0,0,1,0,0,0
+6332,nagaland,phek,2009,0,0,0,1,0,0,0
+6333,nagaland,tuensang,2009,1,0,0,1,0,0,0
+6334,nagaland,wokha,2009,3,0,0,1,0,0,0
+6335,nagaland,zunheboto,2009,3,2,0,0,0,0,0
+6337,odisha,angul,2009,59,30,10,224,8,82,0
+6338,odisha,balasore,2009,46,55,46,124,22,244,0
+6339,odisha,baragarh,2009,25,10,7,86,10,36,0
+6340,odisha,berhampur,2009,18,15,3,130,2,12,0
+6341,odisha,bhadrak,2009,46,39,23,108,9,134,0
+6342,odisha,bolangir,2009,46,25,5,147,10,97,0
+6343,odisha,boudh,2009,7,1,4,27,0,6,0
+6344,odisha,cuttack,2009,25,46,30,24,5,133,0
+6345,odisha,dcp bbsr,2009,32,22,17,50,9,46,0
+6346,odisha,dcp ctc,2009,14,20,8,31,2,78,0
+6347,odisha,deogarh,2009,12,8,2,55,2,12,0
+6348,odisha,dhenkanal,2009,23,19,15,159,4,30,0
+6349,odisha,gajapati,2009,9,7,1,49,9,14,0
+6350,odisha,ganjam,2009,34,28,27,249,21,21,0
+6351,odisha,jagatsinghpur,2009,31,18,19,11,0,70,0
+6352,odisha,jajpur,2009,32,51,30,86,6,110,0
+6353,odisha,jharsuguda,2009,7,6,5,41,4,25,0
+6354,odisha,kalahandi,2009,30,24,7,75,8,53,0
+6355,odisha,kandhamal,2009,24,15,6,66,2,34,0
+6356,odisha,kendrapara,2009,28,35,11,5,1,17,0
+6357,odisha,keonjhar,2009,53,33,20,195,16,45,0
+6358,odisha,khurda,2009,27,35,11,13,3,133,1
+6359,odisha,koraput,2009,41,27,2,82,3,95,0
+6360,odisha,malkangir,2009,15,10,0,21,2,17,0
+6361,odisha,mayurbhanj,2009,80,60,26,214,13,152,0
+6362,odisha,nayagarh,2009,29,22,11,12,3,87,0
+6363,odisha,nowrangpur,2009,35,21,1,60,13,30,0
+6364,odisha,nuapada,2009,17,10,1,53,3,14,0
+6365,odisha,puri,2009,29,38,20,22,2,71,0
+6366,odisha,rayagada,2009,36,16,3,55,2,35,0
+6367,odisha,rourkela,2009,38,20,5,83,4,58,0
+6368,odisha,sambalpur,2009,35,12,0,38,6,28,0
+6369,odisha,sonepur,2009,17,3,3,46,1,15,0
+6370,odisha,srp(cuttack),2009,2,3,1,7,0,0,0
+6371,odisha,srp(rourkela),2009,1,2,0,8,0,2,0
+6372,odisha,sundargarh,2009,20,13,4,41,5,11,0
+6374,punjab,amritsar,2009,15,37,7,15,6,85,0
+6375,punjab,amritsar rural,2009,14,14,4,6,0,26,0
+6376,punjab,barnala,2009,13,5,1,6,0,7,0
+6377,punjab,batala,2009,21,10,4,11,0,40,0
+6378,punjab,bhatinda,2009,32,29,5,16,1,43,0
+6379,punjab,faridkot,2009,17,6,3,9,0,21,0
+6380,punjab,fatehgarh sahib,2009,7,4,3,8,3,21,0
+6381,punjab,ferozpur,2009,43,31,6,13,0,32,0
+6382,punjab,g.r.p,2009,1,0,2,0,0,0,0
+6383,punjab,gurdaspur,2009,14,26,2,12,0,40,0
+6384,punjab,hoshiarpur,2009,37,24,9,12,1,57,0
+6385,punjab,jalandhar,2009,35,71,13,61,0,140,0
+6386,punjab,kapurthala,2009,21,14,3,5,0,23,0
+6387,punjab,khanna,2009,10,5,3,7,0,35,0
+6388,punjab,ludhiana,2009,39,70,10,31,9,92,0
+6389,punjab,ludhiana rural,2009,13,20,4,3,0,37,0
+6390,punjab,mansa,2009,13,9,8,13,1,11,0
+6391,punjab,moga,2009,18,12,2,19,1,24,0
+6392,punjab,muktsar,2009,20,8,2,2,0,14,0
+6393,punjab,patiala,2009,28,46,12,20,0,152,0
+6394,punjab,ropar,2009,13,14,3,9,3,20,0
+6395,punjab,sangrur,2009,25,12,9,6,2,60,0
+6396,punjab,sas ngr,2009,23,27,6,15,5,32,0
+6397,punjab,sbs nagar,2009,12,6,2,4,0,43,0
+6398,punjab,tarn taran,2009,27,13,3,16,1,6,0
+6400,rajasthan,ajmer,2009,47,69,17,64,1,546,0
+6401,rajasthan,alwar,2009,101,128,35,139,0,516,0
+6402,rajasthan,banswara,2009,40,49,3,43,0,143,0
+6403,rajasthan,baran,2009,55,84,9,130,1,289,0
+6404,rajasthan,barmer,2009,31,29,14,96,0,150,0
+6405,rajasthan,bharatpur,2009,82,131,35,39,0,437,0
+6406,rajasthan,bhilwara,2009,52,87,7,97,0,518,0
+6407,rajasthan,bikaner,2009,37,36,11,83,0,353,0
+6408,rajasthan,bundi,2009,37,93,5,138,0,270,0
+6409,rajasthan,chittorgarh,2009,44,70,7,82,0,463,0
+6410,rajasthan,churu,2009,33,22,11,19,0,296,0
+6411,rajasthan,dausa,2009,13,62,14,19,0,144,0
+6412,rajasthan,dholpur,2009,30,52,32,19,0,180,0
+6413,rajasthan,dungarpur,2009,29,36,11,47,0,97,0
+6414,rajasthan,g.r.p.,2009,1,1,2,9,0,0,0
+6415,rajasthan,ganganagar,2009,89,56,13,61,1,646,0
+6416,rajasthan,hanumangarh,2009,54,43,16,60,0,266,0
+6417,rajasthan,jaipur east,2009,29,55,6,53,0,179,0
+6418,rajasthan,jaipur north,2009,23,72,9,31,0,202,0
+6419,rajasthan,jaipur rural,2009,49,85,14,94,3,256,0
+6420,rajasthan,jaipur south,2009,17,62,5,18,0,192,0
+6421,rajasthan,jaisalmer,2009,5,9,5,18,0,23,0
+6422,rajasthan,jalore,2009,19,26,9,39,0,142,0
+6423,rajasthan,jhalawar,2009,55,45,7,215,3,379,0
+6424,rajasthan,jhunjhunu,2009,41,50,13,39,0,280,0
+6425,rajasthan,jodhpur city,2009,15,55,9,40,1,242,0
+6426,rajasthan,jodhpur rural,2009,27,29,19,43,0,97,0
+6427,rajasthan,karauli,2009,46,49,14,25,0,138,0
+6428,rajasthan,kota city,2009,23,76,7,51,0,376,0
+6429,rajasthan,kota rural,2009,29,32,4,99,3,230,0
+6430,rajasthan,nagaur,2009,53,76,6,117,0,302,0
+6431,rajasthan,pali,2009,48,92,8,77,4,403,0
+6432,rajasthan,pratapgarh,2009,54,59,2,50,0,180,0
+6433,rajasthan,rajsamand,2009,11,42,3,46,2,205,0
+6434,rajasthan,sawai madhopur,2009,17,66,10,18,0,171,0
+6435,rajasthan,sikar,2009,36,59,21,18,0,323,0
+6436,rajasthan,sirohi,2009,18,25,4,64,1,132,0
+6437,rajasthan,tonk,2009,20,42,4,26,0,252,0
+6438,rajasthan,udaipur,2009,109,156,15,159,4,353,0
+6440,sikkim,east,2009,5,2,0,4,0,4,0
+6441,sikkim,north,2009,0,0,0,0,0,0,0
+6442,sikkim,south,2009,8,2,0,5,0,1,0
+6443,sikkim,west,2009,5,2,0,1,0,1,0
+6445,tamil nadu,ariyalur,2009,21,15,3,39,1,7,0
+6446,tamil nadu,chennai,2009,39,37,19,42,10,154,0
+6447,tamil nadu,chennai rly.,2009,0,0,2,5,1,0,0
+6448,tamil nadu,chennaisuburban,2009,46,18,20,51,65,59,0
+6449,tamil nadu,coimbatore rural,2009,7,24,4,41,12,56,0
+6450,tamil nadu,coimbatore urban,2009,9,9,4,21,3,48,0
+6451,tamil nadu,cuddalore,2009,20,34,13,32,0,39,0
+6452,tamil nadu,dharmapuri,2009,7,30,6,56,5,34,0
+6453,tamil nadu,dindigul,2009,10,61,1,34,1,87,0
+6454,tamil nadu,erode,2009,16,37,1,31,9,12,0
+6455,tamil nadu,kanchipuram,2009,28,11,10,12,0,22,0
+6456,tamil nadu,kanyakumari,2009,11,31,9,23,45,65,0
+6457,tamil nadu,karur,2009,7,10,2,13,7,14,0
+6458,tamil nadu,krishnagiri,2009,15,31,1,31,3,24,0
+6459,tamil nadu,madurai rural,2009,18,39,9,75,17,82,0
+6460,tamil nadu,madurai urban,2009,3,10,4,7,19,67,0
+6461,tamil nadu,nagapattinam,2009,7,36,5,31,7,25,0
+6462,tamil nadu,namakkal,2009,14,28,1,39,17,16,0
+6463,tamil nadu,nilgiris,2009,3,5,0,11,0,4,0
+6464,tamil nadu,perambalur,2009,11,11,4,14,3,2,0
+6465,tamil nadu,pudukottai,2009,5,22,4,21,1,18,0
+6466,tamil nadu,ramnathapuram,2009,10,52,1,22,2,23,0
+6467,tamil nadu,salem rural,2009,32,81,3,90,0,50,0
+6468,tamil nadu,salem urban,2009,20,19,3,13,7,40,0
+6469,tamil nadu,sivagangai,2009,5,23,1,11,9,30,0
+6470,tamil nadu,thanjavur,2009,5,36,8,60,3,17,0
+6471,tamil nadu,theni,2009,9,40,7,50,29,66,0
+6472,tamil nadu,thirunelveli rural,2009,44,55,5,91,0,65,0
+6473,tamil nadu,thirunelveli urban,2009,5,24,1,7,0,6,0
+6474,tamil nadu,thiruvallur,2009,12,19,6,15,0,26,0
+6475,tamil nadu,thiruvannamalai,2009,12,19,3,18,0,29,0
+6476,tamil nadu,thiruvarur,2009,1,15,0,21,0,8,0
+6477,tamil nadu,thoothugudi,2009,20,30,3,3,0,35,0
+6478,tamil nadu,tiruppur,2009,12,42,3,46,8,46,0
+6479,tamil nadu,trichy rly.,2009,0,0,0,2,0,0,0
+6480,tamil nadu,trichy rural,2009,10,16,6,24,0,27,0
+6481,tamil nadu,trichy urban,2009,6,16,0,11,98,24,0
+6482,tamil nadu,vellore,2009,18,40,10,21,1,31,0
+6483,tamil nadu,villupuram,2009,62,66,8,78,31,33,0
+6484,tamil nadu,virudhunagar,2009,16,41,4,30,87,69,0
+6486,tripura,dhalai,2009,18,4,1,16,0,47,0
+6487,tripura,north,2009,48,23,6,78,0,174,0
+6488,tripura,south,2009,48,21,8,153,1,192,0
+6489,tripura,west,2009,76,44,14,137,4,402,0
+6491,uttar pradesh,agra,2009,40,185,83,97,85,381,0
+6492,uttar pradesh,aligarh,2009,58,214,54,109,48,294,0
+6493,uttar pradesh,allahabad,2009,38,126,70,59,51,289,0
+6494,uttar pradesh,ambedkar nagar,2009,19,49,15,9,19,102,0
+6495,uttar pradesh,auraiya,2009,11,35,26,20,16,30,0
+6496,uttar pradesh,azamgarh,2009,17,64,31,26,31,83,0
+6497,uttar pradesh,badaun,2009,29,67,43,28,18,55,0
+6498,uttar pradesh,baghpat,2009,15,45,16,6,20,72,0
+6499,uttar pradesh,bahraich,2009,38,86,32,33,27,72,0
+6500,uttar pradesh,ballia,2009,9,25,31,19,9,53,0
+6501,uttar pradesh,balrampur,2009,8,23,10,11,6,34,0
+6502,uttar pradesh,banda,2009,23,32,24,42,11,44,0
+6503,uttar pradesh,barabanki,2009,19,106,39,34,50,104,0
+6504,uttar pradesh,bareilly,2009,77,153,47,125,96,303,0
+6505,uttar pradesh,basti,2009,12,22,15,3,0,12,0
+6506,uttar pradesh,bijnor,2009,30,75,22,46,44,225,0
+6507,uttar pradesh,bulandshahar,2009,38,81,53,36,24,184,0
+6508,uttar pradesh,chandoli,2009,3,18,13,4,4,88,0
+6509,uttar pradesh,chitrakoot dham,2009,20,10,9,22,1,12,0
+6510,uttar pradesh,deoria,2009,9,38,30,15,12,32,0
+6511,uttar pradesh,etah,2009,18,45,42,37,13,92,0
+6512,uttar pradesh,etawah,2009,5,62,35,42,39,112,0
+6513,uttar pradesh,faizabad,2009,22,69,18,27,21,38,0
+6514,uttar pradesh,fatehgarh,2009,17,61,23,30,16,61,0
+6515,uttar pradesh,fatehpur,2009,28,44,38,39,13,51,0
+6516,uttar pradesh,firozabad,2009,26,95,47,59,35,130,0
+6517,uttar pradesh,g.r.p.,2009,1,0,1,10,57,0,0
+6518,uttar pradesh,gautambudh nagar,2009,24,60,22,40,46,103,0
+6519,uttar pradesh,ghaziabad,2009,53,321,66,88,182,556,0
+6520,uttar pradesh,ghazipur,2009,3,16,29,12,22,63,0
+6521,uttar pradesh,gonda,2009,29,74,42,28,12,3,0
+6522,uttar pradesh,gorakhpur,2009,43,94,50,44,47,255,0
+6523,uttar pradesh,hamirpur,2009,16,18,20,21,9,22,0
+6524,uttar pradesh,hardoi,2009,29,87,45,61,13,73,0
+6525,uttar pradesh,hathras,2009,22,52,23,33,8,146,0
+6526,uttar pradesh,j.p.nagar,2009,26,36,16,21,39,69,0
+6527,uttar pradesh,jalaun,2009,11,27,34,41,15,43,0
+6528,uttar pradesh,jaunpur,2009,18,68,47,30,25,136,0
+6529,uttar pradesh,jhansi,2009,14,36,27,33,35,9,0
+6530,uttar pradesh,kannauj,2009,8,48,25,28,8,85,0
+6531,uttar pradesh,kanpur dehat,2009,17,82,22,34,16,113,0
+6532,uttar pradesh,kanpur nagar,2009,40,227,73,109,210,551,0
+6533,uttar pradesh,kanshiram nagar,2009,15,30,29,22,5,26,0
+6534,uttar pradesh,kaushambi,2009,15,30,27,49,12,86,0
+6535,uttar pradesh,khiri,2009,37,83,40,59,36,68,0
+6536,uttar pradesh,kushi nagar,2009,9,18,22,7,5,21,0
+6537,uttar pradesh,lalitpur,2009,13,9,8,19,12,25,0
+6538,uttar pradesh,lucknow,2009,56,306,53,178,256,664,0
+6539,uttar pradesh,maharajganj,2009,17,28,17,12,13,38,0
+6540,uttar pradesh,mahoba,2009,11,22,17,26,6,15,0
+6541,uttar pradesh,mainpuri,2009,16,64,36,38,20,30,0
+6542,uttar pradesh,mathura,2009,20,59,25,42,42,197,0
+6543,uttar pradesh,mau,2009,15,46,10,22,31,60,0
+6544,uttar pradesh,meerut,2009,46,141,41,47,123,361,0
+6545,uttar pradesh,mirzapur,2009,11,12,19,9,4,178,0
+6546,uttar pradesh,moradabad,2009,69,159,32,63,61,264,0
+6547,uttar pradesh,muzaffarnagar,2009,58,138,27,64,86,340,0
+6548,uttar pradesh,pilibhit,2009,15,56,27,37,15,186,0
+6549,uttar pradesh,pratapgarh,2009,22,73,27,35,12,99,0
+6550,uttar pradesh,raibareilly,2009,30,59,29,46,41,114,0
+6551,uttar pradesh,rampur,2009,51,90,24,48,16,3,0
+6552,uttar pradesh,saharanpur,2009,14,36,35,29,39,139,0
+6553,uttar pradesh,sant kabirnagar,2009,13,29,9,9,15,2,0
+6554,uttar pradesh,shahjahanpur,2009,43,105,54,53,16,11,0
+6555,uttar pradesh,shrawasti,2009,8,23,9,27,4,28,0
+6556,uttar pradesh,sidharthnagar,2009,9,29,14,23,6,20,0
+6557,uttar pradesh,sitapur,2009,61,144,75,74,47,84,0
+6558,uttar pradesh,sonbhadra,2009,25,25,11,16,20,36,0
+6559,uttar pradesh,st.ravidasnagar,2009,3,5,10,9,7,24,0
+6560,uttar pradesh,sultanpur,2009,16,63,28,35,35,60,0
+6561,uttar pradesh,unnao,2009,48,85,40,61,14,100,0
+6562,uttar pradesh,varanasi,2009,10,35,29,12,72,107,0
+6564,uttarakhand,almora,2009,4,5,4,4,0,11,0
+6565,uttarakhand,bageshwar,2009,3,1,2,1,1,2,0
+6566,uttarakhand,chamoli,2009,1,0,0,2,0,2,0
+6567,uttarakhand,champawat,2009,1,2,2,5,0,0,0
+6568,uttarakhand,dehradun,2009,30,60,11,30,110,133,0
+6569,uttarakhand,haridwar,2009,26,60,22,30,112,107,0
+6570,uttarakhand,nainital,2009,14,37,23,14,17,19,0
+6571,uttarakhand,pauri garhwal,2009,4,13,6,3,4,9,0
+6572,uttarakhand,pithoragarh,2009,0,1,1,3,0,4,0
+6573,uttarakhand,rudra prayag,2009,2,2,3,0,2,4,0
+6574,uttarakhand,tehri garhwal,2009,1,3,1,3,0,2,0
+6575,uttarakhand,udhamsingh nagar,2009,21,58,19,21,0,65,0
+6576,uttarakhand,uttarkashi,2009,4,5,0,3,3,3,0
+6578,west bengal,24 parganas north,2009,166,249,54,203,3,2225,0
+6579,west bengal,24 parganas south,2009,280,128,63,120,1,2542,0
+6580,west bengal,asansol,2009,13,17,17,14,0,211,0
+6581,west bengal,bankura,2009,33,31,28,46,1,172,0
+6582,west bengal,birbhum,2009,52,49,18,60,0,298,0
+6583,west bengal,burdwan,2009,55,12,30,25,9,710,0
+6584,west bengal,coochbehar,2009,139,139,13,76,0,508,0
+6585,west bengal,dakshin dinajpur,2009,49,51,7,76,1,211,0
+6586,west bengal,darjeeling,2009,54,40,2,55,2,141,0
+6587,west bengal,hooghly,2009,48,79,25,24,0,629,0
+6588,west bengal,howrah,2009,39,112,21,76,0,743,0
+6589,west bengal,howrah g.r.p.,2009,1,1,1,2,0,1,0
+6590,west bengal,jalpaiguri,2009,193,177,11,136,0,646,0
+6591,west bengal,kharagpur g.r.p.,2009,0,0,0,0,0,3,0
+6592,west bengal,kolkata,2009,42,107,10,201,90,411,4
+6593,west bengal,malda,2009,197,132,10,131,0,567,0
+6594,west bengal,murshidabad,2009,568,342,51,348,1,3035,0
+6595,west bengal,nadia,2009,175,276,44,118,0,1508,1
+6596,west bengal,paschim midnapur,2009,57,79,31,83,0,567,0
+6597,west bengal,purab midnapur,2009,41,74,40,33,0,475,0
+6598,west bengal,purulia,2009,53,0,9,30,0,170,0
+6599,west bengal,sealdah g.r.p.,2009,1,6,3,7,0,5,0
+6600,west bengal,siliguri g.r.p.,2009,0,1,0,3,0,0,0
+6601,west bengal,uttar dinajpur,2009,80,85,18,75,0,334,0
+6603,a&n islands,andaman,2009,18,14,1,29,7,21,0
+6604,a&n islands,nicobar,2009,0,0,0,1,0,0,0
+6606,chandigarh,chandigarh,2009,29,36,2,26,2,51,0
+6608,d&n haveli,d and n haveli,2009,4,9,0,2,1,3,0
+6610,daman & diu,daman,2009,1,0,0,4,1,1,0
+6611,daman & diu,diu,2009,0,0,0,0,0,2,0
+6613,delhi,caw,2009,0,0,0,1,0,192,0
+6614,delhi,central,2009,28,49,6,34,5,62,0
+6615,delhi,crime branch,2009,2,0,0,0,0,0,0
+6617,delhi,east,2009,52,187,10,81,10,121,0
+6618,delhi,eow,2009,0,0,0,1,1,0,0
+6619,delhi,grp(rly),2009,4,5,1,0,0,1,0
+6620,delhi,igi airport,2009,0,0,0,2,0,0,0
+6621,delhi,new delhi,2009,6,17,1,17,7,7,0
+6622,delhi,north,2009,19,81,8,35,18,49,0
+6623,delhi,north-east,2009,47,246,15,67,9,138,0
+6624,delhi,north-west,2009,54,137,13,39,0,120,0
+6625,delhi,outer,2009,41,204,21,61,6,173,0
+6626,delhi,south,2009,42,97,10,45,23,61,0
+6627,delhi,south-east,2009,59,237,18,78,30,63,0
+6628,delhi,south-west,2009,52,170,17,53,3,79,0
+6629,delhi,stf,2009,0,0,0,0,0,0,0
+6630,delhi,west,2009,63,225,21,38,6,217,0
+6631,lakshadweep,lakshadweep,2009,1,0,0,0,0,0,0
+6633,puducherry,karaikal,2009,0,1,0,16,2,0,0
+6634,puducherry,puducherry,2009,1,12,0,37,14,10,0

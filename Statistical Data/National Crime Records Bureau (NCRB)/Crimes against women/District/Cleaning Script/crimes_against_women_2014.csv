@@ -1,0 +1,802 @@
+,state_ut,district,year,rape,kidnapping_abduction,dowry_deaths,assault_intnt_outrage_modesty,inslt_modesty_women,cruelty_husban_reltvs,in_trafficking
+0,andhra pradesh,anantapur,2014,35,106,25,436,26,165,0
+1,andhra pradesh,chittoor,2014,32,34,17,135,94,278,0
+2,andhra pradesh,cuddapah,2014,28,16,16,215,12,91,0
+3,andhra pradesh,east godavari,2014,85,25,7,519,62,464,0
+4,andhra pradesh,guntakal railway,2014,0,0,0,0,0,0,0
+5,andhra pradesh,guntur,2014,49,46,16,245,347,454,0
+6,andhra pradesh,guntur urban,2014,40,56,12,160,452,345,0
+7,andhra pradesh,krishna,2014,80,34,8,354,232,613,0
+8,andhra pradesh,kurnool,2014,32,37,12,403,251,362,0
+9,andhra pradesh,nellore,2014,58,124,14,295,205,362,0
+10,andhra pradesh,prakasham,2014,50,50,8,197,16,402,0
+11,andhra pradesh,rajahmundry,2014,35,8,3,121,27,190,0
+12,andhra pradesh,srikakulam,2014,40,10,3,214,91,298,0
+13,andhra pradesh,tirupathi urban,2014,18,17,13,60,21,167,0
+14,andhra pradesh,vijayawada city,2014,64,27,10,279,212,642,0
+15,andhra pradesh,vijayawada railway,2014,0,2,2,8,6,1,0
+16,andhra pradesh,visakha rural,2014,38,15,4,129,57,166,0
+17,andhra pradesh,visakhapatnam,2014,84,50,13,147,112,371,0
+18,andhra pradesh,vizianagaram,2014,47,19,8,225,327,330,0
+19,andhra pradesh,west godavari,2014,146,45,24,405,99,661,0
+21,arunachal pradesh,anjaw,2014,0,1,0,1,0,0,0
+22,arunachal pradesh,changlang,2014,6,6,0,0,0,0,0
+23,arunachal pradesh,crime branch,2014,0,0,0,0,0,0,0
+24,arunachal pradesh,dibang valley,2014,1,0,0,0,0,0,0
+25,arunachal pradesh,kameng east,2014,1,1,0,6,0,0,0
+26,arunachal pradesh,kameng west,2014,0,2,0,9,0,2,0
+27,arunachal pradesh,kukung kumey,2014,3,0,0,1,0,0,0
+28,arunachal pradesh,lohit,2014,7,25,0,13,0,1,0
+29,arunachal pradesh,longding,2014,3,4,0,3,0,0,0
+30,arunachal pradesh,lower dibang valley,2014,3,2,0,0,0,0,0
+31,arunachal pradesh,papum pare city,2014,32,36,1,26,0,21,0
+32,arunachal pradesh,papum pare rural,2014,0,4,0,4,0,0,0
+33,arunachal pradesh,siang east,2014,11,2,0,21,0,4,0
+34,arunachal pradesh,siang upper,2014,1,0,0,1,0,0,0
+35,arunachal pradesh,siang west,2014,6,1,0,11,3,8,0
+36,arunachal pradesh,subansiri lower,2014,1,2,0,6,0,3,0
+37,arunachal pradesh,subansiri upper,2014,5,2,0,16,0,3,0
+38,arunachal pradesh,tawang,2014,0,0,0,1,0,0,0
+39,arunachal pradesh,tirap,2014,3,3,0,2,0,0,0
+41,assam,barpeta,2014,143,359,21,556,0,1116,0
+42,assam,baska,2014,26,36,4,27,0,77,0
+43,assam,bongaigaon,2014,31,29,4,8,0,178,0
+44,assam,cachar,2014,81,214,14,50,0,595,0
+45,assam,chirang,2014,29,42,7,33,0,60,0
+46,assam,darrang,2014,111,186,11,453,0,489,0
+47,assam,dhemaji,2014,45,68,3,51,1,111,0
+48,assam,dhubri,2014,193,405,10,193,0,1186,0
+49,assam,dibrugarh,2014,67,123,5,105,0,253,0
+50,assam,goalpara,2014,108,119,8,121,0,367,0
+51,assam,golaghat,2014,74,190,7,74,0,166,0
+52,assam,guwahati city,2014,100,424,11,143,0,486,0
+53,assam,hailakandi,2014,77,89,4,23,0,209,0
+54,assam,jorhat,2014,36,72,6,157,0,401,0
+55,assam,kamrup,2014,77,47,1,15,0,595,0
+56,assam,karbi anglong,2014,23,55,0,26,0,42,0
+57,assam,karimganj,2014,76,109,13,10,0,337,0
+58,assam,kokrajhar,2014,45,79,3,47,0,71,1
+59,assam,lakhimpur,2014,67,150,4,55,0,369,0
+60,assam,morigaon,2014,81,174,7,328,0,349,0
+61,assam,n. c. hills,2014,6,25,0,0,0,6,0
+62,assam,nagaon,2014,187,295,22,350,0,1162,0
+63,assam,nalbari,2014,41,100,0,0,0,42,0
+64,assam,sibsagar,2014,44,177,6,153,0,333,0
+65,assam,sonitpur,2014,112,202,5,20,0,381,0
+66,assam,tinsukia,2014,66,64,3,66,0,164,0
+67,assam,udalguri,2014,34,62,9,35,0,81,0
+69,bihar,araria,2014,35,68,17,1,0,6,0
+70,bihar,arwal,2014,6,18,11,4,0,0,0
+71,bihar,aurangabad,2014,12,70,28,29,0,110,0
+72,bihar,bagaha,2014,14,56,7,38,0,56,0
+73,bihar,banka,2014,22,62,23,3,0,64,0
+74,bihar,begusarai,2014,30,132,28,37,1,55,0
+75,bihar,bettiah,2014,33,102,39,0,0,106,0
+76,bihar,bhabhua,2014,12,61,12,0,0,44,0
+77,bihar,bhagalpur,2014,52,165,20,31,0,161,0
+78,bihar,bhojpur,2014,32,115,46,7,0,129,0
+79,bihar,buxar,2014,16,72,24,13,0,95,0
+80,bihar,darbhanga,2014,50,216,30,8,0,298,0
+81,bihar,gaya,2014,48,174,63,0,0,198,0
+82,bihar,gopalganj,2014,14,110,33,0,6,156,0
+83,bihar,jamalpur railway,2014,0,2,0,3,0,0,0
+84,bihar,jamui,2014,23,46,21,10,1,46,0
+85,bihar,jehanabad,2014,10,66,22,0,0,56,0
+86,bihar,katihar,2014,65,116,14,0,0,59,0
+87,bihar,katihar railway,2014,0,1,0,11,0,0,0
+88,bihar,khagaria,2014,14,92,17,2,0,19,0
+89,bihar,kishanganj,2014,64,101,12,22,0,85,0
+90,bihar,lakhisarai,2014,10,35,8,63,1,29,0
+91,bihar,madhepura,2014,10,64,8,8,0,50,0
+92,bihar,madhubani,2014,41,169,34,9,0,227,0
+93,bihar,motihari,2014,31,223,75,0,0,263,0
+94,bihar,munger,2014,11,49,8,5,0,48,0
+95,bihar,muzaffarpur,2014,44,215,178,166,0,109,5
+96,bihar,muzaffarpur railway,2014,2,2,2,1,0,0,0
+97,bihar,nalanda,2014,29,124,59,4,0,271,0
+98,bihar,naugachia,2014,10,36,10,3,0,88,0
+99,bihar,nawadah,2014,22,57,22,10,0,77,0
+100,bihar,patna,2014,86,519,83,0,60,535,0
+101,bihar,patna railway,2014,1,1,5,13,0,0,0
+102,bihar,purnea,2014,66,140,26,30,0,115,0
+103,bihar,rohtas,2014,22,115,54,0,0,106,0
+104,bihar,saharsa,2014,14,94,19,0,0,70,0
+105,bihar,samastipur,2014,38,173,39,0,0,184,0
+106,bihar,saran,2014,37,160,83,0,0,157,0
+107,bihar,sheikhpura,2014,5,34,6,18,0,72,0
+108,bihar,sheohar,2014,8,24,6,16,0,14,0
+109,bihar,sitamarhi,2014,11,188,29,0,0,242,0
+110,bihar,siwan,2014,17,152,64,7,0,50,0
+111,bihar,supaul,2014,32,90,22,0,0,83,0
+112,bihar,vaishali,2014,28,226,66,0,0,139,0
+113,bihar,economic offences unit,2014,0,0,0,0,0,0,0
+114,bihar,anti terrorist squad,2014,0,0,0,0,0,0,0
+116,chhattisgarh,balod,2014,34,18,4,62,3,23,0
+117,chhattisgarh,balodbazar,2014,40,113,8,95,6,32,0
+118,chhattisgarh,balrampur,2014,111,14,5,62,1,39,0
+119,chhattisgarh,bemetra,2014,41,23,3,56,0,19,0
+120,chhattisgarh,bilaspur,2014,94,156,13,211,5,75,0
+121,chhattisgarh,bizapur,2014,6,8,0,2,0,2,0
+122,chhattisgarh,dantewara,2014,11,6,0,9,0,6,0
+123,chhattisgarh,dhamtari,2014,36,19,3,49,6,9,0
+124,chhattisgarh,durg,2014,84,150,12,254,12,172,0
+125,chhattisgarh,gariyaband,2014,42,13,3,31,3,14,0
+126,chhattisgarh,g. r. p. raipur,2014,0,1,1,8,0,4,0
+127,chhattisgarh,jagdalpur,2014,32,31,1,42,0,20,0
+128,chhattisgarh,janjgir,2014,64,106,20,141,7,90,0
+129,chhattisgarh,jashpur,2014,86,33,0,48,0,11,0
+130,chhattisgarh,kabirdham,2014,39,54,6,84,2,14,0
+131,chhattisgarh,kanker,2014,40,31,5,37,2,25,0
+132,chhattisgarh,kondagaon,2014,21,15,1,16,0,8,0
+133,chhattisgarh,korba,2014,68,36,6,83,4,51,0
+134,chhattisgarh,koriya,2014,58,62,2,74,1,59,0
+135,chhattisgarh,mahasamund,2014,44,65,10,99,4,28,0
+136,chhattisgarh,mungali,2014,10,32,6,38,15,14,0
+137,chhattisgarh,narayanpur,2014,7,5,0,6,0,1,0
+138,chhattisgarh,raigarh,2014,121,49,7,140,1,46,0
+139,chhattisgarh,raipur,2014,141,179,3,224,4,96,0
+140,chhattisgarh,rajnandgaon,2014,57,93,4,100,3,33,0
+141,chhattisgarh,sarguja,2014,94,11,4,76,0,23,0
+142,chhattisgarh,sukma,2014,5,5,0,5,0,3,0
+143,chhattisgarh,surajpur,2014,50,65,1,70,0,47,0
+145,goa,north goa,2014,55,55,0,146,40,11,0
+146,goa,south goa,2014,37,31,0,53,17,23,0
+147,goa,c. i. d.,2014,3,0,0,3,0,1,0
+149,gujarat,ahmedabad city,2014,100,261,11,162,3,802,0
+150,gujarat,ahmedabad rural,2014,18,80,0,31,0,142,0
+151,gujarat,amreli,2014,7,65,0,21,1,139,0
+152,gujarat,anand,2014,12,71,0,21,5,117,0
+153,gujarat,arvalli,2014,5,37,0,19,2,69,0
+154,gujarat,banaskantha,2014,56,105,0,90,2,295,0
+155,gujarat,bharuch,2014,42,45,0,49,0,63,0
+156,gujarat,bhavnagar,2014,17,97,0,39,36,155,0
+157,gujarat,botad,2014,11,25,0,11,0,39,0
+158,gujarat,chhotaudepur,2014,15,38,0,11,0,21,0
+159,gujarat,c. i. d. crime,2014,0,0,0,0,0,0,0
+160,gujarat,dahod,2014,27,95,0,28,0,133,0
+161,gujarat,dang,2014,4,2,1,6,4,26,0
+162,gujarat,devbhumi dwarka,2014,3,13,0,14,0,131,0
+163,gujarat,gandhinagar,2014,17,65,0,22,2,152,0
+164,gujarat,gir somnath,2014,17,29,1,30,2,125,0
+165,gujarat,jamnagar,2014,34,56,1,26,1,230,0
+166,gujarat,junagadh,2014,21,64,0,42,0,297,0
+167,gujarat,kachchh east(g),2014,31,39,0,34,2,159,0
+168,gujarat,kachchh west(b),2014,18,26,0,27,3,203,0
+169,gujarat,kheda,2014,12,78,0,29,0,86,0
+170,gujarat,mahisagar,2014,10,22,0,15,0,96,0
+171,gujarat,mehsana,2014,6,92,0,42,0,270,0
+172,gujarat,morbi,2014,9,22,3,17,1,92,0
+173,gujarat,narmada,2014,8,15,0,21,0,15,0
+174,gujarat,navsari,2014,15,32,0,19,0,69,0
+175,gujarat,panchmahal,2014,24,66,0,28,0,106,0
+176,gujarat,patan,2014,25,48,1,51,0,138,0
+177,gujarat,porbandar,2014,8,17,1,18,1,93,0
+178,gujarat,rajkot city,2014,17,69,0,31,5,301,0
+179,gujarat,rajkot rural,2014,30,61,1,36,1,234,0
+180,gujarat,sabarkantha,2014,10,34,0,33,1,131,0
+181,gujarat,surat city,2014,94,120,2,70,0,405,0
+182,gujarat,surat rural,2014,21,35,0,34,0,90,0
+183,gujarat,surendranagar,2014,22,37,0,36,0,89,0
+184,gujarat,tapi,2014,15,10,0,9,89,20,0
+185,gujarat,vadodara city,2014,23,75,1,109,8,306,0
+186,gujarat,vadodara rural,2014,11,62,0,36,3,67,0
+187,gujarat,valsad,2014,26,76,0,27,0,83,0
+188,gujarat,w.rly  ahmedabad,2014,0,0,0,6,0,2,0
+189,gujarat,w.rly vadodara,2014,0,3,0,2,1,0,0
+191,haryana,ambala (rural),2014,25,58,9,17,0,52,0
+192,haryana,ambala (urban),2014,31,86,8,23,1,111,0
+193,haryana,bhiwani,2014,44,83,12,99,1,119,0
+194,haryana,faridabad,2014,101,272,20,94,16,302,0
+195,haryana,fatehabad,2014,27,33,7,56,2,154,0
+196,haryana,g. r. p.,2014,1,4,8,17,1,0,0
+197,haryana,gurgaon,2014,117,260,19,155,13,277,0
+198,haryana,hissar,2014,55,62,14,91,1,323,0
+199,haryana,jhajjar,2014,56,17,25,47,7,125,0
+200,haryana,jind,2014,23,67,12,67,0,120,0
+201,haryana,kaithal,2014,33,77,10,58,0,116,0
+202,haryana,karnal,2014,100,186,17,95,3,223,0
+203,haryana,kurukshetra,2014,35,57,6,59,7,100,0
+204,haryana,mahendergarh,2014,24,59,15,78,7,78,0
+205,haryana,mewat,2014,85,30,5,86,1,106,0
+206,haryana,palwal,2014,49,72,16,96,0,193,0
+207,haryana,panchkula,2014,36,90,5,30,3,73,0
+208,haryana,panipat,2014,64,92,18,97,0,227,0
+209,haryana,rewari,2014,41,83,11,65,35,105,0
+210,haryana,rohtak,2014,68,19,16,98,0,168,0
+211,haryana,sirsa,2014,49,65,5,86,2,174,0
+212,haryana,sonipat,2014,60,68,28,98,2,162,0
+213,haryana,yamunanagar,2014,50,82,7,76,0,170,0
+214,haryana,irrigation & power,2014,0,0,0,0,0,0,0
+216,himachal pradesh,baddi,2014,9,10,0,15,1,19,0
+217,himachal pradesh,bilaspur,2014,15,43,0,72,0,25,0
+218,himachal pradesh,chamba,2014,23,19,0,27,1,9,0
+219,himachal pradesh,c. i. d.,2014,1,0,0,0,0,0,0
+220,himachal pradesh,g. r. p.,2014,0,0,0,0,0,0,0
+221,himachal pradesh,hamirpur,2014,13,13,0,32,14,27,0
+222,himachal pradesh,kangra,2014,43,26,0,79,15,46,0
+223,himachal pradesh,kinnaur,2014,10,3,0,5,1,3,0
+224,himachal pradesh,kullu,2014,16,4,0,35,0,21,0
+225,himachal pradesh,lahaul & spiti,2014,0,1,0,0,0,0,0
+226,himachal pradesh,mandi,2014,47,33,0,101,15,50,0
+227,himachal pradesh,shimla,2014,39,32,0,64,10,27,0
+228,himachal pradesh,sirmaur,2014,28,15,0,46,2,24,0
+229,himachal pradesh,solan,2014,16,18,0,31,0,12,0
+230,himachal pradesh,una,2014,23,10,1,31,1,62,0
+232,jammu & kashmir,anantnag,2014,19,62,0,123,0,9,0
+233,jammu & kashmir,awantipora,2014,6,19,0,19,0,1,0
+234,jammu & kashmir,bandipora,2014,4,37,0,53,5,4,0
+235,jammu & kashmir,baramulla,2014,10,54,0,83,18,11,0
+236,jammu & kashmir,budgam,2014,9,46,0,30,6,3,0
+237,jammu & kashmir,crime jammu,2014,0,0,0,0,0,0,0
+238,jammu & kashmir,crime srinagar,2014,1,0,0,0,0,0,0
+239,jammu & kashmir,doda,2014,23,16,0,60,8,14,0
+240,jammu & kashmir,ganderbal,2014,0,20,0,54,0,3,0
+241,jammu & kashmir,handwara,2014,3,24,0,80,0,2,0
+242,jammu & kashmir,jammu,2014,68,60,4,81,52,159,0
+243,jammu & kashmir,kargil,2014,2,2,0,0,0,0,0
+244,jammu & kashmir,kathua,2014,18,33,1,43,15,21,0
+245,jammu & kashmir,kishtwar,2014,6,18,0,23,0,9,0
+246,jammu & kashmir,kulgam,2014,7,39,0,171,13,0,0
+247,jammu & kashmir,kupwara,2014,8,42,0,61,12,8,0
+248,jammu & kashmir,leh,2014,6,1,0,3,0,0,0
+249,jammu & kashmir,poonch,2014,13,36,0,42,8,25,0
+250,jammu & kashmir,pulwama,2014,7,20,0,20,6,1,0
+251,jammu & kashmir,railways jammu,2014,0,0,0,1,2,0,0
+252,jammu & kashmir,railways kashmir,2014,0,0,0,2,0,0,0
+253,jammu & kashmir,railways katra,2014,0,0,0,0,1,0,0
+254,jammu & kashmir,rajouri,2014,39,60,0,65,17,71,0
+255,jammu & kashmir,ramban,2014,8,23,0,25,14,12,0
+256,jammu & kashmir,reasi,2014,16,26,0,18,3,16,0
+257,jammu & kashmir,samba,2014,7,12,0,10,0,8,0
+258,jammu & kashmir,shopian,2014,1,37,0,30,0,2,0
+259,jammu & kashmir,sopore,2014,8,40,0,83,0,7,0
+260,jammu & kashmir,srinagar,2014,12,68,0,218,44,63,0
+261,jammu & kashmir,udhampur,2014,30,18,0,23,13,18,0
+263,jharkhand,bokaro,2014,63,97,18,0,0,187,0
+264,jharkhand,chaibasa,2014,54,22,2,22,0,19,0
+265,jharkhand,chatra,2014,18,31,62,19,8,24,0
+266,jharkhand,deoghar,2014,25,63,28,21,0,138,0
+267,jharkhand,dhanbad,2014,54,148,28,54,0,99,0
+268,jharkhand,dhanbad railway,2014,0,4,2,6,0,0,0
+269,jharkhand,dumka,2014,39,16,11,9,4,55,0
+270,jharkhand,garhwa,2014,50,82,25,19,0,45,0
+271,jharkhand,giridih,2014,58,0,40,39,0,176,0
+272,jharkhand,godda,2014,34,17,3,0,0,57,0
+273,jharkhand,gumla,2014,67,40,1,15,0,24,0
+274,jharkhand,hazaribagh,2014,52,26,23,50,0,37,0
+275,jharkhand,jamshedpur,2014,55,70,13,47,2,110,0
+276,jharkhand,jamshedpur railway,2014,0,3,0,2,0,0,0
+277,jharkhand,jamtara,2014,27,24,10,29,0,70,2
+278,jharkhand,khunti,2014,7,8,2,3,0,11,0
+279,jharkhand,koderma,2014,15,15,16,0,0,39,0
+280,jharkhand,latehar,2014,25,11,8,0,0,17,0
+281,jharkhand,lohardagga,2014,43,19,2,5,0,24,0
+282,jharkhand,pakur,2014,55,11,1,12,0,91,0
+283,jharkhand,palamu,2014,44,23,19,15,0,42,0
+284,jharkhand,ramgarh,2014,48,29,11,20,2,34,0
+285,jharkhand,ranchi,2014,75,76,13,1,2,48,0
+286,jharkhand,sahebganj,2014,87,40,4,20,0,75,0
+287,jharkhand,saraikela,2014,31,7,7,27,0,27,0
+288,jharkhand,simdega,2014,24,3,1,5,0,13,0
+290,karnataka,bagalkot,2014,22,17,4,96,1,53,0
+291,karnataka,bengaluru city,2014,104,618,57,680,57,490,0
+292,karnataka,bengaluru district,2014,60,69,22,135,0,97,0
+293,karnataka,belagavi district,2014,59,23,4,233,4,162,0
+294,karnataka,ballari,2014,48,13,12,121,0,72,0
+295,karnataka,bidar,2014,33,42,10,82,11,106,0
+296,karnataka,vijayapura,2014,45,14,7,127,0,122,0
+297,karnataka,chikkaballapura,2014,36,13,10,106,8,26,0
+298,karnataka,chamarajnagar,2014,11,18,5,92,1,15,0
+299,karnataka,chikkamagaluru,2014,30,8,5,172,2,110,0
+300,karnataka,chitradurga,2014,24,24,17,241,5,77,0
+301,karnataka,dakshina kannada,2014,40,6,1,70,4,32,0
+302,karnataka,davanagere,2014,40,53,9,211,2,87,0
+303,karnataka,dharwad,2014,23,6,3,32,0,15,0
+304,karnataka,gadag,2014,15,9,2,31,0,22,0
+305,karnataka,kalaburgi,2014,53,37,14,145,11,127,0
+306,karnataka,hassan,2014,63,43,11,251,0,103,0
+307,karnataka,haveri,2014,40,12,10,94,3,44,0
+308,karnataka,hubballi dharwad city,2014,21,28,7,31,3,39,0
+309,karnataka,k.g.f.,2014,20,8,1,21,1,14,0
+310,karnataka,kodagu,2014,25,6,1,60,5,40,0
+311,karnataka,kolar,2014,32,6,8,67,0,21,0
+312,karnataka,koppal,2014,28,31,4,34,0,50,0
+313,karnataka,mandya,2014,36,61,11,278,12,143,0
+314,karnataka,mangaluru city,2014,25,10,1,72,2,56,0
+315,karnataka,mysuru city,2014,41,23,3,87,4,51,0
+316,karnataka,mysuru district,2014,41,49,20,201,5,107,0
+317,karnataka,raichur,2014,55,30,5,198,4,134,0
+318,karnataka,k.railways,2014,1,0,1,9,0,2,0
+319,karnataka,ramanagar,2014,43,45,12,142,0,60,0
+320,karnataka,shimoga,2014,58,47,8,404,7,228,0
+321,karnataka,tumakuru,2014,36,27,15,242,8,87,0
+322,karnataka,udupi,2014,28,2,3,111,1,57,0
+323,karnataka,uttara kannada,2014,25,22,0,154,6,56,0
+324,karnataka,yadgiri,2014,41,21,2,148,0,48,0
+325,karnataka,belagavi city,2014,22,16,8,85,3,72,0
+327,kerala,alapuzha,2014,61,7,0,245,10,261,0
+328,kerala,ernakulam commr.,2014,64,1,0,158,18,166,0
+329,kerala,ernakulam rural,2014,71,6,0,224,37,169,0
+330,kerala,idukki,2014,71,7,2,186,12,160,0
+331,kerala,kannur,2014,59,6,1,222,10,330,0
+332,kerala,kasargod,2014,59,7,0,123,4,210,0
+333,kerala,kollam commr.,2014,78,8,1,287,13,296,0
+334,kerala,kollam rural,2014,81,15,2,240,7,276,0
+335,kerala,kottayam,2014,75,9,0,204,19,182,0
+336,kerala,kozhikode commr.,2014,35,2,1,107,9,184,0
+337,kerala,kozhikode rural,2014,52,7,0,226,5,307,0
+338,kerala,malappuram,2014,103,3,1,346,10,590,0
+339,kerala,palakkad,2014,88,14,7,182,12,450,0
+340,kerala,pathanamthitta,2014,63,11,0,163,8,118,0
+341,kerala,railways,2014,0,1,0,74,10,0,0
+342,kerala,thrissur commr.,2014,38,0,0,109,11,130,0
+343,kerala,thrissur rural,2014,94,9,2,298,22,468,0
+344,kerala,trivandrum commr.,2014,56,8,2,254,15,134,0
+345,kerala,trivandrum rural,2014,122,11,6,581,22,387,0
+346,kerala,wayanadu,2014,75,11,0,134,3,99,0
+347,kerala,crime branch,2014,2,0,3,4,0,2,0
+349,madhya pradesh,agar,2014,28,12,2,56,8,44,0
+350,madhya pradesh,alirajpur,2014,17,15,0,15,0,10,0
+351,madhya pradesh,anuppur,2014,70,83,7,121,0,114,0
+352,madhya pradesh,ashok nagar,2014,76,38,12,171,1,82,0
+353,madhya pradesh,balaghat,2014,131,155,12,178,3,107,0
+354,madhya pradesh,barwani,2014,68,23,4,92,4,16,0
+355,madhya pradesh,betul,2014,164,152,9,417,27,379,0
+356,madhya pradesh,bhind,2014,78,106,30,142,0,86,0
+357,madhya pradesh,bhopal,2014,223,294,20,343,18,348,0
+358,madhya pradesh,bhopal railway,2014,3,14,0,19,1,4,0
+359,madhya pradesh,burhanpur,2014,46,17,5,90,5,48,0
+360,madhya pradesh,chhatarpur,2014,78,147,22,232,0,74,0
+361,madhya pradesh,chhindwara,2014,205,213,9,241,36,185,0
+362,madhya pradesh,damoh,2014,46,97,31,137,0,68,0
+363,madhya pradesh,datia,2014,34,53,14,88,0,57,0
+364,madhya pradesh,dewas,2014,121,73,10,216,7,145,0
+365,madhya pradesh,dhar,2014,138,265,15,244,16,85,0
+366,madhya pradesh,dindori,2014,91,57,4,162,2,119,0
+367,madhya pradesh,guna,2014,123,93,12,168,8,92,0
+368,madhya pradesh,gwalior,2014,158,146,36,364,21,441,0
+369,madhya pradesh,harda,2014,47,68,5,82,2,28,0
+370,madhya pradesh,hoshangabad,2014,102,80,6,183,12,121,0
+371,madhya pradesh,indore,2014,261,340,37,411,34,254,0
+372,madhya pradesh,indore railway,2014,4,2,0,9,0,0,0
+373,madhya pradesh,jabalpur,2014,194,304,34,374,43,315,0
+374,madhya pradesh,jabalpur railway,2014,4,6,0,21,2,0,0
+375,madhya pradesh,jhabua,2014,52,87,0,98,0,22,0
+376,madhya pradesh,katni,2014,93,114,18,178,4,65,0
+377,madhya pradesh,khandwa,2014,84,101,6,270,17,103,0
+378,madhya pradesh,khargone,2014,118,116,43,247,0,74,0
+379,madhya pradesh,mandla,2014,64,131,6,99,1,76,0
+380,madhya pradesh,mandsaur,2014,90,86,5,183,7,180,0
+381,madhya pradesh,morena,2014,43,85,30,131,4,192,0
+382,madhya pradesh,narsinghpur,2014,113,53,20,165,2,145,0
+383,madhya pradesh,neemuch,2014,47,27,3,88,2,43,0
+384,madhya pradesh,panna,2014,41,125,10,84,0,38,0
+385,madhya pradesh,raisen,2014,161,69,5,225,8,76,0
+386,madhya pradesh,rajgarh,2014,94,97,5,235,7,134,0
+387,madhya pradesh,ratlam,2014,69,133,5,151,12,129,0
+388,madhya pradesh,rewa,2014,110,202,36,169,1,90,0
+389,madhya pradesh,sagar,2014,126,170,35,405,10,175,0
+390,madhya pradesh,satna,2014,187,248,30,254,24,116,0
+391,madhya pradesh,seoni,2014,83,121,9,137,3,47,0
+392,madhya pradesh,shahdol,2014,122,121,16,272,3,336,0
+393,madhya pradesh,shajapur,2014,68,31,7,139,0,130,0
+394,madhya pradesh,sheopur,2014,23,22,5,57,4,37,0
+395,madhya pradesh,shivpuri,2014,101,123,11,269,4,111,0
+396,madhya pradesh,sidhi,2014,40,72,14,100,3,68,0
+397,madhya pradesh,sehore,2014,124,114,12,162,6,158,0
+398,madhya pradesh,singrauli,2014,88,94,17,97,1,105,0
+399,madhya pradesh,tikamgarh,2014,92,65,15,133,6,42,0
+400,madhya pradesh,ujjain,2014,126,96,11,282,29,285,0
+401,madhya pradesh,umaria,2014,51,42,2,104,3,90,0
+402,madhya pradesh,vidisha,2014,156,90,21,299,18,162,0
+403,madhya pradesh,cyber cell,2014,0,0,0,0,0,0,0
+405,maharashtra,ahmednagar,2014,103,85,13,269,8,264,0
+406,maharashtra,akola,2014,52,32,5,219,20,136,0
+407,maharashtra,amravati commr.,2014,27,24,1,132,12,108,0
+408,maharashtra,amravati rural,2014,103,59,8,415,17,213,0
+409,maharashtra,aurangabad commr.,2014,27,38,2,227,5,164,0
+410,maharashtra,aurangabad rural,2014,31,25,7,177,3,218,0
+411,maharashtra,beed,2014,70,49,3,273,1,316,0
+412,maharashtra,bhandara,2014,28,18,3,73,14,40,0
+413,maharashtra,buldhana,2014,57,33,22,253,36,152,0
+414,maharashtra,chandrapur,2014,99,39,2,224,28,203,0
+415,maharashtra,dhule,2014,35,40,11,98,5,207,0
+416,maharashtra,gadchiroli,2014,22,6,0,32,2,16,0
+417,maharashtra,gondia,2014,58,19,6,113,3,46,0
+418,maharashtra,hingoli,2014,24,16,4,80,0,83,0
+419,maharashtra,jalgaon,2014,66,76,1,347,34,374,0
+420,maharashtra,jalna,2014,33,31,13,185,8,289,0
+421,maharashtra,kolhapur,2014,84,47,8,176,7,150,0
+422,maharashtra,latur,2014,57,84,4,174,2,323,0
+423,maharashtra,mumbai commr.,2014,607,280,22,1626,363,563,0
+424,maharashtra,mumbai railway,2014,1,10,0,55,4,0,0
+425,maharashtra,nagpur commr.,2014,113,89,10,279,25,234,0
+426,maharashtra,nagpur railway,2014,3,2,0,20,0,0,0
+427,maharashtra,nagpur rural,2014,65,34,4,187,25,85,0
+428,maharashtra,nanded,2014,43,53,6,147,3,180,0
+429,maharashtra,nandurbar,2014,25,17,2,36,4,47,0
+430,maharashtra,nasik commr.,2014,28,33,3,101,3,200,1
+431,maharashtra,nasik rural,2014,87,85,17,224,5,383,0
+432,maharashtra,navi mumbai,2014,88,63,6,158,49,131,0
+433,maharashtra,osmanabad,2014,43,21,5,126,5,117,0
+434,maharashtra,palghar,2014,98,65,1,183,22,73,0
+435,maharashtra,parbhani,2014,38,27,5,140,2,251,0
+436,maharashtra,pune commr.,2014,189,124,20,454,98,391,0
+437,maharashtra,pune railway,2014,2,2,1,5,0,0,0
+438,maharashtra,pune rural,2014,147,102,13,356,48,219,0
+439,maharashtra,raigad,2014,47,27,2,99,15,54,0
+440,maharashtra,ratnagiri,2014,34,8,0,59,10,26,0
+441,maharashtra,sangli,2014,66,48,6,157,5,108,0
+442,maharashtra,satara,2014,97,69,4,241,12,188,0
+443,maharashtra,sindhudurg,2014,12,8,0,42,7,4,0
+444,maharashtra,solapur commr.,2014,39,30,3,52,7,52,0
+445,maharashtra,solapur rural,2014,97,72,2,227,23,122,0
+446,maharashtra,thane commr.,2014,215,246,13,559,73,351,0
+447,maharashtra,thane rural,2014,75,36,3,165,39,103,0
+448,maharashtra,wardha,2014,62,28,1,192,8,98,0
+449,maharashtra,washim,2014,33,22,5,178,11,113,0
+450,maharashtra,yavatmal,2014,108,135,12,466,504,301,0
+452,manipur,bishnupur,2014,9,8,0,6,0,3,0
+453,manipur,chandel,2014,0,0,0,1,0,0,0
+454,manipur,churachandpur,2014,5,3,0,3,0,0,0
+455,manipur,c. i. d.,2014,0,0,0,0,0,0,0
+456,manipur,imphal east,2014,20,17,1,7,0,8,0
+457,manipur,imphal west,2014,20,36,0,44,0,14,0
+458,manipur,senapati,2014,1,1,0,2,0,0,0
+459,manipur,tamenglong,2014,0,4,0,0,0,0,0
+460,manipur,thoubal,2014,19,51,0,35,0,16,0
+461,manipur,ukhrul,2014,1,1,0,0,0,0,0
+463,meghalaya,garo hills east,2014,3,0,0,3,1,0,0
+464,meghalaya,garo hills north,2014,3,8,0,8,0,1,0
+465,meghalaya,garo hills south,2014,3,4,0,3,0,3,0
+466,meghalaya,garo hills south west,2014,4,1,0,8,1,1,0
+467,meghalaya,garo hills west,2014,11,9,0,11,7,10,0
+468,meghalaya,jaintia hills west,2014,10,2,0,5,3,1,0
+469,meghalaya,jaintia hills east,2014,11,0,0,7,0,0,0
+470,meghalaya,khasi hills east,2014,14,7,0,45,35,26,0
+471,meghalaya,khasi hills south west,2014,12,0,1,0,7,0,0
+472,meghalaya,khasi hills west,2014,19,1,0,4,0,0,0
+473,meghalaya,ri-bhoi,2014,28,6,0,11,0,0,0
+475,mizoram,aizawl,2014,39,1,0,58,0,5,0
+476,mizoram,champhai,2014,22,1,0,0,29,0,0
+477,mizoram,kolasib,2014,10,1,0,10,0,1,0
+478,mizoram,lawngtlai,2014,9,0,0,5,0,0,0
+479,mizoram,lunglei,2014,14,0,0,13,0,0,0
+480,mizoram,mamit,2014,10,0,0,6,0,2,0
+481,mizoram,saiha,2014,4,0,0,2,0,0,0
+482,mizoram,serchhip,2014,12,0,0,3,0,0,0
+483,mizoram,spl traffic,2014,0,0,0,0,0,0,0
+485,nagaland,dimapur,2014,12,8,0,10,1,3,0
+486,nagaland,kiphire,2014,1,0,0,0,0,0,0
+487,nagaland,kohima,2014,9,3,0,0,0,0,0
+488,nagaland,longleng,2014,1,0,0,0,0,0,0
+489,nagaland,mokokchung,2014,1,1,0,2,0,0,0
+490,nagaland,mon,2014,1,0,0,0,0,0,0
+491,nagaland,peren,2014,0,0,0,1,0,0,0
+492,nagaland,phek,2014,1,0,0,3,0,0,0
+493,nagaland,tuensang,2014,1,1,0,0,0,0,0
+494,nagaland,wokha,2014,0,0,0,0,0,0,0
+495,nagaland,zunheboto,2014,3,0,0,0,0,0,0
+497,odisha,angul,2014,44,66,4,146,8,30,0
+498,odisha,balasore,2014,110,182,2,566,26,380,0
+499,odisha,baragarh,2014,56,41,7,114,9,80,0
+500,odisha,berhampur,2014,30,36,0,162,24,118,0
+501,odisha,bhadrak,2014,63,98,24,178,5,168,0
+502,odisha,bolangir,2014,56,106,19,211,10,47,0
+503,odisha,boudh,2014,24,30,2,68,3,14,0
+504,odisha,cuttack,2014,58,85,27,29,9,28,0
+505,odisha,dcp bbsr,2014,72,103,27,53,12,104,0
+506,odisha,dcp ctc,2014,66,119,21,82,5,155,0
+507,odisha,deogarh,2014,32,14,1,46,1,23,0
+508,odisha,dhenkanal,2014,43,59,11,388,28,45,0
+509,odisha,gajapati,2014,19,16,3,84,4,9,0
+510,odisha,ganjam,2014,85,97,13,410,50,79,0
+511,odisha,jagatsinghpur,2014,37,68,26,208,4,119,0
+512,odisha,jajpur,2014,73,116,49,238,16,52,0
+513,odisha,jharsuguda,2014,42,21,9,108,4,51,0
+514,odisha,kalahandi,2014,101,154,12,215,14,125,0
+515,odisha,kandhamal,2014,54,32,4,121,9,35,0
+516,odisha,kendrapara,2014,48,81,32,154,19,217,0
+517,odisha,keonjhar,2014,103,80,11,293,14,65,0
+518,odisha,khurda,2014,39,74,22,103,21,37,0
+519,odisha,koraput,2014,94,69,4,152,5,46,0
+520,odisha,malkangiri,2014,19,11,4,29,5,16,0
+521,odisha,mayurbhanj,2014,139,126,32,324,21,270,0
+522,odisha,nayagarh,2014,23,33,7,37,2,23,0
+523,odisha,nabarangpur,2014,73,97,1,194,12,93,0
+524,odisha,nuapada,2014,26,42,5,136,4,91,0
+525,odisha,puri,2014,68,123,32,151,7,176,0
+526,odisha,rayagada,2014,59,64,0,102,5,121,0
+527,odisha,rourkela,2014,73,67,4,174,11,139,0
+528,odisha,sambalpur,2014,81,63,10,108,9,44,0
+529,odisha,sonepur,2014,18,23,4,46,0,29,0
+530,odisha,srp (cuttack),2014,0,2,0,9,1,1,0
+531,odisha,srp (rourkela),2014,1,3,0,10,1,0,0
+532,odisha,sundargarh,2014,49,35,12,94,1,84,0
+534,punjab,amritsar rural,2014,31,83,6,78,0,53,0
+535,punjab,barnala,2014,31,25,0,17,0,27,0
+536,punjab,batala,2014,30,34,3,36,0,37,0
+537,punjab,bathinda,2014,56,49,5,77,0,74,0
+538,punjab,cp amritsar,2014,34,56,3,45,2,150,0
+539,punjab,cp jalandhar,2014,49,77,1,77,2,106,0
+540,punjab,cp ludhiana,2014,111,246,5,98,19,158,0
+541,punjab,faridkot,2014,24,10,1,16,0,16,0
+542,punjab,fatehgarh sahib,2014,26,15,4,22,0,28,0
+543,punjab,fazilka,2014,52,28,4,18,0,59,0
+544,punjab,ferozepur,2014,55,17,3,31,0,45,0
+545,punjab,g. r. p.,2014,1,0,0,3,0,0,0
+546,punjab,gurdaspur,2014,26,19,2,37,0,47,0
+547,punjab,hoshiarpur,2014,43,52,7,41,2,93,0
+548,punjab,jalandhar rural,2014,31,34,2,37,0,32,0
+549,punjab,kapurthala,2014,29,29,3,33,1,58,0
+550,punjab,khanna,2014,23,37,3,34,0,38,0
+551,punjab,ludhiana rural,2014,14,41,3,22,0,30,0
+552,punjab,mansa,2014,22,8,5,22,2,39,0
+553,punjab,moga,2014,29,29,0,39,2,27,0
+554,punjab,muktsar,2014,29,26,1,24,1,26,0
+555,punjab,pathankot,2014,11,6,4,11,0,80,0
+556,punjab,patiala,2014,38,51,4,66,1,175,0
+557,punjab,ropar,2014,21,33,2,52,2,37,0
+558,punjab,sangrur,2014,57,46,7,54,0,85,0
+559,punjab,sas nagar,2014,59,75,5,57,0,74,0
+560,punjab,sbs nagar,2014,20,14,2,18,1,35,0
+561,punjab,tarn taran,2014,29,36,5,48,0,52,0
+563,rajasthan,ajmer,2014,130,162,10,181,0,844,0
+564,rajasthan,alwar,2014,299,247,33,256,0,720,0
+565,rajasthan,banswara,2014,146,136,6,103,0,198,0
+566,rajasthan,baran,2014,67,156,5,212,0,342,0
+567,rajasthan,barmer,2014,93,42,26,272,0,270,0
+568,rajasthan,bharatpur,2014,219,187,36,145,0,606,0
+569,rajasthan,bhilwara,2014,54,109,8,173,0,965,0
+570,rajasthan,bikaner,2014,75,71,15,89,0,584,0
+571,rajasthan,bundi,2014,80,119,4,179,0,325,0
+572,rajasthan,chittorgarh,2014,104,180,2,145,2,641,0
+573,rajasthan,churu,2014,72,58,7,45,0,414,0
+574,rajasthan,dausa,2014,37,88,5,150,0,234,0
+575,rajasthan,dholpur,2014,78,68,21,43,0,249,0
+576,rajasthan,dungarpur,2014,110,131,13,154,0,187,0
+577,rajasthan,g.r.p.ajmer,2014,3,8,1,5,2,0,0
+578,rajasthan,g.r.p.jodhpur,2014,1,1,0,7,0,0,0
+579,rajasthan,ganganagar,2014,180,129,17,147,2,923,0
+580,rajasthan,hanumangarh,2014,135,72,11,124,0,599,0
+581,rajasthan,jaipur east,2014,73,126,8,165,0,313,0
+582,rajasthan,jaipur north,2014,42,104,4,75,0,296,0
+583,rajasthan,jaipur rural,2014,80,128,13,183,0,256,0
+584,rajasthan,jaipur south,2014,56,90,8,97,0,210,0
+585,rajasthan,jaipur west,2014,92,118,13,118,0,336,0
+586,rajasthan,jaisalmer,2014,10,10,5,94,0,48,0
+587,rajasthan,jalore,2014,43,57,9,104,0,183,0
+588,rajasthan,jhalawar,2014,138,153,11,296,2,524,0
+589,rajasthan,jhunjhunu,2014,79,89,12,53,0,361,0
+590,rajasthan,jodhpur east,2014,25,28,2,97,3,218,0
+591,rajasthan,jodhpur west,2014,46,49,0,117,0,165,0
+592,rajasthan,jodhpur rural,2014,43,43,6,115,0,210,0
+593,rajasthan,karauli,2014,49,84,14,104,0,214,0
+594,rajasthan,kota city,2014,100,137,3,102,0,538,0
+595,rajasthan,kota rural,2014,60,75,2,186,0,271,0
+596,rajasthan,nagaur,2014,102,110,8,94,0,516,0
+597,rajasthan,pali,2014,107,161,21,341,0,516,0
+598,rajasthan,praapgarh,2014,202,142,12,305,0,322,0
+599,rajasthan,rajsamand,2014,48,72,6,81,0,290,0
+600,rajasthan,sawai madhopur,2014,70,83,0,96,0,297,0
+601,rajasthan,sikar,2014,79,149,14,60,0,405,0
+602,rajasthan,sirohi,2014,51,62,4,78,1,276,0
+603,rajasthan,tonk,2014,52,75,5,129,3,316,0
+604,rajasthan,udaipur,2014,229,312,8,479,3,723,0
+606,sikkim,east,2014,16,9,0,15,0,4,0
+607,sikkim,north,2014,2,0,0,1,0,1,0
+608,sikkim,south,2014,15,2,0,13,3,0,0
+609,sikkim,west,2014,14,1,0,5,0,0,0
+610,sikkim,cid,2014,0,0,0,0,0,0,0
+612,tamil nadu,ariyalur,2014,6,14,2,23,0,7,0
+613,tamil nadu,chennai,2014,65,23,10,59,157,302,0
+614,tamil nadu,coimbatore,2014,7,35,0,21,0,47,0
+615,tamil nadu,coimbatore city,2014,5,6,0,8,0,63,0
+616,tamil nadu,cuddalore,2014,14,83,5,3,0,39,0
+617,tamil nadu,dharmapuri,2014,11,136,2,26,0,32,0
+618,tamil nadu,dindigul,2014,15,112,4,29,0,119,0
+619,tamil nadu,erode,2014,0,25,0,19,0,26,0
+620,tamil nadu,kanchipuram,2014,16,14,2,8,1,19,0
+621,tamil nadu,kanyakumari,2014,7,15,2,3,0,56,0
+622,tamil nadu,karur,2014,1,15,1,20,0,9,0
+623,tamil nadu,krishnagiri,2014,13,68,4,34,1,29,0
+624,tamil nadu,madurai,2014,37,167,5,79,10,326,0
+625,tamil nadu,madurai city,2014,6,23,1,22,1,69,0
+626,tamil nadu,nagapattinam,2014,16,38,0,14,28,22,0
+627,tamil nadu,namakkal,2014,0,21,0,48,3,11,0
+628,tamil nadu,nilgiris,2014,6,5,0,12,1,5,0
+629,tamil nadu,perambalur,2014,7,4,1,26,0,13,0
+630,tamil nadu,pudukottai,2014,3,47,2,29,0,44,0
+631,tamil nadu,ramnathapuram,2014,8,28,3,12,0,24,0
+632,tamil nadu,railway chennai,2014,1,0,0,4,0,0,0
+633,tamil nadu,railway trichy,2014,0,0,0,0,0,0,0
+634,tamil nadu,salem,2014,6,43,7,46,0,22,0
+635,tamil nadu,salem city,2014,5,15,1,12,21,33,0
+636,tamil nadu,sivagangai,2014,15,37,3,13,0,51,0
+637,tamil nadu,thanjavur,2014,8,24,0,62,0,31,0
+638,tamil nadu,theni,2014,8,45,6,30,0,58,0
+639,tamil nadu,thirunelveli,2014,36,46,5,47,0,147,0
+640,tamil nadu,thirunelveli city,2014,6,3,0,3,0,19,0
+641,tamil nadu,thiruvallur,2014,8,9,4,2,2,15,0
+642,tamil nadu,thiruvannamalai,2014,16,49,6,14,0,35,0
+643,tamil nadu,thiruvarur,2014,2,23,1,2,1,7,0
+644,tamil nadu,thoothugudi,2014,16,12,0,44,0,73,0
+645,tamil nadu,tiruppur,2014,6,50,3,15,0,33,0
+646,tamil nadu,tiruppur city,2014,5,14,0,7,0,22,0
+647,tamil nadu,trichy,2014,8,30,2,51,0,48,0
+648,tamil nadu,trichy city,2014,3,1,0,10,3,27,0
+649,tamil nadu,vellore,2014,12,78,3,44,0,110,0
+650,tamil nadu,villupuram,2014,38,125,7,176,0,81,0
+651,tamil nadu,virudhunagar,2014,13,19,3,25,0,29,0
+652,tamil nadu,cyber cell,2014,0,0,0,0,0,0,0
+653,tamil nadu,other units,2014,0,0,0,0,0,0,0
+655,telangana,adilabad,2014,42,39,16,244,83,384,0
+656,telangana,cyberabad,2014,139,90,48,376,271,1329,0
+657,telangana,hyderabad city,2014,126,175,22,393,87,1289,0
+658,telangana,karimnagar,2014,66,85,34,373,70,737,0
+659,telangana,khammam,2014,102,62,18,351,133,530,0
+660,telangana,mahaboob nagar,2014,169,50,30,242,47,209,0
+661,telangana,medak,2014,60,35,34,211,47,346,0
+662,telangana,nalgonda,2014,126,36,23,447,174,262,0
+663,telangana,nizamabad,2014,36,27,25,163,145,658,0
+664,telangana,ranga reddy,2014,51,34,10,83,18,192,0
+665,telangana,secunderabad railway,2014,2,1,0,5,0,0,0
+666,telangana,warangal,2014,41,44,17,186,20,218,0
+667,telangana,warangal urban,2014,19,33,12,114,47,215,0
+669,tripura,dhalai,2014,34,5,1,49,0,41,0
+670,tripura,gomati,2014,32,22,9,51,0,135,0
+671,tripura,g. r. p.,2014,0,0,0,2,0,0,0
+672,tripura,kowai,2014,15,4,8,36,0,25,0
+673,tripura,north,2014,26,12,6,41,0,79,0
+674,tripura,sipahijala,2014,19,11,1,76,0,86,0
+675,tripura,south,2014,20,8,4,47,0,94,0
+676,tripura,unakoti,2014,24,11,1,29,2,50,0
+677,tripura,west,2014,69,29,3,161,9,192,0
+679,uttar pradesh,agra,2014,77,347,87,281,0,389,0
+680,uttar pradesh,aligarh,2014,112,404,69,307,0,455,0
+681,uttar pradesh,allahabad,2014,109,268,53,309,4,355,0
+682,uttar pradesh,ambedkar nagar,2014,20,58,11,16,0,41,0
+683,uttar pradesh,amethi,2014,27,104,15,78,0,47,0
+684,uttar pradesh,amroha,2014,35,107,23,81,0,224,0
+685,uttar pradesh,auraiya,2014,21,91,34,73,0,151,0
+686,uttar pradesh,azamgarh,2014,42,144,34,102,0,158,0
+687,uttar pradesh,badaun,2014,71,153,56,148,0,62,0
+688,uttar pradesh,baghpat,2014,35,86,14,96,0,90,0
+689,uttar pradesh,bahraich,2014,68,178,51,45,0,0,0
+690,uttar pradesh,ballia,2014,21,89,24,71,2,95,0
+691,uttar pradesh,balrampur,2014,19,60,13,28,0,2,0
+692,uttar pradesh,banda,2014,71,109,39,185,0,96,0
+693,uttar pradesh,barabanki,2014,35,63,25,51,0,36,0
+694,uttar pradesh,bareilly,2014,76,316,74,252,0,139,0
+695,uttar pradesh,basti,2014,15,52,15,27,0,40,0
+696,uttar pradesh,bijnor,2014,80,164,26,175,0,0,0
+697,uttar pradesh,bulandshahar,2014,82,228,55,239,1,0,0
+698,uttar pradesh,chandoli,2014,26,68,20,92,0,113,0
+699,uttar pradesh,chitrakoot,2014,23,34,23,56,0,12,0
+700,uttar pradesh,deoria,2014,35,114,31,68,0,6,0
+701,uttar pradesh,etah,2014,54,143,42,114,2,120,0
+702,uttar pradesh,etawah,2014,30,122,31,80,0,104,0
+703,uttar pradesh,faizabad,2014,37,117,13,91,0,8,0
+704,uttar pradesh,fatehgarh,2014,19,126,39,38,0,121,0
+705,uttar pradesh,fatehpur,2014,58,121,43,101,0,93,0
+706,uttar pradesh,firozabad,2014,61,245,55,131,0,146,0
+707,uttar pradesh,g. r. p.,2014,5,21,1,64,0,0,0
+708,uttar pradesh,gautambudh nagar,2014,54,150,35,161,7,198,0
+709,uttar pradesh,ghaziabad,2014,118,391,38,283,3,575,0
+710,uttar pradesh,ghazipur,2014,24,102,31,69,0,67,0
+711,uttar pradesh,gonda,2014,37,126,28,56,0,12,0
+712,uttar pradesh,gorakhpur,2014,92,271,58,132,0,223,0
+713,uttar pradesh,hamirpur,2014,29,55,26,97,1,42,0
+714,uttar pradesh,hapur,2014,46,69,16,62,0,70,0
+715,uttar pradesh,hardoi,2014,39,162,40,93,0,140,0
+716,uttar pradesh,hathras,2014,60,127,24,121,1,103,0
+717,uttar pradesh,jalaun,2014,12,54,30,44,0,41,0
+718,uttar pradesh,jaunpur,2014,50,125,47,62,0,49,0
+719,uttar pradesh,jhansi,2014,28,84,33,85,0,119,0
+720,uttar pradesh,kannauj,2014,22,92,31,98,0,89,0
+721,uttar pradesh,kanpur dehat,2014,20,151,35,95,0,144,0
+722,uttar pradesh,kanpur nagar,2014,78,413,73,261,1,594,0
+723,uttar pradesh,kasganj,2014,19,96,29,58,0,21,0
+724,uttar pradesh,kaushambi,2014,14,81,27,120,0,86,0
+725,uttar pradesh,khiri,2014,49,195,51,107,0,135,0
+726,uttar pradesh,kushi nagar,2014,22,136,31,53,0,50,0
+727,uttar pradesh,lalitpur,2014,25,27,12,38,0,19,0
+728,uttar pradesh,lucknow,2014,68,370,52,392,0,1083,0
+729,uttar pradesh,maharajganj,2014,32,100,26,29,0,68,0
+730,uttar pradesh,mahoba,2014,22,52,14,62,1,22,0
+731,uttar pradesh,mainpuri,2014,23,127,37,69,0,74,0
+732,uttar pradesh,mathura,2014,73,158,48,114,0,267,0
+733,uttar pradesh,mau,2014,25,84,16,51,1,81,0
+734,uttar pradesh,meerut,2014,93,293,53,412,0,520,0
+735,uttar pradesh,mirzapur,2014,19,12,26,10,0,28,0
+736,uttar pradesh,moradabad,2014,89,166,36,189,1,403,0
+737,uttar pradesh,muzaffarnagar,2014,37,194,17,148,0,168,0
+738,uttar pradesh,pilibhit,2014,69,121,25,107,0,179,0
+739,uttar pradesh,pratapgarh,2014,68,172,21,165,0,184,0
+740,uttar pradesh,raibareilly,2014,48,111,27,69,0,38,0
+741,uttar pradesh,rampur,2014,34,94,18,54,0,121,0
+742,uttar pradesh,saharanpur,2014,73,220,28,167,0,194,0
+743,uttar pradesh,sambhal,2014,48,124,26,72,0,106,0
+744,uttar pradesh,sant kabirnagar,2014,23,39,11,25,0,0,0
+745,uttar pradesh,shahjahanpur,2014,83,193,61,181,1,127,0
+746,uttar pradesh,shamli,2014,32,78,18,58,0,87,0
+747,uttar pradesh,shrawasti,2014,5,35,9,31,0,0,0
+748,uttar pradesh,sidharthnagar,2014,20,57,20,27,0,46,0
+749,uttar pradesh,sitapur,2014,74,214,46,163,0,180,0
+750,uttar pradesh,sonbhadra,2014,26,20,6,24,0,13,0
+751,uttar pradesh,st.ravidasnagar,2014,19,33,23,12,0,41,0
+752,uttar pradesh,sultanpur,2014,46,141,21,67,0,68,0
+753,uttar pradesh,unnao,2014,69,235,31,237,0,218,0
+754,uttar pradesh,varanasi,2014,47,144,42,176,3,275,0
+756,uttarakhand,almora,2014,6,22,1,4,1,5,0
+757,uttarakhand,bageshwar,2014,3,0,0,4,0,2,0
+758,uttarakhand,chamoli,2014,4,7,1,9,0,3,0
+759,uttarakhand,champawat,2014,8,0,0,5,0,7,0
+760,uttarakhand,dehradun,2014,55,12,10,80,1,149,0
+761,uttarakhand,haridwar,2014,73,59,0,99,0,0,0
+762,uttarakhand,nainital,2014,36,54,5,38,0,31,0
+763,uttarakhand,pauri garhwal,2014,8,30,7,12,1,9,0
+764,uttarakhand,pithoragarh,2014,8,1,3,9,0,7,0
+765,uttarakhand,rudra prayag,2014,4,7,1,9,0,2,0
+766,uttarakhand,tehri garhwal,2014,7,13,0,0,0,7,0
+767,uttarakhand,udhamsingh nagar,2014,49,65,10,67,0,71,0
+768,uttarakhand,uttarkashi,2014,9,5,0,7,1,8,0
+770,west bengal,north 24 parganas,2014,227,612,66,319,50,2027,0
+771,west bengal,south 24 parganas,2014,341,696,53,313,14,3546,0
+772,west bengal,alipurduar,2014,118,124,2,83,6,328,0
+773,west bengal,asansol-durgapur pc,2014,58,104,28,160,1,496,0
+774,west bengal,bankura,2014,79,64,18,121,0,316,0
+775,west bengal,barrackpur pc,2014,77,281,21,201,2,1205,0
+776,west bengal,bidhannagar pc,2014,24,93,6,97,9,364,0
+777,west bengal,birbhum,2014,82,97,8,99,0,412,0
+778,west bengal,burdwan,2014,121,204,12,273,0,712,0
+779,west bengal,coochbehar,2014,141,348,21,151,3,697,0
+780,west bengal,dakshin dinajpur,2014,64,160,13,51,5,356,0
+781,west bengal,darjeeling,2014,60,65,0,95,3,216,0
+782,west bengal,hooghly,2014,110,278,34,226,6,1345,0
+783,west bengal,howrah g. r. p.,2014,77,147,5,181,3,796,0
+784,west bengal,howrah pc,2014,43,130,4,318,26,557,0
+785,west bengal,howrah rural,2014,3,2,1,13,0,0,0
+786,west bengal,jalpaiguri,2014,129,195,16,199,1,518,0
+787,west bengal,jhargram police district,2014,29,20,3,70,1,96,0
+788,west bengal,kharagpur g. r. p.,2014,0,2,0,6,0,0,0
+789,west bengal,kolkata,2014,154,262,12,585,288,1156,3
+790,west bengal,malda,2014,252,223,31,331,29,796,0
+791,west bengal,murshidabad,2014,474,490,36,526,16,2448,0
+792,west bengal,nadia,2014,204,421,50,192,8,1851,1
+793,west bengal,paschim medinipur,2014,91,165,21,558,34,872,0
+794,west bengal,purab medinipur,2014,112,277,27,159,6,983,1
+795,west bengal,purulia,2014,72,45,4,142,1,188,0
+796,west bengal,sealdah g. r. p.,2014,7,11,1,46,4,1,0
+797,west bengal,siliguri g. r. p.,2014,1,4,0,9,0,0,0
+798,west bengal,siliguri pc,2014,72,75,2,165,17,503,0
+799,west bengal,uttar dinajpur,2014,187,309,9,157,13,779,0
+801,a&n islands,south andaman,2014,19,9,3,27,4,10,0
+802,a&n islands,north & middle andaman,2014,11,8,0,14,1,4,0
+803,a&n islands,nicobar,2014,2,0,0,0,0,0,0
+805,chandigarh,chandigarh,2014,59,133,2,87,2,141,0
+807,d&n haveli,d&n haveli,2014,5,7,0,2,1,6,0
+809,daman & diu,daman,2014,2,1,0,2,0,1,0
+810,daman & diu,diu,2014,0,0,0,1,0,0,0
+812,delhi,central,2014,91,169,7,212,37,99,0
+813,delhi,crime branch,2014,1,1,0,1,0,0,0
+814,delhi,east,2014,230,346,15,446,114,477,0
+815,delhi,eow,2014,0,0,0,2,0,0,0
+816,delhi,igi airport,2014,0,0,0,12,4,0,0
+817,delhi,metro,2014,1,2,0,28,3,0,0
+818,delhi,new delhi,2014,20,25,2,56,18,15,0
+819,delhi,north,2014,60,149,6,180,18,117,0
+820,delhi,north-east,2014,237,578,27,492,50,349,0
+821,delhi,north-west,2014,165,354,14,404,51,246,0
+822,delhi,outer,2014,259,688,22,428,146,521,0
+823,delhi,railway,2014,1,8,0,19,1,0,0
+824,delhi,south,2014,280,369,6,595,665,143,0
+825,delhi,south-east,2014,266,402,24,469,123,312,0
+826,delhi,south-west,2014,234,397,17,494,68,318,0
+827,delhi,spl cell,2014,0,0,0,0,0,0,0
+828,delhi,spuwac,2014,0,0,0,0,0,160,0
+829,delhi,vigilance,2014,0,0,0,0,0,0,0
+830,delhi,west,2014,251,546,13,484,63,416,0
+832,lakshadweep,lakshadweep,2014,1,0,0,1,2,0,0
+834,puducherry,karaikal,2014,3,1,0,12,1,1,0
+835,puducherry,puducherry,2014,7,6,1,20,7,3,0

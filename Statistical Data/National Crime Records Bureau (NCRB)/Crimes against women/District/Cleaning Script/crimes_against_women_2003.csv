@@ -1,0 +1,694 @@
+,state_ut,district,year,rape,kidnapping_abduction,dowry_deaths,assault_intnt_outrage_modesty,inslt_modesty_women,cruelty_husban_reltvs,in_trafficking
+1435,andhra pradesh,adilabad,2003,35,16,11,141,39,238,0
+1436,andhra pradesh,anantapur,2003,19,45,4,224,45,146,0
+1437,andhra pradesh,chittoor,2003,36,34,23,121,173,60,0
+1438,andhra pradesh,cuddapah,2003,10,28,5,104,31,60,0
+1439,andhra pradesh,cyberabad,2003,31,62,25,96,78,543,1
+1440,andhra pradesh,east godavari,2003,18,35,11,150,110,357,0
+1441,andhra pradesh,guntakal rly.,2003,1,1,0,2,0,0,0
+1442,andhra pradesh,guntur,2003,46,77,22,228,99,399,0
+1443,andhra pradesh,hyderabad city,2003,57,64,42,165,296,1082,0
+1444,andhra pradesh,karimnagar,2003,88,67,53,362,132,602,1
+1445,andhra pradesh,khammam,2003,45,35,17,162,246,180,0
+1446,andhra pradesh,krishna,2003,45,16,20,186,107,317,0
+1447,andhra pradesh,kurnool,2003,28,16,11,231,131,202,0
+1448,andhra pradesh,mahaboobnagar,2003,69,33,19,179,36,238,0
+1449,andhra pradesh,medak,2003,30,37,44,128,37,174,0
+1450,andhra pradesh,nalgonda,2003,62,37,33,249,51,319,0
+1451,andhra pradesh,nellore,2003,27,58,10,204,97,231,0
+1452,andhra pradesh,nizamabad,2003,29,7,11,61,32,329,3
+1453,andhra pradesh,prakasham,2003,22,31,13,133,149,114,0
+1454,andhra pradesh,ranga reddy,2003,14,14,12,71,12,113,0
+1455,andhra pradesh,secunderabad rly.,2003,0,0,0,0,0,0,0
+1456,andhra pradesh,srikakulam,2003,9,4,7,58,44,147,0
+1457,andhra pradesh,vijayawada,2003,27,45,7,170,146,1208,0
+1458,andhra pradesh,vijayawada rly.,2003,0,0,0,0,3,0,0
+1459,andhra pradesh,visakha rural,2003,15,15,3,54,16,89,0
+1460,andhra pradesh,visakhapatnam,2003,9,20,3,11,30,146,0
+1461,andhra pradesh,vizianagaram,2003,6,0,4,34,25,127,0
+1462,andhra pradesh,warangal,2003,61,69,35,222,0,162,0
+1463,andhra pradesh,west godavari,2003,107,65,21,382,121,584,0
+1465,arunachal pradesh,changlang,2003,4,7,0,0,0,2,0
+1466,arunachal pradesh,dibang valley,2003,2,1,0,1,0,5,0
+1467,arunachal pradesh,k/kumey,2003,0,2,0,0,0,0,0
+1468,arunachal pradesh,kameng east,2003,0,2,0,10,0,1,0
+1469,arunachal pradesh,kameng west,2003,1,0,0,0,0,0,0
+1470,arunachal pradesh,lohit,2003,1,14,0,5,0,1,0
+1471,arunachal pradesh,papum pare,2003,3,8,0,7,0,1,0
+1472,arunachal pradesh,siang east,2003,9,9,0,4,0,1,0
+1473,arunachal pradesh,siang upper,2003,1,1,0,0,0,0,0
+1474,arunachal pradesh,siang west,2003,5,4,0,6,0,1,0
+1475,arunachal pradesh,subansiri lower,2003,3,0,0,0,0,0,0
+1476,arunachal pradesh,subansiri upper,2003,1,2,0,0,0,0,0
+1477,arunachal pradesh,tawang,2003,0,0,0,1,0,0,0
+1478,arunachal pradesh,tirap,2003,1,0,0,9,0,2,0
+1479,arunachal pradesh,upper dibang valley,2003,0,1,0,0,0,0,0
+1481,assam,barpeta,2003,61,56,6,15,0,112,0
+1482,assam,bongaigaon,2003,27,40,6,10,0,61,0
+1483,assam,c.i.d.,2003,0,1,0,0,0,0,0
+1484,assam,cachar,2003,70,95,3,118,0,229,0
+1485,assam,darrang,2003,53,63,7,93,0,48,0
+1486,assam,dhemaji,2003,43,10,0,14,0,44,0
+1487,assam,dhubri,2003,68,51,6,87,0,151,0
+1488,assam,dibrugarh,2003,38,39,0,28,0,28,0
+1489,assam,g.r.p.,2003,0,1,0,1,0,0,0
+1490,assam,goalpara,2003,60,47,2,36,0,152,0
+1491,assam,golaghat,2003,67,60,0,26,0,58,0
+1492,assam,guwahati city,2003,38,184,4,52,0,135,0
+1493,assam,hailakandi,2003,27,35,2,29,2,30,0
+1494,assam,jorhat,2003,40,28,0,26,0,23,0
+1495,assam,kamrup,2003,48,23,0,6,0,10,0
+1496,assam,karbi anglong,2003,16,13,0,14,0,4,0
+1497,assam,karimganj,2003,29,40,5,4,0,84,0
+1498,assam,kokrajhar,2003,22,31,2,28,0,37,0
+1499,assam,lakhimpur,2003,76,77,0,44,0,108,0
+1500,assam,morigaon,2003,35,46,1,34,0,26,0
+1501,assam,n.c.hills,2003,0,10,0,2,0,16,0
+1502,assam,nagaon,2003,105,159,7,107,4,181,0
+1503,assam,nalbari,2003,33,43,0,18,0,23,0
+1504,assam,r.p.o.,2003,5,0,0,1,0,5,0
+1505,assam,sibsagar,2003,38,76,4,15,0,74,0
+1506,assam,sonitpur,2003,64,90,3,56,0,146,0
+1507,assam,tinsukia,2003,32,33,2,14,0,23,0
+1509,bihar,araria,2003,38,17,13,3,0,24,0
+1510,bihar,arwal,2003,3,0,19,0,0,13,0
+1511,bihar,aurangabad,2003,18,6,25,6,0,19,0
+1512,bihar,bagaha,2003,21,10,4,3,0,6,0
+1513,bihar,banka,2003,19,14,19,5,1,9,0
+1514,bihar,begusarai,2003,19,28,29,0,0,34,0
+1515,bihar,bettiah,2003,27,15,21,56,0,58,0
+1516,bihar,bhabhua,2003,11,11,21,6,0,13,0
+1517,bihar,bhagalpur,2003,45,57,13,33,0,107,0
+1518,bihar,bhojpur,2003,12,1,24,14,0,75,0
+1519,bihar,buxar,2003,12,7,14,6,0,27,1
+1520,bihar,darbhanga,2003,77,20,19,10,0,95,0
+1521,bihar,gaya,2003,27,32,37,40,0,46,0
+1522,bihar,gopalganj,2003,12,13,14,0,6,34,0
+1523,bihar,jamalpur rly.,2003,1,0,0,0,0,0,0
+1524,bihar,jamui,2003,24,7,11,12,0,34,0
+1525,bihar,jehanabad,2003,9,5,16,0,0,34,0
+1526,bihar,katihar,2003,92,42,9,9,0,60,0
+1527,bihar,katihar rly.,2003,0,6,3,2,0,4,0
+1528,bihar,khagaria,2003,16,0,6,9,0,22,0
+1529,bihar,kishanganj,2003,17,38,5,2,0,20,0
+1530,bihar,lakhisarai,2003,7,4,10,0,0,6,0
+1531,bihar,madhepura,2003,8,5,6,2,0,8,0
+1532,bihar,madhubani,2003,38,29,20,112,0,262,0
+1533,bihar,motihari,2003,39,18,36,49,0,110,0
+1534,bihar,munger,2003,7,7,6,16,0,63,0
+1535,bihar,muzaffarpur,2003,59,20,63,27,0,98,0
+1536,bihar,muzaffarpur rly.,2003,3,4,1,4,0,0,0
+1537,bihar,nalanda,2003,21,18,49,39,0,64,1
+1538,bihar,naugachia,2003,12,2,8,1,0,8,0
+1539,bihar,nawadah,2003,13,12,19,10,1,11,0
+1540,bihar,patna,2003,34,15,85,49,0,127,0
+1541,bihar,patna rly.,2003,2,0,0,7,0,3,0
+1542,bihar,purnea,2003,50,12,13,11,0,27,0
+1543,bihar,rohtas,2003,15,36,28,30,0,52,0
+1544,bihar,saharsa,2003,11,11,13,14,0,3,0
+1545,bihar,samastipur,2003,20,8,18,11,2,34,25
+1546,bihar,saran,2003,32,49,65,17,1,82,0
+1547,bihar,sheikhpura,2003,5,1,6,0,0,0,0
+1548,bihar,sheohar,2003,8,3,7,3,0,11,0
+1549,bihar,sitamarhi,2003,37,24,27,6,0,39,4
+1550,bihar,siwan,2003,13,22,32,36,0,54,0
+1551,bihar,supaul,2003,22,5,6,6,0,19,1
+1552,bihar,vaishali,2003,29,40,69,22,0,65,5
+1554,chhattisgarh,balrampur,2003,24,0,3,29,3,15,0
+1555,chhattisgarh,bilaspur,2003,49,12,18,165,3,87,0
+1556,chhattisgarh,bizapur,2003,8,2,0,5,0,1,0
+1557,chhattisgarh,dantewara,2003,12,3,0,14,0,4,0
+1558,chhattisgarh,dhamtari,2003,32,7,3,71,8,8,0
+1559,chhattisgarh,durg,2003,117,17,13,229,31,118,0
+1560,chhattisgarh,grp raipur,2003,1,2,0,1,2,1,0
+1561,chhattisgarh,jagdalpur,2003,71,12,0,72,4,8,0
+1562,chhattisgarh,janjgir,2003,47,5,3,84,8,42,0
+1563,chhattisgarh,jashpur,2003,33,3,0,39,1,3,0
+1564,chhattisgarh,kabirdham,2003,24,2,1,59,4,10,0
+1565,chhattisgarh,kanker,2003,29,4,0,30,0,7,0
+1566,chhattisgarh,korba,2003,37,6,4,97,14,40,0
+1567,chhattisgarh,koriya,2003,40,4,0,66,1,24,0
+1568,chhattisgarh,mahasamund,2003,30,3,2,39,2,24,0
+1569,chhattisgarh,narayanpur,2003,3,1,0,0,0,1,0
+1570,chhattisgarh,raigarh,2003,36,15,2,94,6,32,0
+1571,chhattisgarh,raipur,2003,126,33,15,185,15,116,0
+1572,chhattisgarh,rajnandgaon,2003,60,6,13,67,2,28,0
+1573,chhattisgarh,sarguja,2003,119,12,2,135,1,32,0
+1575,goa,north goa,2003,22,8,1,11,4,9,0
+1576,goa,south goa,2003,9,5,1,8,3,15,0
+1578,gujarat,ahmedabad commr.,2003,18,96,3,50,30,595,0
+1579,gujarat,ahmedabad rural,2003,3,13,1,18,0,61,0
+1580,gujarat,ahwa-dang,2003,0,0,0,2,0,3,0
+1581,gujarat,amreli,2003,6,28,0,24,1,98,0
+1582,gujarat,anand,2003,5,32,0,24,3,130,0
+1583,gujarat,bharuch,2003,5,25,0,19,1,69,0
+1584,gujarat,bhavnagar,2003,5,55,6,36,11,126,0
+1585,gujarat,dahod,2003,0,19,0,22,0,15,0
+1586,gujarat,gandhinagar,2003,0,28,2,25,2,113,0
+1587,gujarat,himatnagar,2003,6,44,2,47,1,160,0
+1588,gujarat,jamnagar,2003,10,21,0,20,0,150,0
+1589,gujarat,junagadh,2003,13,41,6,40,8,312,0
+1590,gujarat,kheda north,2003,11,46,0,27,0,125,0
+1591,gujarat,kutch,2003,7,23,0,26,4,165,0
+1592,gujarat,mehsana,2003,7,52,0,34,1,207,0
+1593,gujarat,narmada,2003,4,3,0,4,0,7,0
+1594,gujarat,navsari,2003,2,9,0,6,0,15,0
+1595,gujarat,palanpur,2003,20,39,0,47,1,135,0
+1596,gujarat,panchmahal,2003,11,31,0,34,2,74,0
+1597,gujarat,patan,2003,2,15,0,21,0,112,0
+1598,gujarat,porbandar,2003,1,5,0,7,1,44,0
+1599,gujarat,rajkot commr.,2003,5,30,5,8,13,158,0
+1600,gujarat,rajkot rural,2003,14,38,4,35,4,174,0
+1601,gujarat,surat commr.,2003,25,40,19,17,2,126,0
+1602,gujarat,surat rural,2003,11,9,0,21,0,204,0
+1603,gujarat,surendranagar,2003,16,25,6,42,2,53,0
+1604,gujarat,vadodara commr.,2003,8,31,0,17,5,136,0
+1605,gujarat,vadodara rural,2003,14,49,0,33,0,76,0
+1606,gujarat,valsad,2003,5,10,0,7,0,37,0
+1607,gujarat,w.rly,2003,2,2,0,9,0,4,0
+1609,haryana,ambala,2003,10,24,7,17,31,129,0
+1610,haryana,bhiwani,2003,15,7,28,17,0,69,0
+1611,haryana,faridabad,2003,36,49,14,34,980,136,0
+1612,haryana,fatehabad,2003,7,7,3,11,4,47,0
+1613,haryana,grp,2003,1,0,3,0,50,0,0
+1614,haryana,gurgaon,2003,32,37,13,17,26,101,0
+1615,haryana,hissar,2003,16,18,17,35,10,80,0
+1616,haryana,jhajjar,2003,9,8,17,32,35,92,0
+1617,haryana,jind,2003,17,5,10,7,13,34,0
+1618,haryana,kaithal,2003,15,2,8,14,0,125,0
+1619,haryana,karnal,2003,27,14,14,18,1,173,0
+1620,haryana,kurukshetra,2003,23,7,12,23,18,92,0
+1621,haryana,mahendragarh,2003,10,9,4,12,0,27,0
+1622,haryana,panchkula,2003,12,13,5,10,83,56,0
+1623,haryana,panipat,2003,38,9,13,17,22,165,0
+1624,haryana,rewari,2003,11,9,7,22,1,34,0
+1625,haryana,rohtak,2003,25,15,17,12,23,34,0
+1626,haryana,sirsa,2003,22,5,9,10,0,70,0
+1627,haryana,sonipat,2003,15,20,17,21,5,68,0
+1628,haryana,yamunanagar,2003,12,13,4,15,0,86,0
+1630,himachal pradesh,bilaspur,2003,13,11,0,20,2,17,0
+1631,himachal pradesh,chamba,2003,10,14,0,13,0,8,0
+1632,himachal pradesh,g.r.p.,2003,0,0,0,0,0,0,0
+1633,himachal pradesh,hamirpur,2003,6,7,0,13,1,15,0
+1634,himachal pradesh,kangra,2003,8,6,0,28,0,35,0
+1635,himachal pradesh,kinnaur,2003,6,4,0,2,0,2,0
+1636,himachal pradesh,kullu,2003,16,6,2,24,0,13,0
+1637,himachal pradesh,lahaul-spiti,2003,2,0,0,0,0,1,0
+1638,himachal pradesh,mandi,2003,23,5,1,52,2,43,0
+1639,himachal pradesh,shimla,2003,21,16,2,40,8,15,0
+1640,himachal pradesh,sirmaur,2003,8,14,1,24,0,18,0
+1641,himachal pradesh,solan,2003,11,7,0,24,3,24,0
+1642,himachal pradesh,una,2003,2,6,0,10,2,30,0
+1644,jammu & kashmir,anantnag,2003,9,74,0,63,45,0,0
+1645,jammu & kashmir,awantipora,2003,2,13,0,21,4,0,0
+1646,jammu & kashmir,baramulla,2003,18,74,0,159,23,1,0
+1647,jammu & kashmir,border,2003,9,6,0,8,11,7,0
+1648,jammu & kashmir,budgam,2003,11,40,0,69,12,1,0
+1649,jammu & kashmir,crime jammu,2003,0,0,0,0,0,0,0
+1650,jammu & kashmir,crime srinagar,2003,0,0,0,0,0,0,0
+1651,jammu & kashmir,doda,2003,6,19,0,8,4,3,0
+1652,jammu & kashmir,ganderbal,2003,8,45,0,82,6,1,0
+1653,jammu & kashmir,handwara,2003,2,17,0,24,4,1,0
+1654,jammu & kashmir,jammu,2003,20,50,3,12,66,21,0
+1655,jammu & kashmir,kargil,2003,1,6,0,0,0,0,0
+1656,jammu & kashmir,kathua,2003,13,20,0,8,9,7,0
+1657,jammu & kashmir,kulgam,2003,5,45,0,23,15,0,0
+1658,jammu & kashmir,kupwara,2003,5,27,0,68,4,0,0
+1659,jammu & kashmir,leh,2003,3,1,0,2,0,0,0
+1660,jammu & kashmir,poonch,2003,12,11,0,11,3,1,0
+1661,jammu & kashmir,pulwama,2003,10,43,2,38,8,0,0
+1662,jammu & kashmir,railways,2003,1,0,0,1,0,0,0
+1663,jammu & kashmir,rajouri,2003,28,19,2,8,7,14,0
+1664,jammu & kashmir,ramban,2003,10,5,0,8,3,0,0
+1665,jammu & kashmir,reasi,2003,8,5,0,2,3,0,0
+1666,jammu & kashmir,srinagar,2003,23,91,0,249,130,6,0
+1667,jammu & kashmir,udhampur,2003,7,4,3,11,19,8,0
+1669,jharkhand,bokaro,2003,48,26,29,32,0,16,0
+1670,jharkhand,chaibasa,2003,38,19,0,17,0,8,0
+1671,jharkhand,chatra,2003,14,4,16,2,0,0,0
+1672,jharkhand,deoghar,2003,53,7,14,14,1,20,0
+1673,jharkhand,dhanbad,2003,43,41,30,47,0,18,0
+1674,jharkhand,dhanbad rly.,2003,0,3,1,1,0,0,0
+1675,jharkhand,dumka,2003,49,0,9,23,0,69,0
+1676,jharkhand,garhwa,2003,23,6,13,5,0,12,0
+1677,jharkhand,giridih,2003,35,22,42,52,0,37,0
+1678,jharkhand,godda,2003,76,15,4,0,0,56,0
+1679,jharkhand,gumla,2003,31,12,0,14,0,11,0
+1680,jharkhand,hazaribagh,2003,40,20,41,57,0,30,0
+1681,jharkhand,jamshedpur,2003,28,34,12,23,0,58,0
+1682,jharkhand,jamshedpur rly.,2003,2,2,3,0,0,0,0
+1683,jharkhand,jamtara,2003,35,7,5,6,0,26,0
+1684,jharkhand,koderma,2003,0,0,7,8,0,37,0
+1685,jharkhand,latehar,2003,10,1,0,5,0,3,0
+1686,jharkhand,lohardagga,2003,15,4,0,4,0,12,0
+1687,jharkhand,pakur,2003,31,7,0,3,1,10,0
+1688,jharkhand,palamu,2003,13,8,11,4,0,13,0
+1689,jharkhand,ranchi,2003,55,2,9,73,0,61,0
+1690,jharkhand,sahebganj,2003,23,5,9,17,0,19,0
+1691,jharkhand,saraikela,2003,31,6,7,14,0,36,0
+1692,jharkhand,simdega,2003,19,11,0,3,0,7,0
+1694,karnataka,bagalkot,2003,12,11,2,44,0,45,0
+1695,karnataka,bangalore commr.,2003,34,11,34,213,39,213,0
+1696,karnataka,bangalore rural,2003,27,19,31,107,0,130,0
+1697,karnataka,belgaum,2003,11,15,12,45,4,93,0
+1698,karnataka,bellary,2003,14,6,2,58,0,36,0
+1699,karnataka,bidar,2003,6,17,5,45,3,67,0
+1700,karnataka,bijapur,2003,9,11,4,68,0,83,0
+1701,karnataka,chamarajnagar,2003,3,2,4,40,0,19,0
+1702,karnataka,chickmagalur,2003,12,10,4,49,7,89,0
+1703,karnataka,chitradurga,2003,19,7,6,43,1,32,0
+1704,karnataka,dakshin kannada,2003,3,5,2,23,4,31,0
+1705,karnataka,davanagere,2003,16,6,10,56,2,78,0
+1706,karnataka,dharwad commr.,2003,3,4,3,3,9,28,0
+1707,karnataka,dharwad rural,2003,5,0,3,11,0,12,0
+1708,karnataka,gadag,2003,1,2,1,12,0,13,0
+1709,karnataka,gulbarga,2003,14,20,5,150,0,103,0
+1710,karnataka,hassan,2003,16,9,3,78,0,43,0
+1711,karnataka,haveri,2003,3,6,1,33,0,17,0
+1712,karnataka,k.g.f.,2003,5,2,7,21,2,17,0
+1713,karnataka,kodagu,2003,11,2,1,27,0,18,0
+1714,karnataka,kolar,2003,14,26,10,32,1,52,0
+1715,karnataka,koppal,2003,12,5,5,18,2,27,0
+1716,karnataka,mandya,2003,13,6,5,65,0,77,0
+1717,karnataka,mysore commr.,2003,8,7,5,14,0,44,0
+1718,karnataka,mysore rural,2003,4,3,7,59,0,45,0
+1719,karnataka,raichur,2003,12,16,7,61,5,79,0
+1720,karnataka,railways,2003,0,0,1,2,0,0,0
+1721,karnataka,shimoga,2003,15,14,4,73,0,127,0
+1722,karnataka,tumkur,2003,14,1,10,77,1,38,0
+1723,karnataka,udupi,2003,5,0,0,21,1,23,0
+1724,karnataka,uttar kannada,2003,0,1,0,37,3,25,0
+1726,kerala,alapuzha,2003,10,12,3,124,2,178,0
+1727,kerala,cbcid,2003,1,1,0,0,0,2,0
+1728,kerala,ernakulam commr.,2003,11,5,0,77,7,54,0
+1729,kerala,ernakulam rural,2003,22,8,2,109,0,92,0
+1730,kerala,idukki,2003,14,0,0,93,6,104,0
+1731,kerala,kannur,2003,13,2,0,65,3,174,0
+1732,kerala,kasargod,2003,15,4,0,71,3,66,0
+1733,kerala,kollam,2003,53,11,5,317,0,365,0
+1734,kerala,kottayam,2003,25,10,0,141,10,115,0
+1735,kerala,kozhikode commr.,2003,10,3,2,50,5,157,0
+1736,kerala,kozhikode rural,2003,24,4,1,76,5,210,0
+1737,kerala,malappuram,2003,42,4,2,57,2,460,0
+1738,kerala,palakkad,2003,47,1,3,140,4,214,0
+1739,kerala,pathanamthitta,2003,13,0,2,94,0,116,0
+1740,kerala,railways,2003,0,0,0,0,0,0,0
+1741,kerala,thrissur,2003,29,7,3,157,10,224,0
+1742,kerala,trivandrum commr.,2003,17,7,2,114,5,82,0
+1743,kerala,trivandrum rural,2003,28,23,7,212,4,232,0
+1744,kerala,wayanadu,2003,20,0,1,50,2,85,0
+1746,madhya pradesh,anuppur,2003,10,1,1,14,2,3,0
+1747,madhya pradesh,ashok nagar,2003,33,4,6,140,12,36,0
+1748,madhya pradesh,balaghat,2003,61,5,10,134,32,69,0
+1749,madhya pradesh,barwani,2003,38,8,4,88,5,23,0
+1750,madhya pradesh,betul,2003,137,22,9,171,11,51,0
+1751,madhya pradesh,bhind,2003,25,18,24,94,0,53,0
+1752,madhya pradesh,bhopal,2003,93,46,16,252,23,142,0
+1753,madhya pradesh,bhopal rly.,2003,3,0,2,14,6,1,0
+1754,madhya pradesh,burhanpur,2003,7,0,1,22,0,13,0
+1755,madhya pradesh,chhatarpur,2003,56,8,17,164,13,50,0
+1756,madhya pradesh,chhindwara,2003,82,12,12,187,27,78,0
+1757,madhya pradesh,damoh,2003,49,13,27,179,0,64,0
+1758,madhya pradesh,datiya,2003,30,7,10,66,0,35,0
+1759,madhya pradesh,dewas,2003,88,20,12,213,68,196,0
+1760,madhya pradesh,dhar,2003,82,23,40,200,13,85,0
+1761,madhya pradesh,dindori,2003,37,2,1,64,8,22,0
+1762,madhya pradesh,guna,2003,83,6,9,175,7,68,0
+1763,madhya pradesh,gwalior,2003,72,50,24,161,6,125,0
+1764,madhya pradesh,harda,2003,25,1,3,52,0,22,0
+1765,madhya pradesh,hoshangabad,2003,70,7,19,127,7,52,0
+1766,madhya pradesh,indore,2003,77,43,22,240,84,298,0
+1767,madhya pradesh,indore rly.,2003,0,0,1,3,0,0,0
+1768,madhya pradesh,jabalpur,2003,103,25,57,297,60,108,0
+1769,madhya pradesh,jabalpur rly.,2003,0,2,0,4,1,0,0
+1770,madhya pradesh,jhabua,2003,36,35,0,112,10,12,0
+1771,madhya pradesh,katni,2003,37,4,17,137,15,61,0
+1772,madhya pradesh,khandwa,2003,53,18,6,157,21,23,0
+1773,madhya pradesh,khargon,2003,50,13,5,184,31,43,0
+1774,madhya pradesh,mandla,2003,39,2,4,143,13,44,0
+1775,madhya pradesh,mandsaur,2003,45,5,4,126,12,54,0
+1776,madhya pradesh,morena,2003,40,21,23,93,3,41,0
+1777,madhya pradesh,narsinghpur,2003,40,3,15,134,19,34,0
+1778,madhya pradesh,neemuch,2003,31,5,4,65,10,65,0
+1779,madhya pradesh,panna,2003,32,4,21,92,2,26,0
+1780,madhya pradesh,raisen,2003,75,8,17,176,0,46,0
+1781,madhya pradesh,rajgarh,2003,88,5,2,163,20,83,0
+1782,madhya pradesh,ratlam,2003,62,9,5,132,13,50,0
+1783,madhya pradesh,rewa,2003,41,11,28,110,2,44,0
+1784,madhya pradesh,sagar,2003,121,28,27,388,17,127,0
+1785,madhya pradesh,satna,2003,59,5,33,187,5,57,0
+1786,madhya pradesh,seoni,2003,54,1,6,86,4,25,0
+1787,madhya pradesh,shahdol,2003,68,8,13,221,14,120,0
+1788,madhya pradesh,shajapur,2003,71,9,10,166,36,79,0
+1789,madhya pradesh,sheopur,2003,19,1,1,51,0,11,0
+1790,madhya pradesh,shivpuri,2003,69,16,13,130,0,32,0
+1791,madhya pradesh,sidhi,2003,38,24,17,121,2,27,0
+1792,madhya pradesh,sihore,2003,86,4,6,87,12,32,0
+1793,madhya pradesh,tikamgarh,2003,50,5,20,98,5,21,0
+1794,madhya pradesh,ujjain,2003,59,34,7,172,27,125,0
+1795,madhya pradesh,umariya,2003,20,0,5,59,3,22,0
+1796,madhya pradesh,vidisha,2003,94,7,12,197,24,40,0
+1798,maharashtra,ahmednagar,2003,44,13,15,51,3,287,0
+1799,maharashtra,akola,2003,29,29,9,80,5,132,0
+1800,maharashtra,amravati commr.,2003,26,12,3,45,19,77,0
+1801,maharashtra,amravati rural,2003,47,15,8,118,22,151,0
+1802,maharashtra,aurangabad commr.,2003,8,13,4,25,10,130,0
+1803,maharashtra,aurangabad rural,2003,14,4,32,48,8,190,0
+1804,maharashtra,beed,2003,25,11,10,58,8,186,0
+1805,maharashtra,bhandara,2003,41,6,7,54,27,69,0
+1806,maharashtra,buldhana,2003,39,13,61,106,26,164,0
+1807,maharashtra,chandrapur,2003,36,12,3,85,21,101,0
+1808,maharashtra,dhule,2003,7,5,2,18,6,90,0
+1809,maharashtra,gadchiroli,2003,30,13,2,57,20,81,0
+1810,maharashtra,gondia,2003,25,11,6,93,26,74,0
+1811,maharashtra,hingoli,2003,14,7,1,36,6,112,0
+1812,maharashtra,jalgaon,2003,38,9,8,79,21,239,0
+1813,maharashtra,jalna,2003,8,14,15,53,14,204,0
+1814,maharashtra,kolhapur,2003,15,11,25,47,7,64,0
+1815,maharashtra,latur,2003,21,15,31,49,2,80,0
+1816,maharashtra,mumbai,2003,133,85,8,282,44,199,0
+1817,maharashtra,mumbai rly.,2003,4,2,1,16,1,0,0
+1818,maharashtra,nagpur commr.,2003,26,29,4,36,36,136,0
+1819,maharashtra,nagpur rly.,2003,1,2,0,5,1,0,0
+1820,maharashtra,nagpur rural,2003,52,19,5,95,42,111,0
+1821,maharashtra,nanded,2003,33,14,16,78,7,229,0
+1822,maharashtra,nandurbar,2003,10,9,2,34,12,77,0
+1823,maharashtra,nasik commr.,2003,11,12,4,18,14,116,0
+1824,maharashtra,nasik rural,2003,54,14,3,84,31,358,0
+1825,maharashtra,navi mumbai,2003,16,7,6,28,7,55,0
+1826,maharashtra,osmanabad,2003,12,3,3,37,11,92,0
+1827,maharashtra,parbhani,2003,13,7,7,49,5,149,0
+1828,maharashtra,pune commr.,2003,40,27,2,61,92,166,0
+1829,maharashtra,pune rly.,2003,3,0,0,1,0,0,0
+1830,maharashtra,pune rural,2003,29,14,7,55,8,165,0
+1831,maharashtra,raigad,2003,25,12,2,42,7,57,0
+1832,maharashtra,ratnagiri,2003,16,1,0,27,10,47,0
+1833,maharashtra,sangli,2003,47,12,7,39,8,87,0
+1834,maharashtra,satara,2003,17,6,8,42,5,156,0
+1835,maharashtra,sindhudurg,2003,8,4,1,16,3,3,0
+1836,maharashtra,solapur commr.,2003,15,8,4,19,3,72,0
+1837,maharashtra,solapur rural,2003,44,15,4,52,0,130,0
+1838,maharashtra,thane commr.,2003,51,35,4,66,29,153,0
+1839,maharashtra,thane rural,2003,51,16,6,101,23,107,0
+1840,maharashtra,wardha,2003,25,15,1,81,4,67,0
+1841,maharashtra,washim,2003,15,10,9,60,12,119,0
+1842,maharashtra,yavatmal,2003,50,35,12,135,16,170,0
+1844,manipur,bishnupur,2003,2,6,0,16,0,0,0
+1845,manipur,chandel,2003,0,1,0,0,0,0,0
+1846,manipur,churachandpur,2003,0,0,0,2,0,0,0
+1847,manipur,imphal(east),2003,3,10,0,2,0,0,0
+1848,manipur,imphal(west),2003,5,24,0,22,0,1,0
+1849,manipur,senapati,2003,0,1,0,0,0,0,0
+1850,manipur,tamenglong,2003,0,0,0,0,0,0,0
+1851,manipur,thoubal,2003,8,26,0,1,0,3,0
+1852,manipur,ukhrul,2003,0,3,0,1,0,0,0
+1854,meghalaya,garo hills east,2003,1,0,0,0,0,0,0
+1855,meghalaya,garo hills south,2003,3,0,0,1,0,0,0
+1856,meghalaya,garo hills west,2003,6,0,0,5,0,0,0
+1857,meghalaya,jaintia hills,2003,11,0,0,0,0,0,0
+1858,meghalaya,khasi hills east,2003,10,7,0,7,1,4,0
+1859,meghalaya,khasi hills west,2003,6,0,0,0,0,0,0
+1860,meghalaya,ri-bhoi,2003,3,3,0,0,0,0,0
+1862,mizoram,aizawl,2003,24,1,0,25,0,3,0
+1863,mizoram,champhai,2003,10,0,0,11,0,0,0
+1864,mizoram,kolasib,2003,5,0,0,11,0,0,0
+1865,mizoram,lawngtlai,2003,1,0,0,6,0,0,0
+1866,mizoram,lunglei,2003,6,0,0,15,0,0,0
+1867,mizoram,mamit,2003,1,0,0,0,0,0,0
+1868,mizoram,saiha,2003,4,1,0,11,0,0,0
+1869,mizoram,serchhip,2003,3,0,0,9,0,0,0
+1871,nagaland,dimapur,2003,2,2,0,0,0,0,1
+1872,nagaland,kiphire,2003,1,0,0,0,0,0,0
+1873,nagaland,kohima,2003,5,0,0,4,0,0,0
+1874,nagaland,mokokchung,2003,1,0,0,0,2,0,0
+1875,nagaland,mon,2003,2,0,0,0,0,0,0
+1876,nagaland,peren,2003,1,0,0,0,0,0,0
+1877,nagaland,phek,2003,2,0,0,0,0,0,0
+1878,nagaland,tuensang,2003,0,0,0,0,0,0,0
+1879,nagaland,wokha,2003,0,1,0,0,0,0,0
+1880,nagaland,zunheboto,2003,0,0,0,0,0,0,0
+1882,odisha,angul,2003,20,9,18,111,0,36,0
+1883,odisha,balasore,2003,49,32,30,61,25,44,0
+1884,odisha,baragarh,2003,30,4,10,70,3,91,0
+1885,odisha,berhampur,2003,12,1,4,47,3,18,0
+1886,odisha,bhadrak,2003,25,21,21,49,2,67,0
+1887,odisha,bolangir,2003,25,4,0,95,5,38,0
+1888,odisha,boudh,2003,11,4,1,32,1,10,0
+1889,odisha,cuttack,2003,32,26,47,27,1,122,0
+1890,odisha,deogarh,2003,5,9,0,52,3,12,0
+1891,odisha,dhenkanal,2003,9,7,3,67,10,27,0
+1892,odisha,gajapati,2003,4,4,3,21,1,7,0
+1893,odisha,ganjam,2003,17,9,13,185,10,46,0
+1894,odisha,jagatsinghpur,2003,13,15,12,9,4,29,0
+1895,odisha,jajpur,2003,17,21,19,18,0,73,0
+1896,odisha,jharsuguda,2003,15,8,0,38,4,23,0
+1897,odisha,kalahandi,2003,18,9,5,22,6,11,0
+1898,odisha,kandhamal,2003,35,23,2,84,7,75,0
+1899,odisha,kendrapara,2003,10,12,12,14,0,12,0
+1900,odisha,keonjhar,2003,37,25,14,84,17,55,0
+1901,odisha,khurda,2003,57,35,29,39,19,131,0
+1902,odisha,koraput,2003,38,21,0,82,4,51,0
+1903,odisha,malkangir,2003,17,4,1,16,1,6,0
+1904,odisha,mayurbhanj,2003,70,2,11,120,8,135,0
+1905,odisha,nayagarh,2003,15,11,12,10,2,15,0
+1906,odisha,nowrangpur,2003,26,15,0,44,5,19,0
+1907,odisha,nuapada,2003,6,0,0,21,13,16,0
+1908,odisha,puri,2003,39,14,0,7,0,24,0
+1909,odisha,rayagada,2003,14,5,4,44,3,27,0
+1910,odisha,rourkela,2003,10,3,1,31,6,21,0
+1911,odisha,sambalpur,2003,22,9,1,61,13,15,0
+1912,odisha,sonepur,2003,4,2,1,44,1,8,0
+1913,odisha,srp(cuttack),2003,1,2,0,9,1,3,0
+1914,odisha,srp(rourkela),2003,1,1,0,3,0,0,0
+1915,odisha,sundargarh,2003,21,6,5,52,10,22,0
+1917,punjab,amritsar,2003,11,25,4,9,0,50,0
+1918,punjab,barnala,2003,15,7,2,12,0,52,0
+1919,punjab,batala,2003,13,9,6,6,0,28,0
+1920,punjab,bhatinda,2003,15,16,1,20,2,36,0
+1921,punjab,faridkot,2003,10,5,2,8,0,49,0
+1922,punjab,fatehgarh sahib,2003,9,4,1,2,2,14,0
+1923,punjab,ferozepur,2003,30,11,7,32,0,34,0
+1924,punjab,g.r.p,2003,1,1,3,3,0,0,0
+1925,punjab,gurdaspur,2003,15,4,4,4,0,19,0
+1926,punjab,hoshiarpur,2003,30,14,7,13,15,51,0
+1927,punjab,jagraon,2003,12,4,5,9,0,34,0
+1928,punjab,jalandhar,2003,33,46,13,27,0,107,0
+1929,punjab,kapurthala,2003,11,5,2,3,0,37,0
+1930,punjab,khanna,2003,7,3,2,7,0,14,0
+1931,punjab,ludhiana,2003,38,47,8,72,175,116,0
+1932,punjab,majitha,2003,12,10,3,15,0,29,0
+1933,punjab,mansa,2003,11,6,6,8,0,12,0
+1934,punjab,moga,2003,9,8,3,16,0,17,0
+1935,punjab,muktsar,2003,9,3,1,12,0,10,0
+1936,punjab,nawan shahr,2003,14,10,1,5,0,32,0
+1937,punjab,patiala,2003,33,30,6,28,0,138,0
+1938,punjab,ropar,2003,10,9,8,14,3,41,0
+1939,punjab,sangrur,2003,19,14,12,14,2,56,0
+1940,punjab,tarn taran,2003,13,4,3,7,0,11,0
+1942,rajasthan,ajmer,2003,36,95,17,75,0,284,0
+1943,rajasthan,alwar,2003,50,60,42,114,0,274,0
+1944,rajasthan,banswara,2003,53,51,3,89,2,100,0
+1945,rajasthan,baran,2003,50,66,3,175,10,187,0
+1946,rajasthan,barmer,2003,16,15,17,72,0,63,0
+1947,rajasthan,bharatpur,2003,41,68,30,55,0,228,0
+1948,rajasthan,bhilwara,2003,42,112,6,111,0,286,0
+1949,rajasthan,bikaner,2003,27,28,14,50,0,164,0
+1950,rajasthan,bundi,2003,42,49,4,152,0,198,0
+1951,rajasthan,chittorgarh,2003,78,164,6,99,3,379,0
+1952,rajasthan,churu,2003,22,14,15,76,1,173,0
+1953,rajasthan,dausa,2003,17,21,3,20,0,61,0
+1954,rajasthan,dholpur,2003,20,27,21,36,0,92,0
+1955,rajasthan,dungarpur,2003,15,29,10,50,1,54,0
+1956,rajasthan,g.r.p.,2003,0,0,2,12,2,0,0
+1957,rajasthan,ganganagar,2003,75,47,16,69,0,352,0
+1958,rajasthan,hanumangarh,2003,56,24,18,93,1,254,0
+1959,rajasthan,jaipur,2003,57,187,32,188,0,482,0
+1960,rajasthan,jaisalmer,2003,3,6,4,16,0,13,0
+1961,rajasthan,jalore,2003,6,30,7,72,0,75,0
+1962,rajasthan,jhalawar,2003,50,51,11,141,1,191,0
+1963,rajasthan,jhunjhunu,2003,27,33,7,50,0,102,0
+1964,rajasthan,jodhpur,2003,34,62,15,96,4,282,0
+1965,rajasthan,karauli,2003,34,50,13,80,0,73,0
+1966,rajasthan,kota,2003,35,115,9,146,2,307,0
+1967,rajasthan,nagaur,2003,32,27,10,115,0,128,0
+1968,rajasthan,pali,2003,27,65,9,184,1,190,0
+1969,rajasthan,rajsamand,2003,12,53,2,32,2,106,0
+1970,rajasthan,sawai madhopur,2003,21,27,10,56,0,112,0
+1971,rajasthan,sikar,2003,15,22,17,44,0,111,0
+1972,rajasthan,sirohi,2003,11,32,6,37,0,97,0
+1973,rajasthan,tonk,2003,11,48,5,45,1,179,1
+1974,rajasthan,udaipur,2003,35,72,5,65,2,136,0
+1976,sikkim,east,2003,5,0,0,11,0,1,0
+1977,sikkim,north,2003,2,0,0,0,0,0,0
+1978,sikkim,south,2003,1,0,0,6,0,0,0
+1979,sikkim,west,2003,2,0,0,8,0,0,0
+1981,tamil nadu,chengai,2003,17,33,15,100,62,78,0
+1982,tamil nadu,chennai,2003,38,0,18,90,212,159,0
+1983,tamil nadu,chennai rly.,2003,0,0,0,4,2,0,0
+1984,tamil nadu,coimbatore rural,2003,16,14,17,79,29,97,0
+1985,tamil nadu,coimbatore urban,2003,4,1,1,18,6,24,0
+1986,tamil nadu,cuddalore,2003,19,10,10,73,18,35,0
+1987,tamil nadu,dharmapuri,2003,23,34,16,91,11,36,0
+1988,tamil nadu,dindigul,2003,18,14,3,51,2,30,0
+1989,tamil nadu,erode,2003,11,33,2,60,10,50,0
+1990,tamil nadu,kanchipuram,2003,31,16,11,57,60,23,0
+1991,tamil nadu,kanyakumari,2003,11,9,4,22,33,50,0
+1992,tamil nadu,karur,2003,3,10,2,5,4,24,0
+1993,tamil nadu,madurai rural,2003,22,24,13,58,8,63,0
+1994,tamil nadu,madurai urban,2003,7,16,10,29,49,35,0
+1995,tamil nadu,nagapattinam,2003,5,19,8,50,4,25,0
+1996,tamil nadu,namakkal,2003,7,22,6,54,20,41,0
+1997,tamil nadu,nilgiris,2003,9,2,0,39,4,0,0
+1998,tamil nadu,perambalur,2003,13,26,3,65,10,42,0
+1999,tamil nadu,pudukottai,2003,8,14,2,52,5,28,0
+2000,tamil nadu,ramnathapuram,2003,10,10,3,49,6,45,0
+2001,tamil nadu,salem rural,2003,35,62,10,167,9,151,0
+2002,tamil nadu,salem urban,2003,11,8,3,11,13,13,0
+2003,tamil nadu,sivagangai,2003,4,19,4,17,7,34,0
+2004,tamil nadu,thanjavur,2003,14,22,1,100,14,33,0
+2005,tamil nadu,theni,2003,6,5,4,53,7,25,0
+2006,tamil nadu,thirunelveli rural,2003,43,27,11,122,28,41,0
+2007,tamil nadu,thirunelveli urban,2003,4,10,0,11,18,21,0
+2008,tamil nadu,thiruvallur,2003,14,23,8,70,13,28,0
+2009,tamil nadu,thiruvannamalai,2003,25,20,6,37,8,22,0
+2010,tamil nadu,thiruvarur,2003,9,8,2,71,9,19,0
+2011,tamil nadu,thoothugudi,2003,21,22,5,76,51,54,0
+2012,tamil nadu,trichy rly.,2003,0,0,0,0,1,0,0
+2013,tamil nadu,trichy rural,2003,7,9,7,16,4,44,1
+2014,tamil nadu,trichy urban,2003,6,7,0,5,41,44,0
+2015,tamil nadu,vellore,2003,20,23,6,43,32,17,0
+2016,tamil nadu,villupuram,2003,39,40,6,100,29,62,0
+2017,tamil nadu,virudhunagar,2003,27,20,3,77,42,62,0
+2019,tripura,dhalai,2003,5,2,2,8,0,10,0
+2020,tripura,north,2003,36,4,3,38,0,75,0
+2021,tripura,south,2003,37,7,3,54,0,73,0
+2022,tripura,west,2003,36,16,12,27,0,89,0
+2024,uttar pradesh,agra,2003,27,73,55,59,55,183,0
+2025,uttar pradesh,aligarh,2003,24,60,33,27,14,108,0
+2026,uttar pradesh,allahabad,2003,21,19,40,12,27,77,0
+2027,uttar pradesh,ambedkar nagar,2003,7,15,10,6,7,16,0
+2028,uttar pradesh,auraiya,2003,4,10,16,11,24,13,0
+2029,uttar pradesh,azamgarh,2003,6,23,16,18,39,45,0
+2030,uttar pradesh,badaun,2003,31,40,28,29,89,15,0
+2031,uttar pradesh,baghpat,2003,12,14,10,9,45,23,0
+2032,uttar pradesh,bahraich,2003,5,8,7,8,271,17,0
+2033,uttar pradesh,ballia,2003,2,3,8,8,25,8,0
+2034,uttar pradesh,balrampur,2003,3,4,3,1,45,6,0
+2035,uttar pradesh,banda,2003,10,6,13,15,17,10,0
+2036,uttar pradesh,barabanki,2003,12,19,16,11,50,27,0
+2037,uttar pradesh,bareilly,2003,32,47,37,27,78,84,0
+2038,uttar pradesh,basti,2003,5,11,14,9,161,15,0
+2039,uttar pradesh,bijnor,2003,20,23,24,23,254,50,0
+2040,uttar pradesh,bulandshahar,2003,13,30,25,26,98,105,0
+2041,uttar pradesh,chandoli,2003,3,2,11,5,14,3,0
+2042,uttar pradesh,chitrakoot dham,2003,10,0,6,7,0,7,0
+2043,uttar pradesh,deoria,2003,3,12,21,7,9,14,0
+2044,uttar pradesh,etah,2003,18,23,38,19,15,37,0
+2045,uttar pradesh,etawah,2003,2,9,16,12,6,18,0
+2046,uttar pradesh,faizabad,2003,10,11,4,6,42,2,0
+2047,uttar pradesh,fatehgarh,2003,7,9,18,9,68,19,0
+2048,uttar pradesh,fatehpur,2003,3,14,24,4,19,15,0
+2049,uttar pradesh,firozabad,2003,12,32,30,33,89,51,0
+2050,uttar pradesh,g.r.p.,2003,3,1,0,6,24,0,0
+2051,uttar pradesh,gautambudh nagar,2003,10,19,14,13,19,23,0
+2052,uttar pradesh,ghaziabad,2003,15,49,17,18,65,97,0
+2053,uttar pradesh,ghazipur,2003,2,8,11,3,24,24,0
+2054,uttar pradesh,gonda,2003,5,8,16,3,215,4,0
+2055,uttar pradesh,gorakhpur,2003,13,32,18,22,25,36,0
+2056,uttar pradesh,hamirpur,2003,10,4,12,15,5,2,0
+2057,uttar pradesh,hardoi,2003,24,31,18,30,83,37,0
+2058,uttar pradesh,hathras,2003,21,23,10,19,21,74,0
+2059,uttar pradesh,j.p.nagar,2003,6,14,13,4,121,24,0
+2060,uttar pradesh,jalaun,2003,6,8,22,11,13,15,0
+2061,uttar pradesh,jaunpur,2003,4,13,22,6,45,29,0
+2062,uttar pradesh,jhansi,2003,4,8,8,4,209,5,0
+2063,uttar pradesh,kannauj,2003,4,22,16,14,28,29,0
+2064,uttar pradesh,kanpur dehat,2003,6,20,22,15,118,19,0
+2065,uttar pradesh,kanpur nagar,2003,24,57,43,40,147,94,0
+2066,uttar pradesh,kaushambi,2003,17,4,16,7,9,5,0
+2067,uttar pradesh,khiri,2003,28,40,35,30,213,60,0
+2068,uttar pradesh,kushi nagar,2003,5,9,12,11,97,14,0
+2069,uttar pradesh,lalitpur,2003,5,4,5,4,60,3,0
+2070,uttar pradesh,lucknow,2003,38,98,29,63,302,216,0
+2071,uttar pradesh,maharajganj,2003,4,10,4,7,56,2,0
+2072,uttar pradesh,mahoba,2003,2,5,9,13,7,3,0
+2073,uttar pradesh,mainpuri,2003,7,19,31,10,6,13,0
+2074,uttar pradesh,mathura,2003,16,26,18,21,36,65,0
+2075,uttar pradesh,mau,2003,5,10,9,10,69,10,0
+2076,uttar pradesh,meerut,2003,40,55,31,31,165,199,0
+2077,uttar pradesh,mirzapur,2003,6,6,12,6,4,8,0
+2078,uttar pradesh,moradabad,2003,43,43,24,25,158,112,0
+2079,uttar pradesh,muzaffarnagar,2003,32,36,29,23,205,73,0
+2080,uttar pradesh,pilibhit,2003,21,20,13,9,137,0,0
+2081,uttar pradesh,pratapgarh,2003,9,19,24,7,12,38,0
+2082,uttar pradesh,raibareilly,2003,20,25,16,36,102,38,0
+2083,uttar pradesh,rampur,2003,13,21,12,12,7,5,0
+2084,uttar pradesh,saharanpur,2003,17,50,10,17,70,77,0
+2085,uttar pradesh,sant kabirnagar,2003,0,4,10,5,43,10,0
+2086,uttar pradesh,shahjahanpur,2003,17,60,28,17,63,11,0
+2087,uttar pradesh,shrawasti,2003,3,4,4,2,18,5,0
+2088,uttar pradesh,sidharthnagar,2003,2,7,8,4,7,11,0
+2089,uttar pradesh,sitapur,2003,47,40,50,53,36,37,0
+2090,uttar pradesh,sonbhadra,2003,5,4,11,7,15,6,0
+2091,uttar pradesh,st.ravidasnagar,2003,2,1,5,2,3,9,0
+2092,uttar pradesh,sultanpur,2003,18,19,19,10,81,38,0
+2093,uttar pradesh,unnao,2003,23,19,42,28,195,45,0
+2094,uttar pradesh,varanasi,2003,7,7,21,4,71,33,0
+2096,uttarakhand,almora,2003,1,1,9,6,4,5,0
+2097,uttarakhand,bageshwar,2003,4,0,2,3,0,0,0
+2098,uttarakhand,chamoli,2003,4,3,3,8,2,1,0
+2099,uttarakhand,champawat,2003,1,3,2,5,0,4,0
+2100,uttarakhand,dehradun,2003,16,28,11,13,31,85,0
+2101,uttarakhand,haridwar,2003,31,25,7,21,36,79,0
+2102,uttarakhand,nainital,2003,9,14,12,15,3,30,0
+2103,uttarakhand,pauri garhwal,2003,7,14,13,9,0,17,0
+2104,uttarakhand,pithoragarh,2003,3,0,6,7,0,1,0
+2105,uttarakhand,rudra prayag,2003,2,2,7,2,0,4,0
+2106,uttarakhand,tehri garhwal,2003,6,4,6,10,0,10,0
+2107,uttarakhand,udhamsingh nagar,2003,14,34,15,29,20,75,0
+2108,uttarakhand,uttarkashi,2003,9,6,0,8,2,6,0
+2110,west bengal,24 parganas north,2003,92,103,24,105,3,672,0
+2111,west bengal,24 parganas south,2003,89,69,47,105,1,822,0
+2112,west bengal,asansol,2003,8,11,4,19,1,128,0
+2113,west bengal,bankura,2003,43,11,20,31,0,106,0
+2114,west bengal,birbhum,2003,48,30,13,51,0,164,0
+2115,west bengal,burdwan,2003,61,33,26,51,0,301,1
+2116,west bengal,coochbehar,2003,53,34,11,60,0,176,0
+2117,west bengal,dakshin dinajpur,2003,31,32,8,40,1,104,0
+2118,west bengal,darjeeling,2003,24,26,3,20,0,58,0
+2119,west bengal,hooghly,2003,39,31,14,25,0,383,0
+2120,west bengal,howrah,2003,9,8,12,7,0,59,0
+2121,west bengal,howrah city,2003,6,7,5,11,1,65,0
+2122,west bengal,howrah g.r.p.,2003,0,2,0,5,0,1,0
+2123,west bengal,jalpaiguri,2003,60,23,4,75,1,164,0
+2124,west bengal,kharagpur g.r.p.,2003,0,0,0,0,0,0,0
+2125,west bengal,kolkata,2003,36,85,16,185,57,222,0
+2126,west bengal,malda,2003,57,20,4,67,1,99,0
+2127,west bengal,murshidabad,2003,106,84,17,131,0,408,0
+2128,west bengal,nadia,2003,108,59,23,96,2,299,0
+2129,west bengal,paschim midnapur,2003,50,45,18,31,2,338,0
+2130,west bengal,purab midnapur,2003,33,49,37,11,0,233,0
+2131,west bengal,purulia,2003,25,14,8,34,0,82,0
+2132,west bengal,sealdah g.r.p.,2003,0,0,1,2,0,0,0
+2133,west bengal,siliguri g.r.p.,2003,0,2,0,1,0,0,0
+2134,west bengal,uttar dinajpur,2003,24,23,14,23,1,64,0
+2136,a&n islands,andaman,2003,2,2,0,9,2,7,0
+2137,a&n islands,nicobar,2003,0,0,0,0,0,0,0
+2139,chandigarh,chandigarh,2003,18,28,1,11,4,93,0
+2141,d&n haveli,d and n haveli,2003,1,4,0,4,0,2,0
+2143,daman & diu,daman,2003,4,1,0,3,0,0,0
+2144,daman & diu,diu,2003,1,0,1,0,0,0,0
+2146,delhi,central,2003,20,40,4,29,10,49,0
+2148,delhi,east,2003,37,119,15,73,8,190,0
+2149,delhi,g.r.p.(rly),2003,0,5,3,4,0,0,0
+2150,delhi,i.g.i. airport,2003,0,1,0,5,1,0,0
+2151,delhi,new delhi,2003,8,16,1,20,8,13,0
+2152,delhi,north,2003,34,44,4,16,8,55,0
+2153,delhi,north east,2003,53,133,20,41,5,128,0
+2154,delhi,north west,2003,128,191,27,102,14,290,0
+2155,delhi,s.t.f.,2003,0,0,0,0,0,0,0
+2156,delhi,south,2003,83,102,24,89,21,199,0
+2157,delhi,south west,2003,57,73,22,52,26,119,0
+2158,delhi,west,2003,70,73,10,58,4,168,0
+2159,lakshadweep,lakshadweep,2003,2,0,0,1,0,1,0
+2161,puducherry,pondicherry,2003,2,13,1,56,27,4,0

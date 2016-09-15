@@ -1,0 +1,727 @@
+,state_ut,district,year,rape,kidnapping_abduction,dowry_deaths,assault_intnt_outrage_modesty,inslt_modesty_women,cruelty_husban_reltvs,in_trafficking
+5108,andhra pradesh,adilabad,2008,50,26,5,174,103,355,0
+5109,andhra pradesh,anantapur,2008,37,36,12,133,132,0,0
+5110,andhra pradesh,chittoor,2008,30,57,26,104,250,288,0
+5111,andhra pradesh,cuddapah,2008,27,64,11,212,37,267,0
+5112,andhra pradesh,cyberabad,2008,80,101,59,130,833,884,0
+5113,andhra pradesh,east godavari,2008,48,13,23,194,131,563,0
+5114,andhra pradesh,guntakal rly.,2008,0,0,0,3,1,2,0
+5115,andhra pradesh,guntur,2008,48,65,26,306,99,496,0
+5116,andhra pradesh,hyderabad city,2008,62,77,41,231,148,1184,0
+5117,andhra pradesh,karimnagar,2008,84,148,48,310,273,596,0
+5118,andhra pradesh,khammam,2008,70,83,26,213,24,329,0
+5119,andhra pradesh,krishna,2008,38,52,12,254,93,379,0
+5120,andhra pradesh,kurnool,2008,47,72,17,419,232,227,0
+5121,andhra pradesh,mahaboobnagar,2008,72,87,35,162,38,231,0
+5122,andhra pradesh,medak,2008,50,44,35,114,61,332,0
+5123,andhra pradesh,nalgonda,2008,90,76,32,243,155,353,0
+5124,andhra pradesh,nellore,2008,39,73,6,184,130,333,0
+5125,andhra pradesh,nizamabad,2008,31,25,16,70,85,305,0
+5126,andhra pradesh,prakasham,2008,30,53,5,192,38,229,0
+5127,andhra pradesh,ranga reddy,2008,37,13,19,39,25,120,0
+5128,andhra pradesh,secunderabad rly.,2008,2,0,0,1,0,0,0
+5129,andhra pradesh,srikakulam,2008,32,14,6,92,72,314,0
+5130,andhra pradesh,vijayawada city,2008,30,36,9,104,252,395,0
+5131,andhra pradesh,vijayawada rly.,2008,0,0,0,1,1,0,0
+5132,andhra pradesh,visakha rural,2008,12,9,10,79,40,168,0
+5133,andhra pradesh,visakhapatnam,2008,29,26,13,87,2,488,0
+5134,andhra pradesh,vizianagaram,2008,6,14,3,88,60,253,0
+5135,andhra pradesh,warangal,2008,59,62,36,223,54,519,0
+5136,andhra pradesh,west godavari,2008,117,70,25,368,182,696,0
+5138,arunachal pradesh,changlang,2008,2,4,0,5,0,0,0
+5139,arunachal pradesh,dibang valley,2008,3,4,0,9,0,2,0
+5140,arunachal pradesh,k/kumey,2008,2,2,0,2,0,1,0
+5141,arunachal pradesh,kameng east,2008,5,4,0,0,0,0,0
+5142,arunachal pradesh,kameng west,2008,0,2,0,4,0,0,0
+5143,arunachal pradesh,lohit,2008,3,1,0,1,0,0,0
+5144,arunachal pradesh,papum pare,2008,7,10,0,12,1,3,0
+5145,arunachal pradesh,siang east,2008,5,5,0,6,0,1,0
+5146,arunachal pradesh,siang upper,2008,0,1,0,1,0,0,0
+5147,arunachal pradesh,siang west,2008,13,8,0,6,0,5,0
+5148,arunachal pradesh,subansiri lower,2008,0,3,0,10,0,0,0
+5149,arunachal pradesh,subansiri upper,2008,2,1,0,6,0,1,0
+5150,arunachal pradesh,tawang,2008,0,0,0,5,0,0,0
+5151,arunachal pradesh,tirap,2008,0,2,0,5,0,0,0
+5152,arunachal pradesh,upper dibang valley,2008,0,0,0,0,0,0,0
+5154,assam,barpeta,2008,97,117,14,34,0,240,0
+5155,assam,baska,2008,23,30,4,16,0,13,0
+5156,assam,bongaigaon,2008,51,35,5,13,0,106,0
+5157,assam,c.i.d.,2008,0,0,0,0,0,0,0
+5158,assam,cachar,2008,72,106,13,19,0,216,0
+5159,assam,chirang,2008,25,24,0,15,0,38,0
+5160,assam,darrang,2008,57,57,2,162,2,119,0
+5161,assam,dhemaji,2008,88,51,0,40,0,165,0
+5162,assam,dhubri,2008,116,126,4,88,0,393,0
+5163,assam,dibrugarh,2008,46,60,4,60,0,100,0
+5164,assam,g.r.p.,2008,5,8,0,2,0,0,0
+5165,assam,goalpara,2008,66,64,4,32,0,117,0
+5166,assam,golaghat,2008,42,50,0,46,0,86,0
+5167,assam,guwahati city,2008,59,97,5,169,0,216,0
+5168,assam,hailakandi,2008,39,52,3,8,0,62,0
+5169,assam,jorhat,2008,44,41,0,59,0,76,0
+5170,assam,kamrup,2008,36,78,3,75,0,101,0
+5171,assam,karbi anglong,2008,16,12,1,7,0,16,0
+5172,assam,karimganj,2008,19,44,5,10,0,99,0
+5173,assam,kokrajhar,2008,55,24,4,16,0,58,0
+5174,assam,lakhimpur,2008,52,71,1,24,0,160,0
+5175,assam,morigaon,2008,75,68,4,57,0,114,0
+5176,assam,n.c.hills,2008,4,9,0,1,0,3,0
+5177,assam,nagaon,2008,112,209,9,200,0,371,0
+5178,assam,nalbari,2008,30,47,6,42,0,54,0
+5179,assam,r.p.o.,2008,5,3,0,1,0,0,0
+5180,assam,sibsagar,2008,46,94,4,27,0,139,0
+5181,assam,sonitpur,2008,56,125,6,34,0,294,0
+5182,assam,tinsukia,2008,60,60,2,8,0,84,0
+5183,assam,udalguri,2008,42,27,0,7,0,38,0
+5185,bihar,araria,2008,37,30,3,35,0,92,2
+5186,bihar,arwal,2008,2,10,13,0,0,8,0
+5187,bihar,aurangabad,2008,30,38,32,13,0,65,0
+5188,bihar,bagaha,2008,15,36,11,14,0,36,0
+5189,bihar,banka,2008,49,38,23,16,0,24,0
+5190,bihar,begusarai,2008,25,34,41,3,0,56,0
+5191,bihar,bettiah,2008,28,49,33,0,4,96,0
+5192,bihar,bhabhua,2008,8,19,19,10,0,26,1
+5193,bihar,bhagalpur,2008,35,98,27,35,5,120,0
+5194,bihar,bhojpur,2008,18,47,57,31,1,122,0
+5195,bihar,buxar,2008,11,18,29,20,0,19,0
+5196,bihar,darbhanga,2008,67,80,48,53,0,45,0
+5197,bihar,gaya,2008,52,77,43,8,0,40,3
+5198,bihar,gopalganj,2008,23,63,36,27,0,110,0
+5199,bihar,jamalpur rly.,2008,1,0,1,0,0,0,0
+5200,bihar,jamui,2008,17,21,32,25,0,41,0
+5201,bihar,jehanabad,2008,6,19,23,0,0,17,0
+5202,bihar,katihar,2008,120,66,15,12,0,28,0
+5203,bihar,katihar rly.,2008,2,2,0,5,0,1,0
+5204,bihar,khagaria,2008,16,17,9,2,0,13,0
+5205,bihar,kishanganj,2008,30,26,8,0,0,23,0
+5206,bihar,lakhisarai,2008,35,17,11,23,2,12,0
+5207,bihar,madhepura,2008,16,30,16,10,0,12,0
+5208,bihar,madhubani,2008,24,36,24,182,0,51,0
+5209,bihar,motihari,2008,34,83,45,14,0,12,0
+5210,bihar,munger,2008,20,31,14,2,0,40,0
+5211,bihar,muzaffarpur,2008,28,97,75,15,0,90,0
+5212,bihar,muzaffarpur rly.,2008,2,0,0,0,0,1,0
+5213,bihar,nalanda,2008,23,56,70,36,0,77,0
+5214,bihar,naugachia,2008,8,6,5,35,0,65,0
+5215,bihar,nawadah,2008,28,26,24,10,1,36,1
+5216,bihar,patna,2008,57,78,99,31,1,189,0
+5217,bihar,patna rly.,2008,0,4,2,7,0,1,0
+5218,bihar,purnea,2008,185,88,3,73,0,81,0
+5219,bihar,rohtas,2008,21,55,36,15,0,42,0
+5220,bihar,saharsa,2008,22,20,17,75,0,21,0
+5221,bihar,samastipur,2008,32,62,60,15,5,52,15
+5222,bihar,saran,2008,34,58,58,10,0,41,0
+5223,bihar,sheikhpura,2008,9,14,7,1,0,10,0
+5224,bihar,sheohar,2008,7,11,7,4,0,13,0
+5225,bihar,sitamarhi,2008,12,43,24,18,0,12,0
+5226,bihar,siwan,2008,24,35,31,9,2,54,0
+5227,bihar,supaul,2008,53,37,15,71,0,68,0
+5228,bihar,vaishali,2008,36,114,64,34,0,30,0
+5230,chhattisgarh,balrampur,2008,41,5,3,43,0,24,0
+5231,chhattisgarh,bilaspur,2008,71,25,19,171,4,136,0
+5232,chhattisgarh,bizapur,2008,5,2,0,5,0,1,0
+5233,chhattisgarh,dantewara,2008,10,7,1,17,1,3,0
+5234,chhattisgarh,dhamtari,2008,26,4,3,47,4,19,0
+5235,chhattisgarh,durg,2008,109,12,11,218,17,118,0
+5236,chhattisgarh,grp raipur,2008,2,0,0,4,2,0,0
+5237,chhattisgarh,jagdalpur,2008,68,11,2,49,2,23,0
+5238,chhattisgarh,janjgir,2008,47,7,14,135,12,123,0
+5239,chhattisgarh,jashpur,2008,71,41,0,56,3,19,0
+5240,chhattisgarh,kabirdham,2008,29,4,5,79,6,23,0
+5241,chhattisgarh,kanker,2008,15,7,4,26,3,13,0
+5242,chhattisgarh,korba,2008,31,9,5,68,10,42,0
+5243,chhattisgarh,koriya,2008,54,5,2,93,6,34,0
+5244,chhattisgarh,mahasamund,2008,24,7,6,57,4,27,0
+5245,chhattisgarh,narayanpur,2008,1,0,0,0,0,0,0
+5246,chhattisgarh,raigarh,2008,30,7,7,74,8,45,0
+5247,chhattisgarh,raipur,2008,128,36,11,247,34,124,0
+5248,chhattisgarh,rajnandgaon,2008,60,12,7,72,5,57,0
+5249,chhattisgarh,sarguja,2008,78,8,3,89,3,27,0
+5250,chhattisgarh,surajpur,2008,78,7,3,71,1,39,0
+5252,goa,north goa,2008,15,17,0,15,2,5,0
+5253,goa,south goa,2008,15,11,2,17,10,7,0
+5255,gujarat,ahmedabad commr.,2008,44,137,1,78,19,1185,0
+5256,gujarat,ahmedabad rural,2008,3,35,1,16,0,67,0
+5257,gujarat,ahwa-dang,2008,3,2,0,2,0,11,0
+5258,gujarat,amreli,2008,8,58,0,31,3,128,0
+5259,gujarat,anand,2008,11,45,0,25,2,170,0
+5260,gujarat,bharuch,2008,13,29,0,13,2,114,0
+5261,gujarat,bhavnagar,2008,9,80,0,69,51,197,0
+5262,gujarat,dahod,2008,13,40,0,33,0,63,0
+5263,gujarat,gandhinagar,2008,8,35,3,18,2,200,0
+5264,gujarat,himatnagar,2008,16,34,0,22,0,217,0
+5265,gujarat,jamnagar,2008,17,25,0,14,1,239,0
+5266,gujarat,junagadh,2008,5,43,3,66,3,456,0
+5267,gujarat,kheda north,2008,8,39,0,40,0,219,0
+5268,gujarat,kutch,2008,16,42,1,26,6,334,0
+5269,gujarat,mehsana,2008,9,48,0,33,1,289,0
+5270,gujarat,narmada,2008,7,7,0,8,1,12,0
+5271,gujarat,navsari,2008,2,4,0,1,1,5,0
+5272,gujarat,palanpur,2008,37,43,1,34,0,201,0
+5273,gujarat,panchmahal,2008,8,53,0,29,2,148,0
+5274,gujarat,patan,2008,19,24,0,29,0,157,0
+5275,gujarat,porbandar,2008,3,11,0,5,0,48,0
+5276,gujarat,rajkot commr.,2008,12,40,1,30,19,312,0
+5277,gujarat,rajkot rural,2008,24,42,4,45,2,293,0
+5278,gujarat,surat commr.,2008,28,79,11,54,2,472,0
+5279,gujarat,surat rural,2008,3,5,0,7,0,30,0
+5280,gujarat,surendranagar,2008,21,38,0,50,1,133,0
+5281,gujarat,tapi,2008,3,2,0,2,0,6,0
+5282,gujarat,vadodara commr.,2008,7,30,0,16,3,268,0
+5283,gujarat,vadodara rural,2008,11,37,0,21,0,87,0
+5284,gujarat,valsad,2008,4,9,0,6,0,32,0
+5285,gujarat,w.rly,2008,2,3,1,5,1,1,0
+5287,haryana,ambala,2008,35,49,11,27,21,172,0
+5288,haryana,bhiwani,2008,33,36,14,24,20,111,0
+5289,haryana,faridabad,2008,46,94,21,23,97,173,0
+5290,haryana,fatehabad,2008,12,21,4,16,13,143,0
+5291,haryana,grp,2008,1,3,6,7,158,0,0
+5292,haryana,gurgaon,2008,35,66,19,27,32,123,0
+5293,haryana,hissar,2008,23,27,19,25,9,214,0
+5294,haryana,jhajjar,2008,22,15,20,13,42,115,0
+5295,haryana,jind,2008,38,23,18,21,15,73,0
+5296,haryana,kaithal,2008,14,16,13,14,0,150,0
+5297,haryana,karnal,2008,50,23,17,31,21,124,0
+5298,haryana,kurukshetra,2008,41,24,12,11,27,72,0
+5299,haryana,mahendragarh,2008,21,20,16,17,0,73,0
+5300,haryana,mewat,2008,29,13,7,6,6,114,0
+5301,haryana,palwal,2008,29,23,15,25,33,89,0
+5302,haryana,panchkula,2008,15,18,5,6,1,72,0
+5303,haryana,panipat,2008,30,34,13,16,17,62,0
+5304,haryana,rewari,2008,23,25,13,31,0,72,0
+5305,haryana,rohtak,2008,39,20,17,25,38,106,0
+5306,haryana,sirsa,2008,31,16,9,14,0,127,0
+5307,haryana,sonipat,2008,36,43,24,31,50,149,0
+5308,haryana,yamunanagar,2008,28,35,9,25,5,101,0
+5310,himachal pradesh,bilaspur,2008,10,7,2,28,5,35,0
+5311,himachal pradesh,chamba,2008,10,16,0,26,0,10,0
+5312,himachal pradesh,g.r.p.,2008,0,0,0,0,0,0,0
+5313,himachal pradesh,hamirpur,2008,8,12,0,15,7,39,0
+5314,himachal pradesh,kangra,2008,19,15,0,37,13,68,0
+5315,himachal pradesh,kinnaur,2008,4,2,0,3,0,3,0
+5316,himachal pradesh,kullu,2008,16,17,0,31,2,28,0
+5317,himachal pradesh,lahaul-spiti,2008,1,0,0,0,0,1,0
+5318,himachal pradesh,mandi,2008,32,13,1,75,8,42,0
+5319,himachal pradesh,shimla,2008,22,19,0,31,0,33,0
+5320,himachal pradesh,sirmaur,2008,10,13,0,19,0,30,0
+5321,himachal pradesh,solan,2008,14,13,0,13,2,17,0
+5322,himachal pradesh,una,2008,11,10,0,17,4,37,0
+5324,jammu & kashmir,anantnag,2008,13,74,0,63,17,0,0
+5325,jammu & kashmir,awantipora,2008,4,13,0,40,1,1,0
+5326,jammu & kashmir,bandipora,2008,1,44,0,74,7,0,0
+5327,jammu & kashmir,baramulla,2008,13,60,0,80,12,1,0
+5328,jammu & kashmir,budgam,2008,8,60,0,88,29,0,0
+5329,jammu & kashmir,crime jammu,2008,0,0,0,0,0,0,0
+5330,jammu & kashmir,crime srinagar,2008,0,0,0,0,0,0,0
+5331,jammu & kashmir,doda,2008,20,21,0,14,4,8,0
+5332,jammu & kashmir,ganderbal,2008,2,21,0,36,1,2,0
+5333,jammu & kashmir,handwara,2008,6,16,0,51,6,1,0
+5334,jammu & kashmir,jammu,2008,26,49,7,31,58,54,0
+5335,jammu & kashmir,kargil,2008,1,1,0,5,0,0,0
+5336,jammu & kashmir,kathua,2008,15,13,7,17,4,7,0
+5337,jammu & kashmir,kishtwar,2008,4,12,0,10,1,5,0
+5338,jammu & kashmir,kulgam,2008,5,43,0,63,4,1,0
+5339,jammu & kashmir,kupwara,2008,5,19,0,31,2,2,0
+5340,jammu & kashmir,leh,2008,6,3,0,7,0,0,0
+5341,jammu & kashmir,poonch,2008,16,21,0,35,6,13,0
+5342,jammu & kashmir,pulwama,2008,2,29,0,13,8,0,0
+5343,jammu & kashmir,railways,2008,0,1,0,0,0,0,0
+5344,jammu & kashmir,rajouri,2008,21,27,6,34,7,39,0
+5345,jammu & kashmir,ramban,2008,9,14,0,4,4,0,0
+5346,jammu & kashmir,reasi,2008,5,9,0,11,4,2,0
+5347,jammu & kashmir,samba,2008,2,9,1,7,1,3,0
+5348,jammu & kashmir,shopian,2008,6,14,0,49,5,1,0
+5349,jammu & kashmir,srinagar,2008,16,69,0,162,104,18,0
+5350,jammu & kashmir,udhampur,2008,13,14,0,10,11,4,0
+5352,jharkhand,bokaro,2008,40,37,15,0,2,65,0
+5353,jharkhand,chaibasa,2008,42,5,7,16,0,33,0
+5354,jharkhand,chatra,2008,11,14,14,1,0,2,0
+5355,jharkhand,deoghar,2008,33,2,6,5,5,29,12
+5356,jharkhand,dhanbad,2008,47,76,36,35,10,57,0
+5357,jharkhand,dhanbad rly.,2008,0,1,2,4,0,2,0
+5358,jharkhand,dumka,2008,60,23,17,7,0,66,0
+5359,jharkhand,garhwa,2008,21,16,9,15,0,20,0
+5360,jharkhand,giridih,2008,48,44,33,22,1,25,0
+5361,jharkhand,godda,2008,26,6,7,16,0,50,0
+5362,jharkhand,gumla,2008,38,11,0,11,0,8,0
+5363,jharkhand,hazaribagh,2008,57,61,36,31,0,97,0
+5364,jharkhand,jamshedpur,2008,41,16,14,18,5,74,0
+5365,jharkhand,jamshedpur rly.,2008,0,0,0,1,0,1,0
+5366,jharkhand,jamtara,2008,20,3,5,9,0,16,0
+5367,jharkhand,khunti,2008,8,2,1,1,0,1,0
+5368,jharkhand,koderma,2008,16,14,11,6,0,23,0
+5369,jharkhand,latehar,2008,11,11,6,10,0,6,0
+5370,jharkhand,lohardagga,2008,16,4,2,2,0,7,0
+5371,jharkhand,pakur,2008,53,2,1,9,0,103,0
+5372,jharkhand,palamu,2008,30,31,18,1,0,32,0
+5373,jharkhand,ramgarh,2008,11,18,5,6,0,13,0
+5374,jharkhand,ranchi,2008,62,62,12,23,0,88,27
+5375,jharkhand,sahebganj,2008,61,22,4,14,0,19,0
+5376,jharkhand,saraikela,2008,13,11,5,8,0,13,0
+5377,jharkhand,simdega,2008,26,7,0,0,0,1,0
+5379,karnataka,bagalkot,2008,2,15,6,62,2,56,0
+5380,karnataka,bangalore commr.,2008,54,2,52,179,1,307,0
+5381,karnataka,bangalore rural,2008,14,7,11,56,0,56,0
+5382,karnataka,belgaum,2008,30,45,9,180,9,233,0
+5383,karnataka,bellary,2008,11,10,10,41,0,49,0
+5384,karnataka,bidar,2008,7,17,11,105,2,55,0
+5385,karnataka,bijapur,2008,19,17,1,83,0,135,0
+5386,karnataka,cbpura,2008,7,13,9,37,0,22,0
+5387,karnataka,chamarajnagar,2008,4,3,4,29,0,35,0
+5388,karnataka,chickmagalur,2008,17,10,8,60,6,123,0
+5389,karnataka,chitradurga,2008,18,15,6,82,0,49,0
+5390,karnataka,dakshin kannada,2008,10,6,5,53,4,51,0
+5391,karnataka,davanagere,2008,10,31,9,60,5,102,0
+5392,karnataka,dharwad commr.,2008,3,10,1,16,1,44,0
+5393,karnataka,dharwad rural,2008,1,0,3,16,0,23,0
+5394,karnataka,gadag,2008,10,0,5,49,1,34,0
+5395,karnataka,gulbarga,2008,25,31,7,75,0,169,0
+5396,karnataka,hassan,2008,17,24,8,76,0,79,1
+5397,karnataka,haveri,2008,5,0,0,48,0,33,0
+5398,karnataka,k.g.f.,2008,5,5,3,14,0,33,0
+5399,karnataka,kodagu,2008,20,5,2,27,1,41,0
+5400,karnataka,kolar,2008,14,11,14,22,0,21,0
+5401,karnataka,koppal,2008,6,12,4,26,0,39,0
+5402,karnataka,mandya,2008,18,13,11,59,0,72,0
+5403,karnataka,mysore commr.,2008,23,22,4,28,0,151,0
+5404,karnataka,mysore rural,2008,13,7,15,68,0,97,0
+5405,karnataka,raichur,2008,19,21,7,86,0,106,0
+5406,karnataka,railways,2008,0,0,0,1,0,0,0
+5407,karnataka,ramanagar,2008,17,8,14,62,0,37,0
+5408,karnataka,shimoga,2008,14,23,3,101,5,207,0
+5409,karnataka,tumkur,2008,12,10,16,90,0,80,0
+5410,karnataka,udupi,2008,11,3,0,17,0,15,0
+5411,karnataka,uttar kannada,2008,10,9,1,46,7,84,0
+5413,kerala,alapuzha,2008,16,16,2,224,22,247,0
+5414,kerala,ernakulam commr.,2008,12,7,1,59,5,88,0
+5415,kerala,ernakulam rural,2008,35,9,3,134,24,175,0
+5416,kerala,idukki,2008,28,12,0,131,3,193,0
+5417,kerala,kannur,2008,33,7,1,111,13,276,0
+5418,kerala,kasargod,2008,28,6,1,92,6,202,0
+5419,kerala,kollam,2008,61,20,2,273,11,442,0
+5420,kerala,kottayam,2008,31,11,0,221,32,193,0
+5421,kerala,kozhikode commr.,2008,15,4,3,72,10,165,0
+5422,kerala,kozhikode rural,2008,39,6,2,151,29,288,0
+5423,kerala,malappuram,2008,51,7,2,149,28,525,0
+5424,kerala,palakkad,2008,42,8,4,133,4,296,0
+5425,kerala,pathanamthitta,2008,32,8,0,168,12,173,0
+5426,kerala,railways,2008,1,0,0,7,3,0,0
+5427,kerala,thrissur,2008,46,12,2,214,29,332,0
+5428,kerala,trivandrum commr.,2008,20,6,1,128,7,115,0
+5429,kerala,trivandrum rural,2008,43,20,7,404,9,314,0
+5430,kerala,wayanadu,2008,35,7,0,74,11,114,0
+5432,madhya pradesh,alirajpur,2008,41,14,1,37,1,7,0
+5433,madhya pradesh,anuppur,2008,42,2,4,53,1,23,0
+5434,madhya pradesh,ashok nagar,2008,47,3,16,107,8,35,0
+5435,madhya pradesh,balaghat,2008,61,6,8,131,11,38,0
+5436,madhya pradesh,barwani,2008,39,4,1,81,3,6,0
+5437,madhya pradesh,betul,2008,121,22,17,198,10,50,0
+5438,madhya pradesh,bhind,2008,27,9,30,60,1,38,0
+5439,madhya pradesh,bhopal,2008,113,36,28,207,39,157,0
+5440,madhya pradesh,bhopal rly.,2008,2,2,1,7,3,3,0
+5441,madhya pradesh,burhanpur,2008,14,2,3,55,0,30,0
+5442,madhya pradesh,chhatarpur,2008,57,14,22,194,20,58,0
+5443,madhya pradesh,chhindwara,2008,120,11,17,185,22,121,0
+5444,madhya pradesh,damoh,2008,46,12,15,126,0,47,0
+5445,madhya pradesh,datiya,2008,25,11,17,63,0,32,0
+5446,madhya pradesh,dewas,2008,73,14,10,191,42,150,0
+5447,madhya pradesh,dhar,2008,100,27,37,185,11,69,0
+5448,madhya pradesh,dindori,2008,20,1,2,33,1,4,0
+5449,madhya pradesh,guna,2008,72,13,9,134,16,25,0
+5450,madhya pradesh,gwalior,2008,42,47,24,126,17,139,0
+5451,madhya pradesh,harda,2008,18,7,6,42,39,0,0
+5452,madhya pradesh,hoshangabad,2008,64,14,16,130,19,44,0
+5453,madhya pradesh,indore,2008,122,46,35,343,63,369,0
+5454,madhya pradesh,indore rly.,2008,3,0,1,5,1,0,0
+5455,madhya pradesh,jabalpur,2008,127,40,42,288,67,146,0
+5456,madhya pradesh,jabalpur rly.,2008,1,1,0,7,1,0,0
+5457,madhya pradesh,jhabua,2008,31,18,4,32,0,9,0
+5458,madhya pradesh,katni,2008,48,5,18,97,7,57,0
+5459,madhya pradesh,khandwa,2008,52,10,5,154,27,37,0
+5460,madhya pradesh,khargon,2008,65,8,23,154,23,42,0
+5461,madhya pradesh,mandla,2008,47,2,4,87,14,25,0
+5462,madhya pradesh,mandsaur,2008,40,15,15,128,4,56,0
+5463,madhya pradesh,morena,2008,26,21,32,73,1,73,0
+5464,madhya pradesh,narsinghpur,2008,61,2,14,100,16,44,0
+5465,madhya pradesh,neemuch,2008,19,3,0,45,14,28,0
+5466,madhya pradesh,panna,2008,28,6,17,77,0,26,0
+5467,madhya pradesh,raisen,2008,67,17,19,150,0,35,0
+5468,madhya pradesh,rajgarh,2008,83,22,10,166,36,136,0
+5469,madhya pradesh,ratlam,2008,63,14,11,105,11,57,0
+5470,madhya pradesh,rewa,2008,82,26,26,124,7,67,0
+5471,madhya pradesh,sagar,2008,119,28,37,349,38,154,0
+5472,madhya pradesh,satna,2008,102,15,32,207,9,137,0
+5473,madhya pradesh,seoni,2008,61,14,7,103,14,21,0
+5474,madhya pradesh,shahdol,2008,47,13,16,139,9,57,0
+5475,madhya pradesh,shajapur,2008,57,13,12,161,34,77,0
+5476,madhya pradesh,sheopur,2008,13,5,0,32,2,19,0
+5477,madhya pradesh,shivpuri,2008,64,24,16,128,3,53,0
+5478,madhya pradesh,sidhi,2008,37,17,18,83,5,30,0
+5479,madhya pradesh,sihore,2008,57,18,8,89,16,57,0
+5480,madhya pradesh,singrauli,2008,40,12,22,87,1,27,0
+5481,madhya pradesh,tikamgarh,2008,35,10,25,107,2,36,0
+5482,madhya pradesh,ujjain,2008,78,25,23,215,37,158,0
+5483,madhya pradesh,umariya,2008,25,2,5,60,7,13,0
+5484,madhya pradesh,vidisha,2008,93,13,24,205,25,63,0
+5486,maharashtra,ahmednagar,2008,49,33,0,125,4,537,0
+5487,maharashtra,akola,2008,26,33,7,111,61,153,0
+5488,maharashtra,amravati commr.,2008,22,9,4,41,10,85,0
+5489,maharashtra,amravati rural,2008,47,18,3,137,33,146,0
+5490,maharashtra,aurangabad commr.,2008,21,30,4,51,16,138,0
+5491,maharashtra,aurangabad rural,2008,21,7,39,65,9,226,0
+5492,maharashtra,beed,2008,26,22,11,92,11,332,0
+5493,maharashtra,bhandara,2008,26,13,0,69,18,73,0
+5494,maharashtra,buldhana,2008,36,25,9,153,39,250,0
+5495,maharashtra,chandrapur,2008,37,28,14,112,146,221,0
+5496,maharashtra,dhule,2008,10,8,3,32,8,196,0
+5497,maharashtra,gadchiroli,2008,22,11,2,30,7,46,0
+5498,maharashtra,gondia,2008,38,13,3,84,25,58,0
+5499,maharashtra,hingoli,2008,17,9,7,54,6,99,0
+5500,maharashtra,jalgaon,2008,42,19,18,107,29,456,0
+5501,maharashtra,jalna,2008,16,10,27,53,7,309,0
+5502,maharashtra,kolhapur,2008,34,18,17,76,13,153,0
+5503,maharashtra,latur,2008,22,29,77,74,0,187,0
+5504,maharashtra,mumbai commr.,2008,218,116,11,436,121,502,0
+5505,maharashtra,mumbai rly.,2008,4,2,1,12,0,0,0
+5506,maharashtra,nagpur commr.,2008,53,28,7,91,71,237,0
+5507,maharashtra,nagpur rly.,2008,1,2,0,8,2,0,0
+5508,maharashtra,nagpur rural,2008,37,20,7,89,32,95,0
+5509,maharashtra,nanded,2008,23,22,8,77,6,252,0
+5510,maharashtra,nandurbar,2008,11,8,1,21,7,93,0
+5511,maharashtra,nasik commr.,2008,14,21,5,42,10,141,0
+5512,maharashtra,nasik rural,2008,36,17,5,61,24,287,0
+5513,maharashtra,navi mumbai,2008,12,14,1,31,11,72,0
+5514,maharashtra,osmanabad,2008,22,19,2,80,7,183,0
+5515,maharashtra,parbhani,2008,12,11,15,56,6,204,0
+5516,maharashtra,pune commr.,2008,92,80,7,113,73,273,0
+5517,maharashtra,pune rly.,2008,1,1,1,3,0,0,0
+5518,maharashtra,pune rural,2008,66,30,13,104,30,189,0
+5519,maharashtra,raigad,2008,17,5,5,33,10,41,0
+5520,maharashtra,ratnagiri,2008,26,12,0,33,27,55,0
+5521,maharashtra,sangli,2008,42,13,12,67,14,140,0
+5522,maharashtra,satara,2008,30,14,3,66,26,164,0
+5523,maharashtra,sindhudurg,2008,8,2,0,34,15,14,0
+5524,maharashtra,solapur commr.,2008,24,8,0,17,3,66,0
+5525,maharashtra,solapur rural,2008,63,37,9,101,0,241,0
+5526,maharashtra,thane commr.,2008,74,72,12,149,46,384,0
+5527,maharashtra,thane rural,2008,71,36,7,128,24,134,0
+5528,maharashtra,wardha,2008,26,22,5,128,36,116,0
+5529,maharashtra,washim,2008,20,18,2,59,18,110,0
+5530,maharashtra,yavatmal,2008,43,33,6,114,30,171,0
+5532,manipur,bishnupur,2008,3,11,0,16,0,4,0
+5533,manipur,chandel,2008,0,0,0,0,0,0,0
+5534,manipur,churachandpur,2008,2,0,0,0,0,0,0
+5535,manipur,cid,2008,0,0,0,0,0,0,0
+5536,manipur,imphal east,2008,9,24,0,14,0,5,0
+5537,manipur,imphal west,2008,12,31,1,22,0,7,0
+5538,manipur,senapati,2008,2,0,0,0,0,0,0
+5539,manipur,tamenglong,2008,0,0,0,0,0,0,0
+5540,manipur,thoubal,2008,9,21,0,5,0,12,0
+5541,manipur,ukhrul,2008,1,0,0,0,0,0,0
+5543,meghalaya,garo hills east,2008,1,2,0,1,0,0,0
+5544,meghalaya,garo hills south,2008,2,0,0,0,0,0,0
+5545,meghalaya,garo hills west,2008,10,4,0,21,3,13,0
+5546,meghalaya,jaintia hills,2008,18,4,0,7,0,0,0
+5547,meghalaya,khasi hills east,2008,34,10,2,14,1,19,0
+5548,meghalaya,khasi hills west,2008,16,3,0,2,0,0,0
+5549,meghalaya,ri-bhoi,2008,7,2,0,9,0,0,0
+5551,mizoram,aizawl,2008,39,0,0,36,0,4,0
+5552,mizoram,champhai,2008,7,0,0,5,0,0,0
+5553,mizoram,kolasib,2008,9,1,0,11,0,1,0
+5554,mizoram,lawngtlai,2008,8,0,0,2,0,0,0
+5555,mizoram,lunglei,2008,8,0,0,13,0,0,0
+5556,mizoram,mamit,2008,2,0,0,3,0,0,0
+5557,mizoram,saiha,2008,0,0,0,1,0,0,0
+5558,mizoram,serchhip,2008,4,0,0,7,0,0,0
+5560,nagaland,dimapur,2008,6,5,0,11,0,2,0
+5561,nagaland,kiphire,2008,0,0,0,0,0,0,0
+5562,nagaland,kohima,2008,6,0,0,1,0,2,0
+5563,nagaland,longleng,2008,0,0,0,0,0,0,0
+5564,nagaland,mokokchung,2008,1,0,0,0,0,0,0
+5565,nagaland,mon,2008,1,0,0,1,0,0,0
+5566,nagaland,peren,2008,1,0,0,0,0,0,0
+5567,nagaland,phek,2008,2,0,0,1,0,0,0
+5568,nagaland,tuensang,2008,1,0,0,0,0,0,0
+5569,nagaland,wokha,2008,0,2,0,1,1,0,0
+5570,nagaland,zunheboto,2008,1,0,0,0,0,0,0
+5572,odisha,angul,2008,47,41,16,186,11,61,0
+5573,odisha,balasore,2008,50,44,27,76,24,217,0
+5574,odisha,baragarh,2008,29,7,9,64,6,14,0
+5575,odisha,berhampur,2008,23,16,4,90,9,9,0
+5576,odisha,bhadrak,2008,58,39,16,73,27,106,0
+5577,odisha,bolangir,2008,34,19,12,132,8,18,0
+5578,odisha,boudh,2008,5,2,3,61,3,9,0
+5579,odisha,cuttack,2008,35,34,31,16,3,124,0
+5580,odisha,dcp bbsr,2008,36,24,23,61,7,38,0
+5581,odisha,dcp ctc,2008,18,17,15,18,3,55,0
+5582,odisha,deogarh,2008,13,6,5,96,3,36,0
+5583,odisha,dhenkanal,2008,26,20,19,187,9,31,0
+5584,odisha,gajapati,2008,8,3,2,52,6,3,0
+5585,odisha,ganjam,2008,48,33,13,259,16,12,0
+5586,odisha,jagatsinghpur,2008,25,27,20,22,0,51,0
+5587,odisha,jajpur,2008,36,62,40,98,15,109,0
+5588,odisha,jharsuguda,2008,12,8,6,67,8,35,0
+5589,odisha,kalahandi,2008,38,29,3,82,5,27,0
+5590,odisha,kandhamal,2008,46,11,3,70,2,39,0
+5591,odisha,kendrapara,2008,30,31,32,8,1,93,0
+5592,odisha,keonjhar,2008,66,46,22,203,27,34,0
+5593,odisha,khurda,2008,25,33,0,14,1,0,0
+5594,odisha,koraput,2008,47,27,3,113,7,45,0
+5595,odisha,malkangir,2008,12,7,0,33,5,10,0
+5596,odisha,mayurbhanj,2008,90,45,27,200,23,58,0
+5597,odisha,nayagarh,2008,34,21,10,7,5,85,0
+5598,odisha,nowrangpur,2008,26,19,0,79,16,32,0
+5599,odisha,nuapada,2008,14,11,2,59,4,37,0
+5600,odisha,puri,2008,37,18,13,24,7,87,0
+5601,odisha,rayagada,2008,19,10,6,54,1,23,0
+5602,odisha,rourkela,2008,38,19,5,98,5,66,0
+5603,odisha,sambalpur,2008,33,12,6,82,4,39,0
+5604,odisha,sonepur,2008,15,3,1,24,2,8,0
+5605,odisha,srp(cuttack),2008,1,1,0,6,0,0,0
+5606,odisha,srp(rourkela),2008,1,2,0,3,1,1,0
+5607,odisha,sundargarh,2008,38,15,7,65,8,6,0
+5609,punjab,amritsar,2008,15,44,6,25,11,66,0
+5610,punjab,amritsar rural,2008,10,17,6,5,2,27,0
+5611,punjab,barnala,2008,12,6,1,11,0,10,0
+5612,punjab,batala,2008,20,13,6,9,0,46,0
+5613,punjab,bhatinda,2008,20,28,4,29,5,39,0
+5614,punjab,faridkot,2008,15,10,1,9,0,16,0
+5615,punjab,fatehgarh sahib,2008,13,9,0,5,1,31,0
+5616,punjab,ferozpur,2008,30,22,8,29,0,39,0
+5617,punjab,g.r.p,2008,1,0,4,2,0,0,0
+5618,punjab,gurdaspur,2008,24,21,9,15,0,28,0
+5619,punjab,hoshiarpur,2008,35,17,13,21,0,73,0
+5620,punjab,jalandhar,2008,51,83,10,52,0,133,0
+5621,punjab,kapurthala,2008,24,14,4,19,0,27,0
+5622,punjab,khanna,2008,12,12,7,5,0,28,0
+5623,punjab,ludhiana,2008,46,78,10,36,21,92,0
+5624,punjab,ludhiana rural,2008,14,12,4,4,5,19,0
+5625,punjab,mansa,2008,13,9,3,6,0,12,0
+5626,punjab,moga,2008,19,17,3,19,0,22,0
+5627,punjab,muktsar,2008,12,8,3,6,0,19,0
+5628,punjab,patiala,2008,35,37,13,17,0,116,0
+5629,punjab,ropar,2008,10,9,2,18,1,27,0
+5630,punjab,sangrur,2008,34,13,4,15,3,62,0
+5631,punjab,sas ngr,2008,20,18,3,0,0,0,0
+5632,punjab,sbs nagar,2008,14,3,2,9,0,28,0
+5633,punjab,tarn taran,2008,18,14,2,22,0,24,0
+5635,rajasthan,ajmer,2008,45,84,17,108,0,516,0
+5636,rajasthan,alwar,2008,88,91,38,134,0,429,0
+5637,rajasthan,banswara,2008,42,45,8,66,1,85,0
+5638,rajasthan,baran,2008,52,45,10,169,0,181,0
+5639,rajasthan,barmer,2008,20,21,14,82,0,116,0
+5640,rajasthan,bharatpur,2008,74,75,24,39,0,371,0
+5641,rajasthan,bhilwara,2008,42,58,13,77,0,370,0
+5642,rajasthan,bikaner,2008,48,28,12,74,0,306,0
+5643,rajasthan,bundi,2008,33,52,3,98,0,224,0
+5644,rajasthan,chittorgarh,2008,40,80,6,73,1,402,0
+5645,rajasthan,churu,2008,37,22,16,16,0,212,0
+5646,rajasthan,dausa,2008,21,48,9,34,0,100,0
+5647,rajasthan,dholpur,2008,21,46,19,9,0,127,0
+5648,rajasthan,dungarpur,2008,26,48,11,66,0,94,0
+5649,rajasthan,g.r.p.,2008,2,1,1,17,0,0,0
+5650,rajasthan,ganganagar,2008,70,43,16,59,2,276,0
+5651,rajasthan,hanumangarh,2008,33,29,17,68,0,232,0
+5652,rajasthan,jaipur east,2008,20,61,6,54,2,140,0
+5653,rajasthan,jaipur north,2008,25,69,5,26,0,149,0
+5654,rajasthan,jaipur rural,2008,35,82,11,108,5,205,0
+5655,rajasthan,jaipur south,2008,15,44,9,26,0,162,0
+5656,rajasthan,jaisalmer,2008,4,6,10,19,0,24,0
+5657,rajasthan,jalore,2008,13,17,8,50,0,106,0
+5658,rajasthan,jhalawar,2008,44,44,6,144,2,262,0
+5659,rajasthan,jhunjhunu,2008,40,35,22,32,0,240,0
+5660,rajasthan,jodhpur city,2008,19,35,10,25,1,212,0
+5661,rajasthan,jodhpur rural,2008,32,21,17,47,0,81,0
+5662,rajasthan,karauli,2008,33,32,11,27,0,99,0
+5663,rajasthan,kota city,2008,24,55,10,40,1,307,0
+5664,rajasthan,kota rural,2008,34,26,4,76,0,201,0
+5665,rajasthan,nagaur,2008,33,48,18,142,0,257,0
+5666,rajasthan,pali,2008,43,79,13,116,1,323,0
+5667,rajasthan,pratapgarh,2008,49,52,2,51,0,138,0
+5668,rajasthan,rajsamand,2008,12,34,0,35,0,195,0
+5669,rajasthan,sawai madhopur,2008,16,39,6,29,0,144,0
+5670,rajasthan,sikar,2008,40,38,15,18,0,217,0
+5671,rajasthan,sirohi,2008,17,36,5,66,0,110,0
+5672,rajasthan,tonk,2008,22,46,6,41,3,206,0
+5673,rajasthan,udaipur,2008,91,148,11,159,0,294,0
+5675,sikkim,east,2008,5,2,0,5,0,3,0
+5676,sikkim,north,2008,1,0,0,1,0,0,0
+5677,sikkim,south,2008,9,1,0,10,0,0,0
+5678,sikkim,west,2008,5,1,0,3,0,2,0
+5680,tamil nadu,chennai,2008,35,32,25,46,67,165,0
+5681,tamil nadu,chennai rly.,2008,0,1,0,5,0,0,0
+5682,tamil nadu,chennaisuburban,2008,21,24,28,42,42,41,0
+5683,tamil nadu,coimbatore rural,2008,14,46,8,107,8,115,0
+5684,tamil nadu,coimbatore urban,2008,9,7,6,29,7,62,0
+5685,tamil nadu,cuddalore,2008,16,52,1,29,80,50,0
+5686,tamil nadu,dharmapuri,2008,12,36,2,136,3,43,0
+5687,tamil nadu,dindigul,2008,13,53,3,47,13,99,0
+5688,tamil nadu,erode,2008,21,45,1,78,16,30,0
+5689,tamil nadu,kanchipuram,2008,24,18,7,20,2,8,0
+5690,tamil nadu,kanyakumari,2008,8,42,6,27,70,71,0
+5691,tamil nadu,karur,2008,4,12,4,10,3,13,0
+5692,tamil nadu,krishnagiri,2008,20,36,2,40,5,21,0
+5693,tamil nadu,madurai rural,2008,18,24,9,72,1,75,0
+5694,tamil nadu,madurai urban,2008,4,14,5,11,2,42,0
+5695,tamil nadu,nagapattinam,2008,10,24,4,59,1,8,0
+5696,tamil nadu,namakkal,2008,19,37,5,49,24,25,0
+5697,tamil nadu,nilgiris,2008,4,4,1,20,0,9,0
+5698,tamil nadu,perambalur,2008,26,29,7,70,9,6,0
+5699,tamil nadu,pudukottai,2008,4,31,8,45,2,39,0
+5700,tamil nadu,ramnathapuram,2008,6,16,2,34,1,12,0
+5701,tamil nadu,salem rural,2008,35,101,3,217,0,94,0
+5702,tamil nadu,salem urban,2008,22,27,7,16,11,33,0
+5703,tamil nadu,sivagangai,2008,1,35,4,7,16,56,0
+5704,tamil nadu,thanjavur,2008,7,29,7,108,0,20,0
+5705,tamil nadu,theni,2008,7,32,4,30,5,35,0
+5706,tamil nadu,thirunelveli rural,2008,42,60,3,115,0,97,0
+5707,tamil nadu,thirunelveli urban,2008,8,12,2,7,49,7,0
+5708,tamil nadu,thiruvallur,2008,17,22,9,18,0,30,0
+5709,tamil nadu,thiruvannamalai,2008,20,34,3,20,47,16,0
+5710,tamil nadu,thiruvarur,2008,6,12,1,51,2,3,0
+5711,tamil nadu,thoothugudi,2008,11,40,4,3,343,64,0
+5712,tamil nadu,trichy rly.,2008,0,0,0,0,0,0,0
+5713,tamil nadu,trichy rural,2008,11,26,5,16,0,28,0
+5714,tamil nadu,trichy urban,2008,2,4,5,7,37,25,0
+5715,tamil nadu,vellore,2008,21,52,7,25,0,49,0
+5716,tamil nadu,villupuram,2008,58,50,6,70,31,88,0
+5717,tamil nadu,virudhunagar,2008,17,41,3,19,77,69,0
+5719,tripura,dhalai,2008,32,7,2,22,0,34,0
+5720,tripura,north,2008,46,21,2,62,0,169,0
+5721,tripura,south,2008,45,27,6,135,0,161,0
+5722,tripura,west,2008,81,55,6,127,4,371,0
+5724,uttar pradesh,agra,2008,42,183,77,123,109,479,0
+5725,uttar pradesh,aligarh,2008,62,124,58,37,74,213,0
+5726,uttar pradesh,allahabad,2008,49,124,68,91,55,259,0
+5727,uttar pradesh,ambedkar nagar,2008,18,45,13,20,20,133,0
+5728,uttar pradesh,auraiya,2008,11,27,12,7,14,36,0
+5729,uttar pradesh,azamgarh,2008,24,56,35,17,35,86,0
+5730,uttar pradesh,badaun,2008,11,41,32,27,47,25,0
+5731,uttar pradesh,baghpat,2008,19,43,15,16,8,61,0
+5732,uttar pradesh,bahraich,2008,24,62,27,24,22,37,0
+5733,uttar pradesh,ballia,2008,12,27,20,15,12,43,0
+5734,uttar pradesh,balrampur,2008,12,20,5,12,10,13,0
+5735,uttar pradesh,banda,2008,35,26,36,70,19,67,0
+5736,uttar pradesh,barabanki,2008,23,82,47,34,54,110,0
+5737,uttar pradesh,bareilly,2008,46,121,47,110,89,202,0
+5738,uttar pradesh,basti,2008,7,18,15,5,15,24,0
+5739,uttar pradesh,bijnor,2008,30,80,19,52,53,249,0
+5740,uttar pradesh,bulandshahar,2008,28,60,29,51,74,151,0
+5741,uttar pradesh,chandoli,2008,4,9,19,10,19,91,0
+5742,uttar pradesh,chitrakoot dham,2008,22,5,17,21,0,17,0
+5743,uttar pradesh,deoria,2008,15,13,36,6,17,27,0
+5744,uttar pradesh,etah,2008,20,66,34,41,17,71,0
+5745,uttar pradesh,etawah,2008,19,64,28,43,29,108,0
+5746,uttar pradesh,faizabad,2008,23,56,18,26,43,86,0
+5747,uttar pradesh,fatehgarh,2008,23,41,26,35,56,84,0
+5748,uttar pradesh,fatehpur,2008,16,42,41,32,15,67,0
+5749,uttar pradesh,firozabad,2008,27,78,41,43,77,77,0
+5750,uttar pradesh,g.r.p.,2008,2,8,0,18,38,0,0
+5751,uttar pradesh,gautambudh nagar,2008,22,49,25,19,53,68,0
+5752,uttar pradesh,ghaziabad,2008,30,138,39,30,83,202,0
+5753,uttar pradesh,ghazipur,2008,6,22,33,17,15,64,0
+5754,uttar pradesh,gonda,2008,27,44,43,39,10,12,0
+5755,uttar pradesh,gorakhpur,2008,46,117,43,30,43,216,0
+5756,uttar pradesh,hamirpur,2008,9,19,13,13,5,10,0
+5757,uttar pradesh,hardoi,2008,42,60,50,67,30,68,0
+5758,uttar pradesh,hathras,2008,17,37,27,43,18,92,0
+5759,uttar pradesh,j.p.nagar,2008,20,34,16,26,37,40,0
+5760,uttar pradesh,jalaun,2008,6,30,37,34,24,47,0
+5761,uttar pradesh,jaunpur,2008,19,41,44,38,39,161,0
+5762,uttar pradesh,jhansi,2008,7,18,26,24,46,11,0
+5763,uttar pradesh,kannauj,2008,11,36,31,27,9,91,0
+5764,uttar pradesh,kanpur dehat,2008,26,56,31,64,24,185,0
+5765,uttar pradesh,kanpur nagar,2008,72,227,86,136,578,632,0
+5766,uttar pradesh,kanshiram nagar,2008,19,29,30,31,5,31,0
+5767,uttar pradesh,kaushambi,2008,26,42,26,59,12,117,0
+5768,uttar pradesh,khiri,2008,58,91,48,74,29,88,0
+5769,uttar pradesh,kushi nagar,2008,6,14,14,8,6,24,0
+5770,uttar pradesh,lalitpur,2008,16,9,10,11,14,40,0
+5771,uttar pradesh,lucknow,2008,82,331,62,226,340,778,0
+5772,uttar pradesh,maharajganj,2008,17,26,14,12,14,37,0
+5773,uttar pradesh,mahoba,2008,12,21,17,24,15,30,0
+5774,uttar pradesh,mainpuri,2008,9,65,38,20,9,40,0
+5775,uttar pradesh,mathura,2008,24,62,31,64,65,222,0
+5776,uttar pradesh,mau,2008,19,44,12,29,44,74,0
+5777,uttar pradesh,meerut,2008,50,123,37,73,165,326,0
+5778,uttar pradesh,mirzapur,2008,19,19,24,16,6,133,0
+5779,uttar pradesh,moradabad,2008,75,163,38,117,114,139,0
+5780,uttar pradesh,muzaffarnagar,2008,40,112,28,39,74,258,0
+5781,uttar pradesh,pilibhit,2008,41,100,35,90,10,359,0
+5782,uttar pradesh,pratapgarh,2008,33,83,32,52,18,155,0
+5783,uttar pradesh,raibareilly,2008,38,51,33,43,44,90,0
+5784,uttar pradesh,rampur,2008,46,83,21,46,17,4,0
+5785,uttar pradesh,saharanpur,2008,8,25,23,23,66,153,0
+5786,uttar pradesh,sant kabirnagar,2008,9,40,7,5,18,12,0
+5787,uttar pradesh,shahjahanpur,2008,68,94,68,80,25,10,0
+5788,uttar pradesh,shrawasti,2008,6,15,6,13,2,4,0
+5789,uttar pradesh,sidharthnagar,2008,12,30,16,30,20,30,0
+5790,uttar pradesh,sitapur,2008,53,129,77,47,21,110,0
+5791,uttar pradesh,sonbhadra,2008,26,24,20,38,37,30,0
+5792,uttar pradesh,st.ravidasnagar,2008,2,9,11,2,6,16,0
+5793,uttar pradesh,sultanpur,2008,25,49,12,26,19,43,0
+5794,uttar pradesh,unnao,2008,36,69,52,50,26,61,0
+5795,uttar pradesh,varanasi,2008,12,38,36,14,98,183,0
+5797,uttarakhand,almora,2008,2,7,8,5,3,9,0
+5798,uttarakhand,bageshwar,2008,2,1,2,3,4,2,0
+5799,uttarakhand,chamoli,2008,2,1,1,3,0,3,0
+5800,uttarakhand,champawat,2008,2,4,3,0,3,5,0
+5801,uttarakhand,dehradun,2008,20,65,9,24,128,85,0
+5802,uttarakhand,haridwar,2008,24,47,18,29,122,138,0
+5803,uttarakhand,nainital,2008,9,22,10,5,26,21,0
+5804,uttarakhand,pauri garhwal,2008,0,3,5,3,6,6,0
+5805,uttarakhand,pithoragarh,2008,0,0,3,6,0,11,0
+5806,uttarakhand,rudra prayag,2008,0,0,0,0,2,0,0
+5807,uttarakhand,tehri garhwal,2008,3,3,2,4,8,8,0
+5808,uttarakhand,udhamsingh nagar,2008,22,64,11,34,0,51,0
+5809,uttarakhand,uttarkashi,2008,1,5,1,4,4,1,0
+5811,west bengal,24 parganas north,2008,192,215,67,209,5,1946,0
+5812,west bengal,24 parganas south,2008,308,275,53,192,0,2551,1
+5813,west bengal,asansol,2008,20,12,9,20,0,166,0
+5814,west bengal,bankura,2008,46,18,20,45,1,170,0
+5815,west bengal,birbhum,2008,58,27,26,67,0,289,0
+5816,west bengal,burdwan,2008,61,28,24,107,2,507,0
+5817,west bengal,coochbehar,2008,141,92,17,148,0,367,0
+5818,west bengal,dakshin dinajpur,2008,47,36,8,78,0,206,0
+5819,west bengal,darjeeling,2008,47,40,5,60,0,135,0
+5820,west bengal,hooghly,2008,54,50,17,19,0,567,0
+5821,west bengal,howrah,2008,46,89,20,63,0,595,0
+5822,west bengal,howrah g.r.p.,2008,0,2,0,5,0,0,0
+5823,west bengal,jalpaiguri,2008,334,239,18,376,0,1062,0
+5824,west bengal,kharagpur g.r.p.,2008,0,0,0,1,0,0,0
+5825,west bengal,kolkata,2008,35,92,12,211,81,405,4
+5826,west bengal,malda,2008,130,57,12,83,0,401,0
+5827,west bengal,murshidabad,2008,308,165,34,184,3,1441,0
+5828,west bengal,nadia,2008,178,204,46,296,2,1186,0
+5829,west bengal,paschim midnapur,2008,56,57,20,58,0,582,0
+5830,west bengal,purab midnapur,2008,60,117,28,45,0,613,0
+5831,west bengal,purulia,2008,61,23,4,63,0,193,0
+5832,west bengal,sealdah g.r.p.,2008,2,3,0,1,0,0,0
+5833,west bengal,siliguri g.r.p.,2008,1,6,0,2,0,1,0
+5834,west bengal,uttar dinajpur,2008,78,60,11,63,0,280,0
+5836,a&n islands,andaman,2008,12,13,2,24,3,25,0
+5837,a&n islands,nicobar,2008,0,0,0,0,0,1,0
+5839,chandigarh,chandigarh,2008,20,42,3,19,2,49,0
+5841,d&n haveli,d and n haveli,2008,6,11,0,4,0,4,0
+5843,daman & diu,daman,2008,0,0,0,2,0,0,0
+5844,daman & diu,diu,2008,0,1,0,0,1,5,0
+5846,delhi,caw,2008,0,0,0,1,0,104,0
+5847,delhi,central,2008,30,61,6,38,12,81,0
+5848,delhi,crime branch,2008,0,0,0,0,0,0,0
+5850,delhi,east,2008,73,125,21,93,14,184,0
+5851,delhi,eow,2008,0,0,0,0,2,0,0
+5852,delhi,grp(rly),2008,0,5,1,1,0,1,0
+5853,delhi,igi airport,2008,0,0,0,2,0,0,0
+5854,delhi,new delhi,2008,3,14,1,18,3,9,0
+5855,delhi,north,2008,20,61,4,35,9,79,0
+5856,delhi,north-east,2008,32,169,17,77,23,172,0
+5857,delhi,north-west,2008,59,103,12,48,8,82,0
+5858,delhi,outer,2008,59,252,21,48,5,162,0
+5859,delhi,south,2008,37,51,8,52,16,76,0
+5860,delhi,south-east,2008,61,123,15,82,25,156,0
+5861,delhi,south-west,2008,38,66,9,39,7,109,0
+5862,delhi,stf,2008,0,0,0,0,0,0,0
+5863,delhi,west,2008,54,106,14,77,6,172,0
+5864,lakshadweep,lakshadweep,2008,2,1,0,0,0,1,0
+5866,puducherry,karaikal,2008,1,1,0,25,4,2,0
+5867,puducherry,puducherry,2008,7,8,2,40,17,10,0

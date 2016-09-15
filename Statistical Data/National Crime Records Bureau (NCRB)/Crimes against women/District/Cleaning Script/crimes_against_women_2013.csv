@@ -1,0 +1,789 @@
+,state_ut,district,year,rape,kidnapping_abduction,dowry_deaths,assault_intnt_outrage_modesty,inslt_modesty_women,cruelty_husban_reltvs,in_trafficking
+0,andhra pradesh,adilabad,2013,61,47,12,197,138,464,0
+1,andhra pradesh,anantapur,2013,28,84,23,337,43,161,0
+2,andhra pradesh,chittoor,2013,31,27,13,119,84,435,0
+3,andhra pradesh,cuddapah,2013,19,50,9,318,163,207,0
+4,andhra pradesh,cyberabad,2013,138,129,43,350,338,1526,0
+5,andhra pradesh,east godavari,2013,74,33,15,352,222,483,0
+6,andhra pradesh,guntakal rly.,2013,0,0,0,3,2,0,0
+7,andhra pradesh,guntur,2013,38,54,16,296,135,608,0
+8,andhra pradesh,guntur urban,2013,28,34,7,124,93,326,0
+9,andhra pradesh,hyderabad city,2013,101,52,39,225,90,1480,0
+10,andhra pradesh,karimnagar,2013,57,103,39,354,276,670,0
+11,andhra pradesh,khammam,2013,100,104,15,254,297,768,0
+12,andhra pradesh,krishna,2013,58,37,14,387,274,708,0
+13,andhra pradesh,kurnool,2013,26,50,11,374,199,203,0
+14,andhra pradesh,mahaboobnagar,2013,117,63,33,219,98,234,0
+15,andhra pradesh,medak,2013,64,38,25,169,73,476,0
+16,andhra pradesh,nalgonda,2013,77,110,27,367,313,327,0
+17,andhra pradesh,nellore,2013,26,81,8,263,221,374,0
+18,andhra pradesh,nizamabad,2013,49,33,17,142,295,732,0
+19,andhra pradesh,prakasham,2013,39,57,8,298,26,484,0
+20,andhra pradesh,rajahmundry,2013,14,4,2,67,68,209,0
+21,andhra pradesh,ranga reddy,2013,37,25,14,69,23,168,0
+22,andhra pradesh,secunderabad rly.,2013,0,2,0,11,0,0,0
+23,andhra pradesh,srikakulam,2013,42,23,3,207,129,361,0
+24,andhra pradesh,tirupathi urban,2013,10,15,7,45,31,133,0
+25,andhra pradesh,vijayawada city,2013,48,45,12,249,456,1227,0
+26,andhra pradesh,vijayawada rly.,2013,1,1,2,6,5,0,0
+27,andhra pradesh,visakha rural,2013,32,23,8,139,79,210,0
+28,andhra pradesh,visakhapatnam,2013,67,50,8,149,100,548,0
+29,andhra pradesh,vizianagaram,2013,42,25,10,165,95,383,0
+30,andhra pradesh,warangal,2013,52,63,20,206,10,129,0
+31,andhra pradesh,warangal urban,2013,36,47,16,127,81,195,0
+32,andhra pradesh,west godavari,2013,123,86,16,342,245,855,0
+34,arunachal pradesh,anjaw,2013,0,0,0,0,0,0,0
+35,arunachal pradesh,changlang,2013,5,5,0,2,0,1,0
+36,arunachal pradesh,dibang valley,2013,0,1,0,2,0,0,0
+37,arunachal pradesh,k/kumey,2013,0,1,0,1,0,0,0
+38,arunachal pradesh,kameng east,2013,2,12,0,6,0,0,0
+39,arunachal pradesh,kameng west,2013,2,0,0,0,0,0,0
+40,arunachal pradesh,lohit,2013,10,22,0,10,0,2,0
+41,arunachal pradesh,longding,2013,1,2,0,2,0,0,0
+42,arunachal pradesh,papum pare,2013,18,22,0,24,1,20,0
+43,arunachal pradesh,rural,2013,3,5,0,5,0,1,0
+44,arunachal pradesh,siang east,2013,10,2,0,6,0,1,0
+45,arunachal pradesh,siang upper,2013,0,2,0,4,0,0,0
+46,arunachal pradesh,siang west,2013,7,6,0,9,2,3,0
+47,arunachal pradesh,subansiri lower,2013,5,0,0,3,0,0,0
+48,arunachal pradesh,subansiri upper,2013,10,2,0,8,0,0,0
+49,arunachal pradesh,tawang,2013,2,1,0,6,0,1,0
+50,arunachal pradesh,tirap,2013,0,2,0,5,0,0,0
+51,arunachal pradesh,upper dibang valley,2013,0,1,0,0,0,0,0
+53,assam,baksa,2013,20,46,1,9,0,32,0
+54,assam,barpeta,2013,148,348,18,341,0,1016,0
+55,assam,bieo,2013,0,0,0,0,0,0,0
+56,assam,bongaigaon,2013,68,95,9,4,0,100,0
+57,assam,c.i.d.,2013,0,0,0,0,0,0,0
+58,assam,cachar,2013,79,221,12,25,0,537,0
+59,assam,chirang,2013,30,50,1,21,0,78,0
+60,assam,darrang,2013,92,145,3,239,0,378,0
+61,assam,dhemaji,2013,42,70,1,77,0,85,0
+62,assam,dhubri,2013,190,350,9,452,11,1080,0
+63,assam,dibrugarh,2013,65,108,0,151,0,239,0
+64,assam,g.r.p.,2013,0,6,0,0,0,0,0
+65,assam,goalpara,2013,73,103,7,89,0,326,0
+66,assam,golaghat,2013,85,181,3,76,0,284,0
+67,assam,guwahati city,2013,103,432,15,207,0,561,0
+68,assam,hailakandi,2013,60,71,2,7,0,169,0
+69,assam,hamren,2013,14,9,0,0,0,0,0
+70,assam,jorhat,2013,79,160,0,117,0,307,0
+71,assam,kamrup,2013,66,154,3,86,0,305,0
+72,assam,karbi anglong,2013,8,43,0,16,0,39,0
+73,assam,karimganj,2013,44,108,9,9,0,266,0
+74,assam,kokrajhar,2013,32,79,5,32,0,134,2
+75,assam,lakhimpur,2013,59,123,3,55,0,300,0
+76,assam,morigaon,2013,76,123,8,45,0,271,0
+77,assam,n.c.hills,2013,5,24,3,0,0,0,0
+78,assam,nagaon,2013,190,438,23,103,3,1120,0
+79,assam,nalbari,2013,44,90,3,84,0,178,0
+80,assam,r.p.o.,2013,9,3,0,0,0,0,0
+81,assam,sibsagar,2013,60,179,5,53,0,311,0
+82,assam,sonitpur,2013,99,205,15,34,0,300,0
+83,assam,stf,2013,0,0,0,0,0,0,0
+84,assam,tinsukia,2013,77,201,7,34,0,140,0
+85,assam,udalguri,2013,20,57,5,43,0,80,0
+87,bihar,araria,2013,52,90,12,10,0,19,5
+88,bihar,arwal,2013,6,32,15,3,0,30,0
+89,bihar,aurangabad,2013,19,52,28,37,0,141,0
+90,bihar,bagaha,2013,15,64,14,17,0,55,0
+91,bihar,banka,2013,33,69,28,1,1,69,0
+92,bihar,begusarai,2013,24,125,28,55,0,93,0
+93,bihar,bettiah,2013,39,154,26,0,0,148,0
+94,bihar,bhabhua,2013,16,52,27,0,0,49,0
+95,bihar,bhagalpur,2013,51,123,19,40,0,115,0
+96,bihar,bhojpur,2013,23,93,38,3,0,137,0
+97,bihar,buxar,2013,16,63,9,29,0,78,0
+98,bihar,darbhanga,2013,38,196,33,4,1,343,0
+99,bihar,gaya,2013,45,175,37,0,0,212,0
+100,bihar,gopalganj,2013,11,85,33,0,0,143,0
+101,bihar,jamalpur rly.,2013,1,0,0,0,0,1,0
+102,bihar,jamui,2013,24,37,19,2,0,104,0
+103,bihar,jehanabad,2013,14,26,30,5,0,57,0
+104,bihar,katihar,2013,86,148,21,1,0,99,0
+105,bihar,katihar rly.,2013,1,4,0,1,0,2,0
+106,bihar,khagaria,2013,8,59,13,5,0,25,0
+107,bihar,kishanganj,2013,52,90,7,0,0,65,0
+108,bihar,lakhisarai,2013,9,26,11,0,0,70,0
+109,bihar,madhepura,2013,14,70,17,3,0,64,0
+110,bihar,madhubani,2013,37,141,28,1,0,210,0
+111,bihar,motihari,2013,25,226,65,5,14,196,0
+112,bihar,munger,2013,7,55,13,5,0,66,0
+113,bihar,muzaffarpur,2013,43,295,48,5,27,81,2
+114,bihar,muzaffarpur rly.,2013,3,5,0,1,0,0,0
+115,bihar,nalanda,2013,11,107,81,18,0,174,0
+116,bihar,naugachia,2013,10,26,16,19,0,69,0
+117,bihar,nawadah,2013,20,51,23,3,0,122,0
+118,bihar,patna,2013,76,412,96,17,2,459,0
+119,bihar,patna rly.,2013,2,11,3,12,0,1,0
+120,bihar,purnea,2013,56,93,21,0,7,19,0
+121,bihar,rohtas,2013,60,135,48,5,0,97,0
+122,bihar,saharsa,2013,14,64,10,0,0,79,0
+123,bihar,samastipur,2013,35,128,32,8,0,116,0
+124,bihar,saran,2013,16,125,69,0,0,116,0
+125,bihar,sheikhpura,2013,10,34,8,0,0,47,0
+126,bihar,sheohar,2013,3,41,7,0,0,19,0
+127,bihar,sitamarhi,2013,26,182,24,3,0,140,0
+128,bihar,siwan,2013,19,190,45,1,0,112,0
+129,bihar,supaul,2013,34,103,19,5,0,78,0
+130,bihar,vaishali,2013,24,162,61,7,0,213,0
+132,chhattisgarh,balod,2013,20,20,3,67,2,11,0
+133,chhattisgarh,baloda bazar,2013,55,129,4,110,22,31,0
+134,chhattisgarh,balrampur,2013,84,0,8,50,2,31,1
+135,chhattisgarh,bemetara,2013,28,27,5,57,2,19,0
+136,chhattisgarh,bilaspur,2013,96,295,13,308,10,130,0
+137,chhattisgarh,bizapur,2013,6,10,0,6,1,1,0
+138,chhattisgarh,dantewara,2013,9,6,0,9,0,1,0
+139,chhattisgarh,dhamtari,2013,30,29,0,59,1,14,0
+140,chhattisgarh,durg,2013,106,83,9,236,34,147,0
+141,chhattisgarh,gariyaband,2013,32,23,0,24,8,12,0
+142,chhattisgarh,grp raipur,2013,2,1,0,3,0,1,0
+143,chhattisgarh,jagdalpur,2013,53,40,2,30,1,16,0
+144,chhattisgarh,janjgir,2013,56,158,11,161,11,138,0
+145,chhattisgarh,jashpur,2013,88,41,3,52,3,25,0
+146,chhattisgarh,kabirdham,2013,30,29,3,72,3,11,0
+147,chhattisgarh,kanker,2013,51,39,2,27,2,29,0
+148,chhattisgarh,kondagaon,2013,19,25,0,13,0,6,0
+149,chhattisgarh,korba,2013,57,63,4,71,9,66,0
+150,chhattisgarh,koriya,2013,63,64,3,88,4,55,0
+151,chhattisgarh,mahasamund,2013,49,102,8,104,11,48,0
+152,chhattisgarh,mungeli,2013,23,61,4,44,3,23,0
+153,chhattisgarh,narayanpur,2013,10,3,0,3,0,2,0
+154,chhattisgarh,raigarh,2013,90,163,5,126,10,53,0
+155,chhattisgarh,raipur,2013,139,327,11,263,32,173,0
+156,chhattisgarh,rajnandgaon,2013,46,72,7,74,4,32,0
+157,chhattisgarh,sarguja,2013,71,19,0,118,1,35,0
+158,chhattisgarh,sukma,2013,8,3,1,2,1,4,0
+159,chhattisgarh,surajpur,2013,59,49,3,84,3,67,0
+161,goa,north goa,2013,48,31,0,103,36,17,0
+162,goa,south goa,2013,38,39,0,59,18,23,0
+164,gujarat,ahmedabad commr.,2013,116,353,20,180,8,1756,0
+165,gujarat,ahmedabad rural,2013,17,62,0,33,0,167,0
+166,gujarat,ahwa-dang,2013,4,5,0,7,1,20,0
+167,gujarat,amreli,2013,11,60,0,16,2,157,0
+168,gujarat,anand,2013,12,70,1,20,4,162,0
+169,gujarat,bharuch,2013,23,41,0,30,0,53,0
+170,gujarat,bhavnagar,2013,17,100,1,50,7,220,0
+171,gujarat,cid crime,2013,0,1,0,0,0,0,0
+172,gujarat,dahod,2013,14,75,0,15,0,1,0
+173,gujarat,gandhinagar,2013,22,61,0,31,6,200,0
+174,gujarat,himatnagar,2013,14,74,0,33,8,304,0
+175,gujarat,jamnagar,2013,27,46,1,26,3,480,0
+176,gujarat,junagadh,2013,29,76,1,52,12,461,0
+177,gujarat,kheda north,2013,14,64,0,21,1,148,0
+178,gujarat,kutch (east(g)),2013,25,41,0,34,0,249,0
+179,gujarat,kutch (west-bhuj),2013,28,26,0,29,0,200,0
+180,gujarat,mehsana,2013,11,124,0,37,0,321,0
+181,gujarat,narmada,2013,7,21,0,15,0,10,0
+182,gujarat,navsari,2013,9,31,0,13,1,88,0
+183,gujarat,palanpur,2013,62,94,0,96,3,377,0
+184,gujarat,panchmahal,2013,16,96,0,46,0,217,0
+185,gujarat,patan,2013,19,74,0,47,1,174,0
+186,gujarat,porbandar,2013,6,14,0,6,0,79,0
+187,gujarat,rajkot commr.,2013,14,47,1,18,4,254,0
+188,gujarat,rajkot rural,2013,30,74,1,41,2,404,0
+189,gujarat,surat commr.,2013,76,195,2,91,0,491,0
+190,gujarat,surat rural,2013,19,27,1,15,0,114,0
+191,gujarat,surendranagar,2013,18,66,0,51,7,133,0
+192,gujarat,tapi,2013,8,17,0,13,0,12,0
+193,gujarat,vadodara commr.,2013,19,68,0,107,7,417,0
+194,gujarat,vadodara rural,2013,25,71,0,29,0,110,0
+195,gujarat,valsad,2013,19,49,0,33,0,28,0
+196,gujarat,w.rly ahmedabad,2013,0,5,0,2,0,5,0
+197,gujarat,w.rly vadodara,2013,1,2,0,6,0,0,0
+199,haryana,ambala rural,2013,17,58,3,32,0,79,0
+200,haryana,ambala urban,2013,24,92,1,48,18,170,0
+201,haryana,bhiwani,2013,52,118,20,97,36,144,0
+202,haryana,faridabad,2013,65,115,22,90,56,255,0
+203,haryana,fatehabad,2013,30,41,2,46,25,193,0
+204,haryana,grp,2013,2,7,3,18,51,0,0
+205,haryana,gurgaon,2013,82,184,18,97,42,290,0
+206,haryana,hissar,2013,61,97,17,118,31,319,0
+207,haryana,i&p haryana,2013,0,0,0,0,0,0,0
+208,haryana,jhajjar,2013,17,38,22,44,16,109,0
+209,haryana,jind,2013,38,73,9,69,34,121,0
+210,haryana,kaithal,2013,26,72,4,39,11,146,0
+211,haryana,karnal,2013,72,218,12,181,21,213,0
+212,haryana,kurukshetra,2013,25,56,8,70,26,137,0
+213,haryana,mahendragarh,2013,28,53,9,81,48,84,0
+214,haryana,mewat,2013,68,33,10,46,7,198,0
+215,haryana,palwal,2013,51,49,12,77,23,192,0
+216,haryana,panchkula,2013,15,102,4,41,9,80,0
+217,haryana,panipat,2013,52,114,14,60,19,118,0
+218,haryana,rewari,2013,43,48,13,62,52,117,0
+219,haryana,rohtak,2013,51,57,17,55,39,127,0
+220,haryana,sirsa,2013,64,113,5,58,13,187,2
+221,haryana,sonipat,2013,50,57,27,71,48,167,0
+222,haryana,yamunanagar,2013,38,162,11,60,18,171,0
+224,himachal pradesh,baddipolicedist,2013,6,23,0,17,1,20,0
+225,himachal pradesh,bilaspur,2013,13,43,0,32,23,32,0
+226,himachal pradesh,chamba,2013,19,13,0,31,1,7,0
+227,himachal pradesh,cid,2013,1,0,0,0,0,0,0
+228,himachal pradesh,g.r.p.,2013,0,0,0,1,0,0,0
+229,himachal pradesh,hamirpur,2013,12,11,0,31,20,23,0
+230,himachal pradesh,kangra,2013,33,53,0,100,31,53,0
+231,himachal pradesh,kinnaur,2013,6,2,0,8,0,4,0
+232,himachal pradesh,kullu,2013,29,26,0,44,2,30,0
+233,himachal pradesh,lahaul-spiti,2013,1,0,0,0,1,0,0
+234,himachal pradesh,mandi,2013,31,36,0,73,14,34,0
+235,himachal pradesh,shimla,2013,32,40,0,63,11,29,0
+236,himachal pradesh,sirmaur,2013,25,11,0,40,4,23,0
+237,himachal pradesh,solan,2013,17,14,0,19,1,16,0
+238,himachal pradesh,una,2013,25,18,0,34,2,57,0
+240,jammu & kashmir,anantnag,2013,19,88,0,129,26,4,0
+241,jammu & kashmir,awantipora,2013,5,14,0,18,4,1,0
+242,jammu & kashmir,bandipora,2013,8,50,0,47,9,5,0
+243,jammu & kashmir,baramulla,2013,19,92,0,135,18,13,0
+244,jammu & kashmir,budgam,2013,11,61,0,26,13,2,0
+245,jammu & kashmir,crime jammu,2013,0,0,0,0,0,0,0
+246,jammu & kashmir,crime srinagar,2013,0,0,0,0,0,0,0
+247,jammu & kashmir,doda,2013,29,36,0,41,9,41,0
+248,jammu & kashmir,ganderbal,2013,5,28,0,64,4,5,0
+249,jammu & kashmir,handwara,2013,10,28,0,77,5,5,0
+250,jammu & kashmir,jammu,2013,50,96,5,72,53,92,0
+251,jammu & kashmir,kargil,2013,0,1,0,1,0,0,0
+252,jammu & kashmir,kathua,2013,20,24,0,37,15,21,0
+253,jammu & kashmir,kishtwar,2013,12,14,0,14,5,19,0
+254,jammu & kashmir,kulgam,2013,13,60,0,136,18,0,0
+255,jammu & kashmir,kupwara,2013,19,51,0,47,14,10,0
+256,jammu & kashmir,leh,2013,2,0,0,2,1,0,0
+257,jammu & kashmir,poonch,2013,20,24,0,45,4,14,0
+258,jammu & kashmir,pulwama,2013,10,28,0,19,9,3,0
+259,jammu & kashmir,railways jammu,2013,0,0,0,1,0,0,0
+260,jammu & kashmir,railways kashmir,2013,0,0,0,0,2,0,0
+261,jammu & kashmir,railways katra,2013,0,0,0,0,0,0,0
+262,jammu & kashmir,rajouri,2013,30,58,1,46,16,57,0
+263,jammu & kashmir,ramban,2013,13,21,0,21,6,9,0
+264,jammu & kashmir,reasi,2013,13,17,0,5,8,14,0
+265,jammu & kashmir,samba,2013,5,8,1,23,7,12,0
+266,jammu & kashmir,shopian,2013,5,17,0,27,4,2,0
+267,jammu & kashmir,sopore,2013,15,34,0,63,3,5,0
+268,jammu & kashmir,srinagar,2013,22,86,0,266,90,72,0
+269,jammu & kashmir,udhampur,2013,23,13,0,27,11,22,0
+271,jharkhand,bokaro,2013,58,78,15,8,0,243,0
+272,jharkhand,chaibasa,2013,77,27,0,36,0,55,0
+273,jharkhand,chatra,2013,25,25,10,16,0,19,0
+274,jharkhand,deoghar,2013,61,5,24,65,0,252,0
+275,jharkhand,dhanbad,2013,65,144,37,6,0,89,0
+276,jharkhand,dhanbad rly.,2013,0,5,0,11,0,0,0
+277,jharkhand,dumka,2013,41,26,10,15,0,73,0
+278,jharkhand,garhwa,2013,53,28,30,33,0,125,0
+279,jharkhand,giridih,2013,53,29,44,24,0,323,0
+280,jharkhand,godda,2013,44,28,8,0,0,0,0
+281,jharkhand,gumla,2013,59,34,1,15,0,17,0
+282,jharkhand,hazaribagh,2013,63,62,28,35,0,50,0
+283,jharkhand,jamshedpur,2013,85,81,15,86,5,186,0
+284,jharkhand,jamshedpur rly.,2013,3,1,1,4,0,0,0
+285,jharkhand,jamtara,2013,32,21,8,9,1,150,0
+286,jharkhand,khunti,2013,9,7,0,8,1,8,0
+287,jharkhand,koderma,2013,23,25,6,17,0,48,0
+288,jharkhand,latehar,2013,27,10,5,19,0,16,0
+289,jharkhand,lohardagga,2013,34,10,3,2,0,35,0
+290,jharkhand,pakur,2013,48,26,2,10,0,147,0
+291,jharkhand,palamu,2013,31,24,22,18,0,31,0
+292,jharkhand,ramgarh,2013,36,35,14,18,9,25,0
+293,jharkhand,ranchi,2013,70,59,13,23,2,47,2
+294,jharkhand,sahebganj,2013,145,83,5,13,0,104,0
+295,jharkhand,saraikela,2013,33,33,6,24,0,28,0
+296,jharkhand,simdega,2013,29,20,0,9,0,13,0
+298,karnataka,bagalkot,2013,30,11,3,86,2,46,0
+299,karnataka,bangalore commr.,2013,80,538,52,378,73,482,0
+300,karnataka,bangalore rural,2013,57,85,22,130,0,112,0
+301,karnataka,belgaum,2013,61,25,7,246,12,200,0
+302,karnataka,bellary,2013,36,23,5,99,0,58,0
+303,karnataka,bidar,2013,18,31,7,82,9,112,0
+304,karnataka,bijapur,2013,28,21,2,94,0,92,0
+305,karnataka,cbpura,2013,33,16,17,57,0,51,0
+306,karnataka,chamarajnagar,2013,16,15,4,95,0,25,0
+307,karnataka,chickmagalur,2013,21,36,7,141,0,69,0
+308,karnataka,chitradurga,2013,31,27,7,178,0,64,0
+309,karnataka,dakshin kannada,2013,14,15,0,72,2,45,0
+310,karnataka,davanagere,2013,33,21,14,167,5,127,0
+311,karnataka,dharwad commr.,2013,16,75,4,37,5,85,0
+312,karnataka,dharwad rural,2013,18,0,1,34,0,27,0
+313,karnataka,gadag,2013,18,10,1,40,0,36,0
+314,karnataka,gulbarga,2013,54,46,8,125,0,122,0
+315,karnataka,hassan,2013,61,47,12,182,0,157,0
+316,karnataka,haveri,2013,18,0,1,80,0,55,0
+317,karnataka,k.g.f.,2013,23,7,6,13,0,15,0
+318,karnataka,kodagu,2013,26,17,2,40,2,41,0
+319,karnataka,kolar,2013,20,9,3,25,0,25,0
+320,karnataka,koppal,2013,22,0,0,39,0,59,0
+321,karnataka,mandya,2013,31,64,19,221,4,160,0
+322,karnataka,mangalore city,2013,20,6,1,54,5,65,0
+323,karnataka,mysore commr.,2013,19,16,12,11,1,43,0
+324,karnataka,mysore rural,2013,26,6,14,69,0,64,0
+325,karnataka,raichur,2013,43,12,3,156,0,162,0
+326,karnataka,railways,2013,1,0,2,3,0,0,0
+327,karnataka,ramanagar,2013,21,41,11,141,0,57,0
+328,karnataka,shimoga,2013,43,51,5,267,4,300,0
+329,karnataka,tumkur,2013,37,16,14,206,0,87,0
+330,karnataka,udupi,2013,22,11,2,67,0,78,0
+331,karnataka,uttar kannada,2013,17,38,6,155,13,94,0
+332,karnataka,yadgiri,2013,16,23,3,123,0,61,0
+334,kerala,alapuzha,2013,45,10,1,293,26,327,0
+335,kerala,ernakulam commr.,2013,40,9,0,169,23,130,0
+336,kerala,ernakulam rural,2013,67,11,2,238,41,177,0
+337,kerala,idukki,2013,67,3,0,218,12,146,0
+338,kerala,kannur,2013,60,12,0,191,11,341,0
+339,kerala,kasargod,2013,81,9,2,163,8,232,0
+340,kerala,kollam commr.,2013,64,16,1,198,17,304,0
+341,kerala,kollam rural,2013,92,12,2,273,14,254,0
+342,kerala,kottayam,2013,47,9,0,251,30,216,0
+343,kerala,kozhikode commr.,2013,30,9,0,110,44,136,0
+344,kerala,kozhikode rural,2013,64,17,0,208,15,292,0
+345,kerala,malappuram,2013,99,5,0,272,20,651,0
+346,kerala,palakkad,2013,93,12,0,161,19,402,0
+347,kerala,pathanamthitta,2013,45,4,1,187,1,113,0
+348,kerala,railways,2013,0,1,0,33,12,0,0
+349,kerala,thrissur commr.,2013,29,2,1,85,17,125,0
+350,kerala,thrissur rural,2013,64,9,3,258,27,387,0
+351,kerala,trivandrum commr.,2013,54,4,1,299,33,154,0
+352,kerala,trivandrum rural,2013,130,26,6,641,27,349,0
+353,kerala,wayanadu,2013,50,5,1,114,7,84,0
+355,madhya pradesh,agar,2013,24,8,1,41,1,30,0
+356,madhya pradesh,alirajpur,2013,29,14,0,14,0,19,0
+357,madhya pradesh,anuppur,2013,84,32,9,115,13,85,0
+358,madhya pradesh,ashok nagar,2013,64,23,8,141,6,40,0
+359,madhya pradesh,balaghat,2013,99,5,6,140,10,92,0
+360,madhya pradesh,barwani,2013,51,39,7,76,9,17,0
+361,madhya pradesh,betul,2013,119,66,7,222,18,92,0
+362,madhya pradesh,bhind,2013,57,49,28,117,0,53,0
+363,madhya pradesh,bhopal,2013,173,102,18,357,52,344,0
+364,madhya pradesh,bhopal rly.,2013,5,2,0,15,4,2,0
+365,madhya pradesh,burhanpur,2013,34,18,5,92,9,42,0
+366,madhya pradesh,chhatarpur,2013,77,38,24,220,0,81,0
+367,madhya pradesh,chhindwara,2013,151,187,9,194,39,145,0
+368,madhya pradesh,damoh,2013,50,20,25,147,0,59,0
+369,madhya pradesh,datiya,2013,27,20,16,64,0,40,0
+370,madhya pradesh,dewas,2013,81,16,8,124,14,101,0
+371,madhya pradesh,dhar,2013,108,169,48,211,18,115,0
+372,madhya pradesh,dindori,2013,76,20,6,120,8,47,0
+373,madhya pradesh,guna,2013,105,23,5,157,18,36,0
+374,madhya pradesh,gwalior,2013,158,53,43,369,47,446,0
+375,madhya pradesh,harda,2013,33,5,3,48,3,16,0
+376,madhya pradesh,hoshangabad,2013,79,76,10,152,17,84,0
+377,madhya pradesh,indore,2013,190,288,31,369,69,350,0
+378,madhya pradesh,indore rly.,2013,3,6,1,9,0,0,0
+379,madhya pradesh,jabalpur,2013,145,151,37,303,67,218,0
+380,madhya pradesh,jabalpur rly.,2013,1,1,1,13,1,1,0
+381,madhya pradesh,jhabua,2013,49,73,0,60,0,10,0
+382,madhya pradesh,katni,2013,65,61,13,206,8,60,0
+383,madhya pradesh,khandwa,2013,97,101,6,179,13,46,1
+384,madhya pradesh,khargon,2013,95,167,34,213,16,111,0
+385,madhya pradesh,mandla,2013,88,14,2,104,11,46,0
+386,madhya pradesh,mandsaur,2013,74,27,4,143,17,145,1
+387,madhya pradesh,morena,2013,60,42,40,116,5,151,0
+388,madhya pradesh,narsinghpur,2013,101,57,16,189,12,115,0
+389,madhya pradesh,neemuch,2013,49,41,0,84,10,62,3
+390,madhya pradesh,panna,2013,45,12,14,85,2,29,0
+391,madhya pradesh,raisen,2013,115,32,9,204,33,94,0
+392,madhya pradesh,rajgarh,2013,120,71,8,203,10,83,0
+393,madhya pradesh,ratlam,2013,88,49,10,89,5,77,2
+394,madhya pradesh,rewa,2013,113,30,47,178,3,127,0
+395,madhya pradesh,sagar,2013,135,55,36,422,40,130,0
+396,madhya pradesh,satna,2013,124,33,35,204,11,135,0
+397,madhya pradesh,seoni,2013,75,39,15,130,8,24,0
+398,madhya pradesh,shahdol,2013,115,96,9,216,9,193,0
+399,madhya pradesh,shajapur,2013,44,20,2,113,7,37,0
+400,madhya pradesh,sheopur,2013,32,6,5,45,3,39,0
+401,madhya pradesh,shivpuri,2013,106,30,14,211,13,78,0
+402,madhya pradesh,sidhi,2013,46,60,17,116,4,70,0
+403,madhya pradesh,sihore,2013,95,36,14,116,11,69,0
+404,madhya pradesh,singrauli,2013,38,78,18,111,2,74,0
+405,madhya pradesh,tikamgarh,2013,67,34,14,140,5,40,0
+406,madhya pradesh,ujjain,2013,113,35,13,232,37,207,0
+407,madhya pradesh,umariya,2013,38,35,5,73,7,58,0
+408,madhya pradesh,vidisha,2013,125,108,20,240,11,123,0
+410,maharashtra,ahmednagar,2013,105,54,10,243,34,397,0
+411,maharashtra,akola,2013,46,24,4,200,35,121,0
+412,maharashtra,amravati commr.,2013,26,22,2,96,27,38,0
+413,maharashtra,amravati rural,2013,78,45,1,317,35,175,0
+414,maharashtra,aurangabad commr.,2013,22,35,5,173,38,151,0
+415,maharashtra,aurangabad rural,2013,36,15,14,167,31,273,0
+416,maharashtra,beed,2013,92,52,5,230,12,382,0
+417,maharashtra,bhandara,2013,40,13,0,74,41,52,0
+418,maharashtra,buldhana,2013,56,15,20,185,66,140,0
+419,maharashtra,chandrapur,2013,88,25,8,179,123,180,0
+420,maharashtra,dhule,2013,40,25,6,58,9,228,0
+421,maharashtra,gadchiroli,2013,33,5,0,53,6,14,0
+422,maharashtra,gondia,2013,52,21,1,94,10,55,0
+423,maharashtra,hingoli,2013,15,12,4,55,2,86,0
+424,maharashtra,jalgaon,2013,58,53,2,238,42,425,0
+425,maharashtra,jalna,2013,35,29,50,132,6,351,0
+426,maharashtra,kolhapur,2013,84,43,14,117,37,204,0
+427,maharashtra,latur,2013,37,38,4,116,3,297,0
+428,maharashtra,mumbai commr.,2013,391,251,21,1163,444,602,0
+429,maharashtra,mumbai rly.,2013,6,5,0,41,5,0,0
+430,maharashtra,nagpur commr.,2013,91,80,4,209,52,218,0
+431,maharashtra,nagpur rly.,2013,2,2,0,15,3,1,0
+432,maharashtra,nagpur rural,2013,75,29,4,149,28,82,0
+433,maharashtra,nanded,2013,64,48,30,135,6,341,0
+434,maharashtra,nandurbar,2013,23,19,1,44,13,75,0
+435,maharashtra,nasik commr.,2013,20,16,7,96,9,181,0
+436,maharashtra,nasik rural,2013,85,36,9,224,21,405,0
+437,maharashtra,navi mumbai,2013,69,36,8,138,55,139,0
+438,maharashtra,osmanabad,2013,48,26,4,127,12,166,0
+439,maharashtra,parbhani,2013,40,37,4,132,6,271,0
+440,maharashtra,pune commr.,2013,171,125,9,304,128,344,0
+441,maharashtra,pune rly.,2013,3,2,0,6,1,0,0
+442,maharashtra,pune rural,2013,150,76,6,277,72,224,0
+443,maharashtra,raigad,2013,42,14,4,92,45,80,0
+444,maharashtra,ratnagiri,2013,27,8,0,82,26,39,0
+445,maharashtra,sangli,2013,77,33,8,141,15,141,0
+446,maharashtra,satara,2013,88,47,4,297,45,201,0
+447,maharashtra,sindhudurg,2013,11,5,0,50,12,12,0
+448,maharashtra,solapur commr.,2013,37,25,1,53,23,63,0
+449,maharashtra,solapur rural,2013,82,25,1,149,28,109,0
+450,maharashtra,thane commr.,2013,182,178,14,467,119,423,0
+451,maharashtra,thane rural,2013,133,52,8,246,100,217,0
+452,maharashtra,wardha,2013,73,47,1,227,35,116,0
+453,maharashtra,washim,2013,26,21,10,153,22,142,0
+454,maharashtra,yavatmal,2013,104,105,12,388,750,381,0
+456,manipur,bishnupur,2013,7,4,0,3,0,1,0
+457,manipur,chandel,2013,1,2,0,0,0,0,0
+458,manipur,churachandpur,2013,0,3,0,2,0,0,0
+459,manipur,cid,2013,0,0,0,0,0,0,0
+460,manipur,imphal east,2013,12,34,0,9,0,8,0
+461,manipur,imphal west,2013,26,42,0,34,0,9,0
+462,manipur,senapati,2013,0,3,0,0,0,1,0
+463,manipur,tamenglong,2013,0,2,0,1,0,0,0
+464,manipur,thoubal,2013,24,32,0,9,0,9,0
+465,manipur,ukhrul,2013,2,3,0,1,0,1,0
+467,meghalaya,garo hills east,2013,5,1,0,6,0,0,0
+468,meghalaya,garo hills north,2013,1,5,0,0,0,1,0
+469,meghalaya,garo hills south,2013,7,1,0,2,0,1,0
+470,meghalaya,garo hills south w.,2013,10,1,0,5,0,0,0
+471,meghalaya,garo hills west,2013,15,1,0,16,0,6,0
+472,meghalaya,jaintia hills east,2013,14,1,0,3,0,0,0
+473,meghalaya,jaintia hills west,2013,24,0,0,10,0,2,0
+474,meghalaya,khasi hills east,2013,55,11,2,32,0,11,0
+475,meghalaya,khasi hills south w.,2013,11,2,0,2,0,2,0
+476,meghalaya,khasi hills west,2013,12,4,0,14,0,0,0
+477,meghalaya,ri-bhoi,2013,29,6,0,8,0,0,0
+479,mizoram,aizawl,2013,37,1,0,37,0,5,0
+480,mizoram,champhai,2013,12,0,0,5,0,0,0
+481,mizoram,kolasib,2013,9,1,0,7,0,0,0
+482,mizoram,lawngtlai,2013,3,0,0,6,0,0,0
+483,mizoram,lunglei,2013,15,0,0,13,0,0,0
+484,mizoram,mamit,2013,5,0,0,5,0,0,0
+485,mizoram,saiha,2013,4,0,0,1,0,0,0
+486,mizoram,serchhip,2013,4,0,0,7,0,0,0
+487,mizoram,spl narcotic,2013,0,0,0,0,0,0,0
+488,mizoram,traffic ps,2013,0,0,0,0,0,0,0
+490,nagaland,dimapur,2013,14,10,1,18,1,4,0
+491,nagaland,kiphire,2013,2,0,0,0,0,0,0
+492,nagaland,kohima,2013,5,0,0,0,0,0,0
+493,nagaland,longleng,2013,0,0,0,0,0,0,0
+494,nagaland,mokokchung,2013,3,0,0,0,0,0,0
+495,nagaland,mon,2013,1,1,0,0,0,0,0
+496,nagaland,peren,2013,1,0,0,0,0,0,0
+497,nagaland,phek,2013,4,0,0,0,0,0,0
+498,nagaland,tuensang,2013,1,0,0,0,0,0,0
+499,nagaland,wokha,2013,0,0,0,0,0,0,0
+500,nagaland,zunheboto,2013,0,0,0,0,0,0,0
+502,odisha,angul,2013,64,113,0,288,7,68,0
+503,odisha,balasore,2013,94,154,49,251,30,396,0
+504,odisha,baragarh,2013,49,42,4,149,14,79,0
+505,odisha,berhampur,2013,33,60,1,183,27,71,0
+506,odisha,bhadrak,2013,69,100,12,136,19,202,0
+507,odisha,bolangir,2013,44,44,11,101,8,42,0
+508,odisha,boudh,2013,49,37,1,107,8,31,0
+509,odisha,cuttack,2013,44,57,29,12,1,28,0
+510,odisha,dcp bbsr,2013,51,91,18,92,26,58,0
+511,odisha,dcp ctc,2013,30,76,2,27,6,183,0
+512,odisha,deogarh,2013,19,7,1,40,1,18,0
+513,odisha,dhenkanal,2013,37,54,17,376,44,54,0
+514,odisha,gajapati,2013,19,8,4,80,6,10,0
+515,odisha,ganjam,2013,80,50,20,407,39,40,0
+516,odisha,jagatsinghpur,2013,40,66,30,177,7,113,0
+517,odisha,jajpur,2013,76,97,35,171,20,169,0
+518,odisha,jharsuguda,2013,21,20,6,88,5,54,0
+519,odisha,kalahandi,2013,55,54,9,157,21,116,0
+520,odisha,kandhamal,2013,43,45,4,101,6,37,0
+521,odisha,kendrapara,2013,53,98,0,26,4,41,0
+522,odisha,keonjhar,2013,115,83,29,244,20,194,0
+523,odisha,khurda,2013,33,56,17,105,8,127,0
+524,odisha,koraput,2013,77,52,5,112,8,63,0
+525,odisha,malkangir,2013,15,16,2,39,6,14,0
+526,odisha,mayurbhanj,2013,142,117,19,343,13,102,0
+527,odisha,nayagarh,2013,30,46,13,13,2,23,0
+528,odisha,nowrangpur,2013,67,70,0,111,13,68,0
+529,odisha,nuapada,2013,24,40,7,120,14,23,0
+530,odisha,puri,2013,58,78,24,56,5,181,0
+531,odisha,rayagada,2013,78,82,3,136,10,48,0
+532,odisha,rourkela,2013,71,59,5,134,17,32,0
+533,odisha,sambalpur,2013,81,46,9,63,7,37,0
+534,odisha,sonepur,2013,17,12,1,67,1,44,0
+535,odisha,srp(cuttack),2013,0,0,0,3,0,1,0
+536,odisha,srp(rourkela),2013,1,5,0,15,0,0,0
+537,odisha,sundargarh,2013,53,32,8,88,3,25,0
+539,punjab,amritsar rural,2013,34,45,3,60,1,50,0
+540,punjab,barnala,2013,17,37,2,11,0,17,0
+541,punjab,batala,2013,31,29,1,26,0,35,0
+542,punjab,bhatinda,2013,52,48,4,57,2,89,0
+543,punjab,cp amritsar,2013,29,53,4,53,4,101,0
+544,punjab,cp jalandhar,2013,41,59,11,78,14,162,0
+545,punjab,cp ludhiana,2013,109,110,13,81,21,140,0
+546,punjab,faridkot,2013,20,17,3,29,0,21,0
+547,punjab,fatehgarh sahib,2013,17,20,1,13,0,47,0
+548,punjab,fazilka,2013,34,32,4,14,4,33,0
+549,punjab,ferozpur,2013,17,28,3,8,0,48,0
+550,punjab,g.r.p,2013,2,2,0,5,0,0,0
+551,punjab,gurdaspur,2013,23,36,3,41,1,44,0
+552,punjab,hoshiarpur,2013,36,28,5,54,0,154,0
+553,punjab,jalandhar rural,2013,39,21,5,51,5,71,0
+554,punjab,kapurthala,2013,30,39,7,40,0,62,0
+555,punjab,khanna,2013,16,17,2,29,6,24,0
+556,punjab,ludhiana rural,2013,17,38,2,18,1,20,0
+557,punjab,mansa,2013,18,9,1,16,2,23,0
+558,punjab,moga,2013,29,35,5,22,0,24,0
+559,punjab,muktsar,2013,18,42,3,20,1,39,0
+560,punjab,pathankot,2013,11,15,0,10,0,32,0
+561,punjab,patiala,2013,56,56,11,84,2,159,0
+562,punjab,ropar,2013,30,42,4,29,0,27,0
+563,punjab,sangrur,2013,56,39,11,48,2,63,0
+564,punjab,sas ngr,2013,51,51,10,92,0,191,0
+565,punjab,sbs nagar,2013,21,8,1,13,1,31,0
+566,punjab,tarn taran,2013,34,31,7,43,0,34,0
+568,rajasthan,ajmer,2013,100,155,16,166,1,863,0
+569,rajasthan,alwar,2013,316,253,42,288,0,707,0
+570,rajasthan,banswara,2013,117,105,13,108,0,205,0
+571,rajasthan,baran,2013,66,102,1,208,0,289,0
+572,rajasthan,barmer,2013,55,25,21,190,0,274,0
+573,rajasthan,bharatpur,2013,164,201,34,156,0,574,0
+574,rajasthan,bhilwara,2013,101,107,8,135,0,652,0
+575,rajasthan,bikaner,2013,100,71,18,63,0,516,0
+576,rajasthan,bundi,2013,63,98,2,117,0,326,0
+577,rajasthan,chittorgarh,2013,93,150,4,142,0,782,1
+578,rajasthan,churu,2013,73,54,10,15,0,420,0
+579,rajasthan,dausa,2013,41,103,11,163,0,221,0
+580,rajasthan,dholpur,2013,56,72,40,28,0,196,0
+581,rajasthan,discom,2013,0,0,0,0,0,0,0
+582,rajasthan,dungarpur,2013,86,104,6,99,0,175,0
+583,rajasthan,g.r.p.ajmer,2013,1,5,1,10,1,0,0
+584,rajasthan,g.r.p.jodhpur,2013,0,0,0,3,0,0,0
+585,rajasthan,ganganagar,2013,151,139,20,127,3,957,0
+586,rajasthan,hanumangarh,2013,105,92,15,121,1,599,0
+587,rajasthan,jaipur east,2013,49,94,5,107,0,267,0
+588,rajasthan,jaipur north,2013,37,86,4,68,0,300,0
+589,rajasthan,jaipur rural,2013,68,99,8,120,0,269,0
+590,rajasthan,jaipur south,2013,42,71,7,39,0,214,0
+591,rajasthan,jaipur west,2013,64,128,5,69,0,329,0
+592,rajasthan,jaisalmer,2013,17,9,4,88,0,37,0
+593,rajasthan,jalore,2013,44,38,12,72,0,180,0
+594,rajasthan,jhalawar,2013,117,113,5,307,5,478,0
+595,rajasthan,jhunjhunu,2013,72,72,12,40,0,405,0
+596,rajasthan,jodhpur east,2013,20,49,1,51,0,205,0
+597,rajasthan,jodhpur rural,2013,50,49,11,88,0,166,0
+598,rajasthan,jodhpur west,2013,50,55,6,90,0,168,0
+599,rajasthan,karauli,2013,48,77,13,79,0,179,0
+600,rajasthan,kota city,2013,86,154,6,101,5,512,0
+601,rajasthan,kota rural,2013,45,65,0,166,0,247,0
+602,rajasthan,nagaur,2013,97,106,20,110,0,500,0
+603,rajasthan,pali,2013,92,138,16,222,0,512,0
+604,rajasthan,pratapgarh,2013,200,138,6,171,0,333,0
+605,rajasthan,rajsamand,2013,40,67,9,72,1,271,0
+606,rajasthan,sawai madhopur,2013,39,68,5,60,0,206,0
+607,rajasthan,sikar,2013,73,133,13,50,0,397,0
+608,rajasthan,sirohi,2013,47,61,8,109,0,213,0
+609,rajasthan,tonk,2013,33,76,5,75,8,352,0
+610,rajasthan,udaipur,2013,167,265,10,336,0,598,0
+612,sikkim,east,2013,22,9,0,16,0,3,0
+613,sikkim,north,2013,1,0,0,0,0,0,0
+614,sikkim,south,2013,15,5,0,8,0,1,0
+615,sikkim,west,2013,5,2,0,5,0,1,0
+617,tamil nadu,ariyalur,2013,10,18,3,23,0,8,0
+618,tamil nadu,chennai,2013,83,42,12,55,155,221,0
+619,tamil nadu,chennai rly.,2013,0,0,0,5,0,1,0
+620,tamil nadu,coimbatore rural,2013,11,17,1,41,7,49,0
+621,tamil nadu,coimbatore urban,2013,17,3,1,15,4,48,0
+622,tamil nadu,cuddalore,2013,36,48,6,8,0,66,0
+623,tamil nadu,dharmapuri,2013,23,151,2,48,1,65,0
+624,tamil nadu,dindigul,2013,13,95,1,46,0,95,0
+625,tamil nadu,erode,2013,14,26,0,25,0,21,0
+626,tamil nadu,kanchipuram,2013,24,9,3,15,0,18,0
+627,tamil nadu,kanyakumari,2013,12,30,1,5,0,118,0
+628,tamil nadu,karur,2013,7,17,0,9,1,11,0
+629,tamil nadu,krishnagiri,2013,8,66,12,48,2,47,0
+630,tamil nadu,madurai rural,2013,33,96,4,73,17,263,0
+631,tamil nadu,madurai urban,2013,16,20,3,23,2,91,0
+632,tamil nadu,nagapattinam,2013,9,21,3,30,23,9,0
+633,tamil nadu,namakkal,2013,23,38,0,57,11,15,0
+634,tamil nadu,nilgiris,2013,15,9,0,18,1,1,0
+635,tamil nadu,perambalur,2013,8,4,0,13,1,5,0
+636,tamil nadu,pudukottai,2013,10,49,3,29,0,39,0
+637,tamil nadu,ramnathapuram,2013,9,23,2,24,2,20,0
+638,tamil nadu,salem rural,2013,26,62,5,62,0,47,0
+639,tamil nadu,salem urban,2013,16,17,1,10,9,49,0
+640,tamil nadu,sivagangai,2013,16,26,4,35,0,87,0
+641,tamil nadu,thanjavur,2013,31,39,0,68,4,46,0
+642,tamil nadu,theni,2013,25,34,5,41,0,62,0
+643,tamil nadu,thirunelveli rural,2013,74,112,6,82,0,486,0
+644,tamil nadu,thirunelveli urban,2013,12,6,0,4,0,18,0
+645,tamil nadu,thiruvallur,2013,21,23,9,11,0,19,0
+646,tamil nadu,thiruvannamalai,2013,50,44,2,31,2,34,0
+647,tamil nadu,thiruvarur,2013,15,17,1,5,0,15,0
+648,tamil nadu,thoothugudi,2013,52,24,2,35,1,64,0
+649,tamil nadu,tiruppur,2013,20,39,8,40,7,91,0
+650,tamil nadu,trichy rly.,2013,0,0,0,3,0,0,0
+651,tamil nadu,trichy rural,2013,23,24,3,40,0,49,0
+652,tamil nadu,trichy urban,2013,10,5,0,18,6,25,0
+653,tamil nadu,vellore,2013,51,82,8,33,57,40,0
+654,tamil nadu,villupuram,2013,67,155,4,127,0,80,0
+655,tamil nadu,virudhunagar,2013,33,25,3,16,0,48,0
+657,tripura,dhalai,2013,17,12,1,38,0,51,0
+658,tripura,gomati,2013,31,28,6,45,2,164,0
+659,tripura,grp,2013,0,0,0,0,0,0,0
+660,tripura,khowai,2013,23,3,4,43,1,42,0
+661,tripura,north,2013,20,9,4,51,0,113,0
+662,tripura,sipahijala,2013,27,13,1,73,0,118,0
+663,tripura,south,2013,32,14,5,38,0,93,0
+664,tripura,unakoti,2013,37,16,5,18,1,51,0
+665,tripura,west,2013,46,29,3,101,3,195,0
+667,uttar pradesh,agra,2013,78,335,98,239,0,399,0
+668,uttar pradesh,aligarh,2013,99,346,73,300,0,455,0
+669,uttar pradesh,allahabad,2013,102,239,66,215,0,322,0
+670,uttar pradesh,ambedkar nagar,2013,15,55,17,16,0,4,0
+671,uttar pradesh,amethi,2013,38,110,16,83,0,35,0
+672,uttar pradesh,amroha,2013,23,92,16,57,0,171,0
+673,uttar pradesh,auraiya,2013,16,70,28,38,0,68,0
+674,uttar pradesh,azamgarh,2013,39,135,36,20,0,155,0
+675,uttar pradesh,badaun,2013,54,128,58,102,0,58,0
+676,uttar pradesh,baghpat,2013,25,72,12,56,0,106,0
+677,uttar pradesh,bahraich,2013,35,140,42,44,0,1,0
+678,uttar pradesh,ballia,2013,18,123,24,107,0,4,0
+679,uttar pradesh,balrampur,2013,23,65,7,24,0,8,0
+680,uttar pradesh,banda,2013,47,113,32,151,0,129,0
+681,uttar pradesh,barabanki,2013,39,78,26,39,0,98,0
+682,uttar pradesh,bareilly,2013,84,291,58,198,0,257,0
+683,uttar pradesh,basti,2013,24,80,11,53,0,44,0
+684,uttar pradesh,bijnor,2013,71,149,31,178,1,6,0
+685,uttar pradesh,bulandshahar,2013,97,255,52,197,2,162,0
+686,uttar pradesh,chandoli,2013,20,46,16,68,1,0,0
+687,uttar pradesh,chitrakoot dham,2013,23,22,14,35,0,7,0
+688,uttar pradesh,deoria,2013,44,145,37,87,0,27,0
+689,uttar pradesh,etah,2013,34,101,32,122,1,99,0
+690,uttar pradesh,etawah,2013,23,74,30,30,0,62,0
+691,uttar pradesh,faizabad,2013,35,135,11,79,1,7,0
+692,uttar pradesh,fatehgarh,2013,25,95,34,30,0,38,0
+693,uttar pradesh,fatehpur,2013,42,112,39,87,0,80,0
+694,uttar pradesh,firozabad,2013,39,187,66,112,0,165,0
+695,uttar pradesh,g.r.p.,2013,3,28,3,84,0,1,0
+696,uttar pradesh,gautambudh nagar,2013,39,150,31,136,6,164,0
+697,uttar pradesh,ghaziabad,2013,84,289,44,233,0,491,0
+698,uttar pradesh,ghazipur,2013,22,93,27,59,1,76,0
+699,uttar pradesh,gonda,2013,24,149,32,62,0,4,0
+700,uttar pradesh,gorakhpur,2013,87,282,39,111,0,95,0
+701,uttar pradesh,hamirpur,2013,50,68,15,117,5,0,0
+702,uttar pradesh,hapur,2013,35,71,21,75,0,52,0
+703,uttar pradesh,hardoi,2013,28,130,24,131,0,122,0
+704,uttar pradesh,hathras,2013,37,86,21,73,0,76,0
+705,uttar pradesh,jalaun,2013,7,52,22,52,0,33,0
+706,uttar pradesh,jaunpur,2013,53,131,60,75,0,77,0
+707,uttar pradesh,jhansi,2013,40,74,24,72,1,65,0
+708,uttar pradesh,kannauj,2013,16,84,26,40,0,59,0
+709,uttar pradesh,kanpur dehat,2013,29,74,32,45,0,67,0
+710,uttar pradesh,kanpur nagar,2013,41,248,56,110,0,239,0
+711,uttar pradesh,kasganj,2013,17,89,24,43,0,27,0
+712,uttar pradesh,kaushambi,2013,27,56,22,108,0,67,0
+713,uttar pradesh,khiri,2013,49,189,57,85,0,152,0
+714,uttar pradesh,kushi nagar,2013,33,143,29,66,0,48,0
+715,uttar pradesh,lalitpur,2013,10,26,11,50,0,18,0
+716,uttar pradesh,lucknow,2013,76,375,60,360,1,920,0
+717,uttar pradesh,maharajganj,2013,28,116,23,40,0,58,0
+718,uttar pradesh,mahoba,2013,30,45,16,61,0,26,0
+719,uttar pradesh,mainpuri,2013,20,142,38,92,0,94,0
+720,uttar pradesh,mathura,2013,59,138,32,99,0,196,0
+721,uttar pradesh,mau,2013,26,94,11,53,1,94,0
+722,uttar pradesh,meerut,2013,109,282,42,277,0,209,0
+723,uttar pradesh,mirzapur,2013,5,8,19,5,0,30,0
+724,uttar pradesh,moradabad,2013,69,173,27,156,1,299,0
+725,uttar pradesh,muzaffarnagar,2013,49,214,25,125,0,270,0
+726,uttar pradesh,pilibhit,2013,30,91,35,67,0,125,0
+727,uttar pradesh,pratapgarh,2013,66,157,30,151,0,39,0
+728,uttar pradesh,raibareilly,2013,43,104,23,66,0,72,0
+729,uttar pradesh,rampur,2013,26,93,19,46,0,119,0
+730,uttar pradesh,saharanpur,2013,34,137,34,90,0,198,0
+731,uttar pradesh,sambhal,2013,42,112,30,94,0,88,0
+732,uttar pradesh,sant kabirnagar,2013,23,60,5,17,0,8,0
+733,uttar pradesh,shahjahanpur,2013,36,116,43,104,0,142,0
+734,uttar pradesh,shamli,2013,34,87,11,66,0,52,0
+735,uttar pradesh,shrawasti,2013,21,50,18,53,0,0,0
+736,uttar pradesh,sidharthnagar,2013,17,59,8,26,0,33,0
+737,uttar pradesh,sitapur,2013,95,256,63,211,0,130,0
+738,uttar pradesh,sonbhadra,2013,32,17,13,22,0,12,0
+739,uttar pradesh,st.ravidasnagar,2013,10,18,13,15,0,19,0
+740,uttar pradesh,sultanpur,2013,29,107,15,87,0,111,0
+741,uttar pradesh,unnao,2013,41,173,44,119,0,190,0
+742,uttar pradesh,varanasi,2013,57,208,36,207,3,347,0
+744,uttarakhand,almora,2013,8,18,2,7,3,9,0
+745,uttarakhand,bageshwar,2013,2,4,1,3,1,2,0
+746,uttarakhand,chamoli,2013,8,35,0,7,0,2,0
+747,uttarakhand,champawat,2013,0,15,1,5,0,1,0
+748,uttarakhand,dehradun,2013,41,148,9,62,27,159,0
+749,uttarakhand,haridwar,2013,75,192,5,76,17,101,0
+750,uttarakhand,nainital,2013,20,55,5,33,11,31,0
+751,uttarakhand,pauri garhwal,2013,3,25,2,11,7,6,0
+752,uttarakhand,pithoragarh,2013,7,19,2,4,2,5,0
+753,uttarakhand,rudra prayag,2013,5,10,4,1,3,3,0
+754,uttarakhand,tehri garhwal,2013,5,14,0,2,0,0,0
+755,uttarakhand,udhamsingh nagar,2013,48,87,12,82,0,116,0
+756,uttarakhand,uttarkashi,2013,6,11,0,2,1,0,0
+758,west bengal,24 parganas north,2013,115,258,35,307,8,1716,0
+759,west bengal,24 parganas south,2013,189,397,49,212,2,1978,0
+760,west bengal,asansol,2013,31,87,15,73,1,467,0
+761,west bengal,bankura,2013,24,36,19,76,0,278,0
+762,west bengal,bdn cp,2013,17,43,6,77,6,229,0
+763,west bengal,birbhum,2013,41,45,12,99,0,245,0
+764,west bengal,bkp cp,2013,41,132,21,197,7,705,0
+765,west bengal,burdwan,2013,41,107,25,123,0,378,0
+766,west bengal,coochbehar,2013,110,141,15,240,1,631,0
+767,west bengal,dakshin dinajpur,2013,35,100,32,69,0,345,0
+768,west bengal,darjeeling,2013,30,35,0,54,2,158,0
+769,west bengal,hooghly,2013,54,163,19,143,11,922,0
+770,west bengal,howrah,2013,23,92,10,131,4,682,0
+771,west bengal,howrah city,2013,22,141,3,215,48,609,0
+772,west bengal,howrah g.r.p.,2013,1,6,2,9,2,1,0
+773,west bengal,jalpaiguri,2013,121,263,12,305,2,779,0
+774,west bengal,jhargram,2013,10,17,6,42,2,62,0
+775,west bengal,kharagpur g.r.p.,2013,2,1,0,10,0,0,0
+776,west bengal,kolkata,2013,75,145,15,707,412,1005,9
+777,west bengal,malda,2013,140,182,14,177,0,597,0
+778,west bengal,murshidabad,2013,215,341,35,407,7,1939,0
+779,west bengal,nadia,2013,87,346,69,213,13,1666,0
+780,west bengal,paschim midnapur,2013,46,155,25,327,17,549,0
+781,west bengal,purab midnapur,2013,53,199,24,126,2,606,0
+782,west bengal,purulia,2013,54,49,8,78,0,158,0
+783,west bengal,sealdah g.r.p.,2013,2,10,0,45,1,2,0
+784,west bengal,siliguri g.r.p.,2013,0,1,0,11,2,0,0
+785,west bengal,siliguri_pc,2013,35,115,5,206,24,616,0
+786,west bengal,uttar dinajpur,2013,71,223,5,234,3,793,0
+788,a&n islands,car,2013,1,0,0,2,2,0,0
+789,a&n islands,north,2013,5,5,0,10,1,5,0
+790,a&n islands,south,2013,21,7,1,33,5,4,0
+792,chandigarh,chandigarh,2013,45,174,1,143,26,92,0
+794,d&n haveli,d&n haveli,2013,5,11,0,1,1,1,0
+796,daman & diu,daman,2013,7,4,0,2,0,2,0
+797,daman & diu,diu,2013,1,2,0,0,0,0,0
+799,delhi,caw,2013,0,0,0,1,0,202,0
+800,delhi,central,2013,71,113,2,174,28,50,0
+801,delhi,crime branch,2013,4,0,0,0,0,0,0
+802,delhi,east,2013,210,428,11,364,133,246,0
+803,delhi,eow,2013,0,0,0,0,0,0,0
+804,delhi,grp(rly),2013,4,5,0,11,1,0,0
+805,delhi,igi airport,2013,0,1,0,9,5,0,0
+806,delhi,metro rail,2013,0,4,1,16,12,2,0
+807,delhi,new delhi,2013,19,35,1,66,25,17,0
+808,delhi,north,2013,53,151,9,164,25,107,0
+809,delhi,north-east,2013,183,513,27,333,30,438,0
+810,delhi,north-west,2013,143,343,17,301,45,236,0
+811,delhi,outer,2013,178,530,14,332,155,466,0
+812,delhi,south,2013,163,328,10,539,140,117,0
+813,delhi,south-east,2013,230,404,16,386,95,220,0
+814,delhi,south-west,2013,194,330,14,419,128,403,0
+815,delhi,stf,2013,0,0,0,0,0,0,0
+816,delhi,west,2013,184,424,22,400,94,529,0
+818,lakshadweep,lakshadweep,2013,2,0,0,1,0,0,0
+820,puducherry,karaikal,2013,6,2,1,1,1,1,0
+821,puducherry,puducherry,2013,11,23,0,11,7,7,0
